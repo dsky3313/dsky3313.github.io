@@ -6,8 +6,8 @@ toc_sticky: true # 목차가 옆에 따라올지
 date: 2025-08-01
 last_modified_at: # 2021-10-09
 
-title: "제목란"
-excerpt: "본문 주요 내용"
+title: "Weakauras 테스트"
+excerpt: "Weakauras 카테고리 포스팅 테스트"
 
 categories: # 카테고리 설정
   - Weakauras
