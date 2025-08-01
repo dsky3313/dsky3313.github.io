@@ -12,7 +12,7 @@ main:
 
 # sidebar navigation (categories)
 categories:
-  - title: "Plater"
-    url: /categories/plater/
-  - title: "Weakauras"
-    url: /categories/weakauras/
+  - title: "Categories1"
+    url: /categories/categories1/
+  - title: "Categories2"
+    url: /categories/categories2/
