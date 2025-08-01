@@ -10,7 +10,7 @@ title: "제목란"
 excerpt: "본문 주요 내용"
 
 categories: # 카테고리 설정
-  - cpp
+  - Weakauras
 # tags:
 #   - [tag1, tag2]
 
