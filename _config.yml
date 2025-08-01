@@ -113,7 +113,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "hodododo"
+  name             : # "hodododo"
   avatar           : "https://yt3.googleusercontent.com/8nw8D7W69zhWa2neBtwhH818s0H-lUhop_dxFulMAi5xMZKhB4k3M98LA4j-pgjJ_7SbYjn4=s160-c-k-c0x00ffffff-no-rj" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : # "I am an **amazing** person."
   location         : # "Somewhere"
