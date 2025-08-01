@@ -1,5 +1,5 @@
 ---
-title: "C++ 프로그래밍"
+title: "Weakauras"
 layout: archive
 permalink: categories/weakauras
 author_profile: true
