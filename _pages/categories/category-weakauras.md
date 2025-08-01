@@ -3,7 +3,8 @@ title: "Weakauras"
 layout: archive
 permalink: categories/weakauras
 author_profile: true
-sidebar_main: true
+sidebar:
+    nav: "sidebar-category"
 ---
 
 
