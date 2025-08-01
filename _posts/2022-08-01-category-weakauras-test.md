@@ -1,0 +1,32 @@
+---
+search: true
+toc: true # 목차 사용할지
+toc_sticky: true # 목차가 옆에 따라올지
+
+last_modified_at: 2021-10-09
+
+title: "제목란"
+excerpt: "본문 주요 내용"
+
+categories:
+  - Weakauras
+# tags:
+#   - [tag1, tag2]
+
+# permalink: /plater/테스트/
+
+toc_label: 포스팅 목차 # 목차 제목
+---
+
+## 🦥 본문
+
+본문은 여기에 ...
+
+
+## 코드
+```  
+여기에 코드 복붙  1231231231231235345656y
+```  
+
+## 링크
+[링크](https://community.algolia.com/jekyll-algolia/options.html)
