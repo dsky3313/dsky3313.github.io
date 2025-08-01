@@ -12,8 +12,8 @@ main:
 
 # sidebar navigation (categories)
 sidebar-category:
-  - title: "C+ 프로그래밍"
-    url: categories/cp
+  - title: "Plater"
+    url: categories/plater
 
   - title: "C++ 프로그래밍"
     url: categories/cpp

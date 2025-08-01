@@ -3,13 +3,14 @@ search: true
 toc: true # 목차 사용할지
 toc_sticky: true # 목차가 옆에 따라올지
 
-last_modified_at: 2021-10-09
+date: # 2020-05-21 # 날짜 따로 지정 안할 시, 자동으로 기입됨
+last_modified_at: # 2021-10-09
 
-title: "제목란"
-excerpt: "본문 주요 내용"
+title: "Plater 테스트"
+excerpt: "Plater 카테고리 포스팅 테스트"
 
 categories: # 카테고리 설정
-  - cpp
+  - Plater
 # tags:
 #   - [tag1, tag2]
 

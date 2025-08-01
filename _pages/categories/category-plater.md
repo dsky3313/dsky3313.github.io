@@ -1,7 +1,7 @@
 ---
-title: "C+ 프로그래밍"
+title: "Plater"
 layout: archive
-permalink: categories/cp
+permalink: categories/plater
 author_profile: true
 sidebar_main: true
 ---
