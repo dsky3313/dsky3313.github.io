@@ -11,8 +11,9 @@ main:
 
 
 # sidebar navigation (categories)
-categories:
-  - title: "Categories1"
-    url: /categories/categories1/
-  - title: "Categories2"
-    url: /categories/categories2/
+sidebar-category:
+  - title: "C+ 프로그래밍"
+    url: categories/cp
+
+  - title: "C++ 프로그래밍"
+    url: categories/cpp
