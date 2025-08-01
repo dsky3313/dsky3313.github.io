@@ -12,6 +12,9 @@ main:
 
 # sidebar navigation (categories)
 sidebar-category:
+  - title: "WOW"
+    url: categories/wow
+
   - title: "Plater"
     url: categories/plater
 
