@@ -1,7 +1,7 @@
 ---
 title: "WOWINFO"
 layout: archive
-permalink: categories/wowinfo
+permalink: /wowinfo
 author_profile: true
 sidebar:
     nav: "sidebar-category"

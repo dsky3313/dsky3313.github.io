@@ -15,13 +15,13 @@ sidebar-category:
   - title: "WOW"
     children:
       - title: "Plater"
-        url: "categories/plater"
+        url: "/plater"
 
       - title: "Weakauras"
-        url: "categories/weakauras"
+        url: "/weakauras"
 
       - title: "WOWINFO"
-        url: "categories/wowinfo"
+        url: "/wowinfo"
 
   - title: "TIL"
-    url: categories/til
+    url: /til

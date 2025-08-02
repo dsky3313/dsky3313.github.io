@@ -1,7 +1,7 @@
 ---
 title: "Plater"
 layout: archive
-permalink: categories/plater
+permalink: /plater
 author_profile: true
 sidebar:
     nav: "sidebar-category"

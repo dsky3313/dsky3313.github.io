@@ -1,7 +1,7 @@
 ---
 title: "Weakauras"
 layout: archive
-permalink: categories/weakauras
+permalink: /weakauras
 author_profile: true
 sidebar:
     nav: "sidebar-category"
