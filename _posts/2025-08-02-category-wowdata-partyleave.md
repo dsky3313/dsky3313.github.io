@@ -6,8 +6,8 @@ toc_sticky: true # 목차가 옆에 따라올지
 date: 2025-08-02
 last_modified_at: # 2021-10-09 수정날짜
 
-title: "WOW 내부전쟁 파티탈퇴 매크로"
-excerpt: "WOW 내부전쟁 파티탈퇴 매크로"
+title: "와우 내부전쟁 파티탈퇴 매크로"
+excerpt: "와우 내부전쟁 파티탈퇴 매크로"
 
 categories: # 카테고리 설정
   - WOW Data
@@ -19,7 +19,7 @@ categories: # 카테고리 설정
 # toc_label: 포스팅 목차 # 목차 제목
 ---
 
-## WOW 내부전쟁 파티탈퇴 매크로
+## 와우 내부전쟁 파티탈퇴 매크로
 
 ![이미지 설명](/assets/img/wow/wowdata/partyleave/1.webp)
 
@@ -37,7 +37,7 @@ categories: # 카테고리 설정
 
 ![이미지 설명](/assets/img/wow/wowdata/partyleave/2.webp)
 
-매크로 실행 시, '일리단' 이라는 플레이어를 파티에 초대하고 플레이어는 파티탈퇴를 실행합니다.
+매크로 실행 시, `일리단` 이라는 플레이어를 파티에 초대하고 플레이어는 파티탈퇴를 실행합니다.
 
 ![이미지 설명](/assets/img/wow/wowdata/partyleave/3.webp)
 
