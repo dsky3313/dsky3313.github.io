@@ -14,7 +14,7 @@ categories: # 카테고리 설정
 # tags:
 #   - [tag1, tag2]
 
-permalink: /wowdata/riding-macro
+permalink: /wow-data/riding-macro
 
 # toc_label: 포스팅 목차 # 목차 제목
 ---
