@@ -17,8 +17,11 @@ sidebar-category:
       - title: "Plater"
         url: "categories/plater"
 
-  - title: "Weakauras"
-    url: categories/weakauras
+      - title: "Weakauras"
+        url: "categories/weakauras"
+
+      - title: "WOW DATA"
+        url: "categories/wow-data"
 
   - title: "TIL"
     url: categories/til
