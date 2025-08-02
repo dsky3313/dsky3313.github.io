@@ -14,7 +14,7 @@ main:
 sidebar-category:
   - title: "WOW"
     children:
-      - title: "Plater"
+      - title: "Plater" # 사이드바 카테고리 이름
         url: "/plater"
 
       - title: "Weakauras"
