@@ -478,9 +478,9 @@
   }
 }
 
-.nav__title {
+.nav__title { /* 블로그 타이틀 */
   margin: 0;
-  padding: 0.5rem 0.75rem;
+  padding: 1em; /* 0.5rem 0.75rem; */
   font-family: $sans-serif-narrow;
   font-size: $type-size-5;
   font-weight: bold;
