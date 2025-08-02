@@ -1,5 +1,5 @@
 ---
-title: "WOW DATA"
+title: "WOW Data"
 layout: archive
 permalink: categories/wow-data
 author_profile: true
@@ -8,5 +8,5 @@ sidebar:
 ---
 
 
-{% assign posts = site.categories.WOW DATA %}
+{% assign posts = site.categories.WOW Data %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
