@@ -1,5 +1,5 @@
 ---
-title: "WOWINFO"
+title: "WOWINFOi"
 layout: archive
 permalink: /wowinfo
 author_profile: true
