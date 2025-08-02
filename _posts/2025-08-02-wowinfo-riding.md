@@ -10,7 +10,7 @@ title: "와우 내부전쟁 탈것 매크로"
 excerpt: "와우 내부전쟁 탈것 매크로"
 
 categories: # 카테고리 설정
-  - WOW-INFO
+  - WOWINFO
 # tags:
 #   - [tag1, tag2]
 

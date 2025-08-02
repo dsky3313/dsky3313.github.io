@@ -1,12 +1,12 @@
 ---
-title: "WOW Data"
+title: "WOWINFO"
 layout: archive
-permalink: categories/wow-info
+permalink: categories/wowinfo
 author_profile: true
 sidebar:
     nav: "sidebar-category"
 ---
 
 
-{% assign posts = site.categories.wow-info %}
+{% assign posts = site.categories.wowinfo %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}

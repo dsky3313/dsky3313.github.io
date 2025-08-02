@@ -20,8 +20,8 @@ sidebar-category:
       - title: "Weakauras"
         url: "categories/weakauras"
 
-      - title: "WOW-INFO"
-        url: "categories/wow-info"
+      - title: "WOWINFO"
+        url: "categories/wowinfo"
 
   - title: "TIL"
     url: categories/til
