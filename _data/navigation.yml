@@ -13,10 +13,12 @@ main:
 # sidebar navigation (categories)
 sidebar-category:
   - title: "WOW"
-    url: categories/wow
-
-  - title: "Plater"
-    url: categories/plater
+    children:
+      - title: "Plater"
+        url: "categories/plater"
 
   - title: "Weakauras"
     url: categories/weakauras
+
+  - title: "TIL"
+    url: categories/til
