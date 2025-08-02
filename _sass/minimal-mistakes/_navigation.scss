@@ -478,9 +478,9 @@
   }
 }
 
-.nav__title { /* 블로그 타이틀 */
+.nav__title {
   margin: 0;
-  padding: 1em; /* 0.5rem 0.75rem; */
+  padding: 0.5rem 0.75rem;
   font-family: $sans-serif-narrow;
   font-size: $type-size-5;
   font-weight: bold;
@@ -510,9 +510,9 @@
   -webkit-box-shadow: $box-shadow;
   box-shadow: $box-shadow;
 
-  .nav__title {
+  .nav__title {  /* 블로그 타이틀 */
     color: #fff;
-    font-size: $type-size-6;
+    font-size: 16px;
     background: $primary-color;
     border-start-start-radius: $border-radius;
     border-start-end-radius: $border-radius;

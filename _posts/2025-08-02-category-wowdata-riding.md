@@ -14,7 +14,7 @@ categories: # 카테고리 설정
 # tags:
 #   - [tag1, tag2]
 
-permalink: /wow-data/riding-macro
+# permalink: /wow-data/riding-macro
 
 # toc_label: 포스팅 목차 # 목차 제목
 ---
@@ -33,9 +33,9 @@ permalink: /wow-data/riding-macro
 /use [noflyable]X-53 관광 로켓
 ```  
 
-<kbd>Shift</kbd> 를 누른 상태 ▶ 덩치 큰 원정용 야크 (형변, 수리 탈것)
+<code>Shift</code> 를 누른 상태 ▶ 덩치 큰 원정용 야크 (형변, 수리 탈것)
 
-<kbd>Alt</kbd> 를 누른 상태 ▶ 덩치 큰 원정용 야크 (형변, 수리 탈것)
+<code>Alt</code> 를 누른 상태 ▶ 덩치 큰 원정용 야크 (형변, 수리 탈것)
 
 하늘비행 (구 용조련술, advflyable) ▶ X-53 관광 로켓
 
