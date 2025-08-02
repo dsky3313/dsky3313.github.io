@@ -8,5 +8,5 @@ sidebar:
 ---
 
 
-{% assign posts = site.categories.WOW Data %}
+{% assign posts = site.categories.wow-data %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
