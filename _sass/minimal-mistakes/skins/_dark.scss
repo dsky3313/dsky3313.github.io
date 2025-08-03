@@ -5,7 +5,7 @@
 /* Colors */
 $footer-background-color: #121214 !default; /* footer */
 $background-color: #1a1a1e !default; /* 배경 색상 */
-$code-background-color: #2d2c31 !default; /* inline 코드 색상 */
+$code-background-color: #2d2c31 !default; /* inline 코드 색상 2c2c30 */
 
 $text-color: #c0c0c1 !default; /* 텍스트 색상 */
 $border-color: rgb(80, 80, 80) !default; /* 테두리 색상 */
@@ -42,6 +42,6 @@ $base00: #ff00bf !default;
   border-color: transparent;
 
   &:visited {
-    color: #2c2c30;
+    color: #ff00bf;
   }
 }
