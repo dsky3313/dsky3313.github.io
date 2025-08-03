@@ -3,14 +3,14 @@
    ========================================================================== */
 
 /* Colors */
-$background-color: #282b30 !default; /* 배경 색상 */
-$text-color: #eaeaea !default;
+$background-color: #1a1a1e !default; /* 배경 색상 */
+$text-color: #c0c0c1 !default; /* 텍스트 색상 */
 $primary-color: #0b89ff !default; /* 주 포인트 색상 */
-$border-color: mix(#fff, $background-color, 20%) !default;
-$code-background-color: #424549 !default; /* inline 코드 색상 */
-$code-background-color-dark: mix(#000, $background-color) !default;
+$border-color: #29292d !default; /* 테두리 색상 */
+$code-background-color: #2c2c30 !default; /* inline 코드 색상 */
+$code-background-color-dark: #ff00bf !default;
 $form-background-color: #ff00bf !default;
-$footer-background-color: #1e2124 !default; /* footer */
+$footer-background-color: #121214 !default; /* footer */
 $link-color: #26a1ff !default; /* 링크 색상 */
 $link-color-hover: #26beff !default; /* 링크에 마우스 올렸을때 색상 */
 $link-color-visited: #2684ff !default; /* 방문한 링크 색상 */
