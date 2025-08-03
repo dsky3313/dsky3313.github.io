@@ -9,11 +9,11 @@ $primary-color: #0b89ff !default; /* 주 포인트 색상 */
 $border-color: mix(#fff, $background-color, 20%) !default;
 $code-background-color: #424549 !default; /* inline 코드 색상 */
 $code-background-color-dark: mix(#000, $background-color) !default;
-$form-background-color: #ffffff !default;
+$form-background-color: #ff00bf !default;
 $footer-background-color: #1e2124 !default; /* footer */
-$link-color: #0a68ff !default; /* 링크 색상 */
+$link-color: #26a1ff !default; /* 링크 색상 */
 $link-color-hover: #26beff !default; /* 링크에 마우스 올렸을때 색상 */
-$link-color-visited: #0853cc !default; /* 방문한 링크 색상 */
+$link-color-visited: #2684ff !default; /* 방문한 링크 색상 */
 $masthead-link-color: $text-color !default;
 $masthead-link-color-hover: mix(#000, $text-color, 20%) !default;
 $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
