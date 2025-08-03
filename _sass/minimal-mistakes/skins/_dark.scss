@@ -37,11 +37,11 @@ $base00: #2c2c30 !default;
 
 /* next/previous buttons */
 .pagination--pager {
-  color: $text-color;
-  background-color: $primary-color;
+  color: #ff00bf;
+  background-color: #ff00bf;
   border-color: transparent;
 
   &:visited {
-    color: $text-color;
+    color: #ff00bf;
   }
 }
