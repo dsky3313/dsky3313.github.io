@@ -5,11 +5,11 @@
 /* Colors */
 $background-color: #282b30 !default; /* BG */
 $text-color: #eaeaea !default;
-$primary-color: #7289da !default; /* 주 */
+$primary-color: #22b5ff !default; /* 주 */
 $border-color: mix(#fff, $background-color, 20%) !default;
-$code-background-color: #36393e !default;
+$code-background-color: #ffffff !default;
 $code-background-color-dark: mix(#000, $background-color) !default;
-$form-background-color: #424549 !default;
+$form-background-color: #ffffff !default;
 $footer-background-color: #1e2124 !default; /* footer */
 $link-color: mix($primary-color, $text-color, 40%) !default;
 $link-color-hover: mix(#fff, $link-color, 25%) !default;
