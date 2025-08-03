@@ -3,21 +3,20 @@
    ========================================================================== */
 
 /* Colors */
-$background-color: #282b30 !default; /* BG */
+$background-color: #282b30 !default; /* 배경 색상 */
 $text-color: #eaeaea !default;
-$primary-color: #22b5ff !default; /* 주 */
+$primary-color: #0b89ff !default; /* 주 포인트 색상 */
 $border-color: mix(#fff, $background-color, 20%) !default;
-$code-background-color: #ffffff !default;
+$code-background-color: #424549 !default; /* inline 코드 색상 */
 $code-background-color-dark: mix(#000, $background-color) !default;
 $form-background-color: #ffffff !default;
 $footer-background-color: #1e2124 !default; /* footer */
-$link-color: mix($primary-color, $text-color, 40%) !default;
-$link-color-hover: mix(#fff, $link-color, 25%) !default;
-$link-color-visited: mix(#000, $link-color, 25%) !default;
+$link-color: #0a68ff !default; /* 링크 색상 */
+$link-color-hover: #26beff !default; /* 링크에 마우스 올렸을때 색상 */
+$link-color-visited: #0853cc !default; /* 방문한 링크 색상 */
 $masthead-link-color: $text-color !default;
 $masthead-link-color-hover: mix(#000, $text-color, 20%) !default;
 $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
-
 .author__urls.social-icons i,
 .author__urls.social-icons .svg-inline--fa,
 .page__footer-follow .social-icons i,
