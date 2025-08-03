@@ -5,10 +5,10 @@
 /* Colors */
 $footer-background-color: #121214 !default; /* footer */
 $background-color: #1a1a1e !default; /* 배경 색상 */
-$code-background-color: #2d2c31 !default; /* inline 코드 색상 */2c2c30
+$code-background-color: #2d2c31 !default; /* inline 코드 색상 */
 
 $text-color: #c0c0c1 !default; /* 텍스트 색상 */
-$border-color: #29292d !default; /* 테두리 색상 */
+$border-color: rgb(80, 80, 80) !default; /* 테두리 색상 */
 
 $primary-color: #0b89ff !default; /* 주 포인트 색상 */
 $link-color: #26beff !default; /* 링크 색상 */
@@ -34,3 +34,14 @@ $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
 
 /* dirt syntax highlighting (base16) */
 $base00: #2c2c30 !default;
+
+/* next/previous buttons */
+.pagination--pager {
+  color: $text-color;
+  background-color: $primary-color;
+  border-color: transparent;
+
+  &:visited {
+    color: $text-color;
+  }
+}
