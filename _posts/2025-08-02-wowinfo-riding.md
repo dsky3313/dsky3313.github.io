@@ -21,7 +21,7 @@ categories: # 카테고리 설정
 
 ## 와우 내부전쟁 탈것 매크로
 
-![이미지 설명](/assets/img/wow/wowdata/2025-08-02-riding/1.webp)
+![이미지 설명](/assets/img/wow/wowinfo/2025-08-02-riding/1.webp)
 
 ```  
 #showtooltip
@@ -49,7 +49,7 @@ categories: # 카테고리 설정
 
 ## **만회** ?
 
-![이미지 설명](/assets/img/wow/wowdata/2025-08-02-riding/2.webp)
+![이미지 설명](/assets/img/wow/wowinfo/2025-08-02-riding/2.webp)
 
 11.1.7 패치로 [만회](https://www.wowhead.com/ko/spell=1231411/%EB%A7%8C%ED%9A%8C) 라는 스킬이 생겼습니다
 

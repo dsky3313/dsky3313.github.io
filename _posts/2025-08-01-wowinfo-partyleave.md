@@ -21,7 +21,7 @@ categories: # 카테고리 설정
 
 ## 와우 내부전쟁 파티탈퇴 매크로
 
-![이미지 설명](/assets/img/wow/wowdata/2025-08-01-partyleave/1.webp)
+![이미지 설명](/assets/img/wow/wowinfo/2025-08-01-partyleave/1.webp)
 
 ```  
 /run C_PartyInfo.InviteUnit("일리단");C_Timer.After(0.1,function()C_PartyInfo.LeaveParty()end)
@@ -35,11 +35,11 @@ categories: # 카테고리 설정
 
 ## 파티탈퇴 매크로 사용 모습
 
-![이미지 설명](/assets/img/wow/wowdata/2025-08-01-partyleave/2.webp)
+![이미지 설명](/assets/img/wow/wowinfo/2025-08-01-partyleave/2.webp)
 
 매크로 실행 시, `일리단` 이라는 플레이어를 파티에 초대하고 플레이어는 파티탈퇴를 실행합니다.
 
-![이미지 설명](/assets/img/wow/wowdata/2025-08-01-partyleave/3.webp)
+![이미지 설명](/assets/img/wow/wowinfo/2025-08-01-partyleave/3.webp)
 
 잠시 뒤, 알림창이 뜨며 인스턴스 밖으로 나가게 됩니다.
 
