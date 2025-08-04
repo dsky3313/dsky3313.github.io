@@ -1,8 +1,5 @@
 # main links
 main:
-  - title: "Home"
-    url: https://dsky3313.github.io/
-
   - title: "About"
     url: /about/
 
