@@ -16,6 +16,8 @@ categories: # 카테고리 설정
 # permalink: /wow-data/riding-macro
 toc_label: 수도원 MDT
 ---
+**주의!** 전탱시점에서 작성된 글입니다. 악탱 등 다른 클래스와는 다를 수 있습니다.
+{: .notice--warning}  
 
 ## 수도원 기본
 
