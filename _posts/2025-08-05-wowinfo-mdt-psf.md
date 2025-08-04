@@ -14,7 +14,7 @@ categories: # 카테고리 설정
 # tags:
 #   - [tag1, tag2] BREW DFC WORK FLOOD PSF ML ROOK TOP
 # permalink: /wow-data/riding-macro
-# toc_label: 포스팅 목차 # 목차 제목
+toc_label: 수도원 MDT
 ---
 
 ## 수도원 기본
