@@ -5,7 +5,7 @@
 /* Colors */
 $footer-background-color: #121214 !default; /* footer */
 $background-color: #1a1a1e !default; /* 배경 색상 */
-$code-background-color: #2d2c31 !default; /* inline 코드 색상 2c2c30 */
+$code-background-color: #2d2c31 !default; /* inline 코드 색상 */
 
 $text-color: #c0c0c1 !default; /* 텍스트 색상 */
 $border-color: #505050 !default; /* 테두리 색상 */
@@ -33,16 +33,16 @@ $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
 }
 
 /* dirt syntax highlighting (base16) */
-$base00: #2c2c30 !default; /* 코드블럭 색상 /
+$base00: $code-background-color !default; /* 코드블럭 색상 /
 
 
-/* next/previous buttons */
+/* next/previous buttons  primary */
 .pagination--pager {
-  color: $text-color;
-  background-color: $primary-color;
+  color: #ff00bf;
+  background-color: $code-background-color;
   border-color: transparent;
 
   &:visited {
-    color: $text-color;
+    color: #d2d2d2;
   }
 }
