@@ -4,10 +4,10 @@ search: true
 toc: true # 목차 사용할지
 toc_sticky: true # 목차가 옆에 따라올지
 
-date: 2025-08-01
+date: 2025-08-07
 last_modified_at: # 2021-10-09 수정날짜
 
-title: "Plater 테스트"
+title: "Github 테스트"
 # excerpt: "Plater 카테고리 포스팅 테스트"
 
 categories: # 카테고리 설정
@@ -16,6 +16,8 @@ categories: # 카테고리 설정
 #   - [tag1, tag2]
 
 # permalink: /wow-data/party-leave-macro
+
+# bundle exec jekyll serve
 
 toc_label: 포스팅 목차 # 목차 제목
 
