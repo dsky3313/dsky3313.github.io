@@ -27,7 +27,7 @@ toc_label: 고투 MDT
 !9zv3YoTnq4hNEZHGLL)9Ycmhgk9eyWuAVYtKJLtuposzSLti9ICDFm6dqVOZWn8mrN(o0DLK)ljhGqqE1QD)2V9BLtoj)J5zSYsL8t8MwHsMVmmGMNTwvRAEpRMR183iRug360QxI2fYn5Vipt2TRG38YUwTANXEB(Y4loA5NZxgb2mo5m(jwDhVfI4sI9l8JF(sV8Lu8Bn(0KnUp23lmoYZliXJgNKKMx9SWGrNPZCojkKMghrj(bXPXbbOZ0rNdSodUrmEgfegff6NGUfAGbz05qxK9g34(eQNxmCakLgehM4IVglZjoFFuqAkGHWq)up)OWyx8POlAKNSWiMM4tJjXjq9bGjXH2b2W4CYmAImUr6tTbX7j3H8K74)e7G)ntZ)m893(YF9F)5FFE13(6)8VF5R5z7kfOYOQHZ3QQlr)Zk4B6e1OgbFQFRFsjK8Y8cmwDIY8m)3v82)qrvpYwNNDaLeyK23vxpknIgq0S2S2jYGOx5b)zORADmCYd9AP5uOVXE80dfFZOhbQU(CpATkeZPFY88yXazAq79W2rdMMhdkwsNKnAjwn9fqVvpVQkEXSUJUxTn6JpVQc2IoJV8VQM7ZVp5ITqegy(qX0dEbjyCrc4zSHZMIIL(ZZN3v5RhGLeSmgyKbpNWldXY)62BVsFa2PwfQ3mi5plm0zqk6MDv7uYqu9DcF3yQLpaEh5bY8sm0KRGj56c1XWKg97r1yqcNXO(tH)qXeCtzItsemtrzz1HCeA(ezAKXMgzIH(sngbcWuGeYS1AdjmcRl0I420Bj)IUajOJOEt7qPEyL1(qzpKTBiA6p6y4nCdjDiG2dNmlGU0AMr770xFTXvHo2G8OlsW0znN6XU988nITH7TCdDMTV8(dk9gkdBF3BsS1J12uHYfNffN9cHWzXZiIngTZzr3OXoOPqtDnnCP(9WfX5i32BiRROMFGJgZZ4s(Ut)yBRyJChSxRJDTE(Qo5gUsAE3pbgQG3DW3HVpOipRLxZxRXFNHdf4KuwJOs)UQQwUjsMIZ9ANsrvLyDxT(KfmQIFho)WBiYkTRYi(PlmnVSN5tdXLMxEb18lWAp7bHS88QmLsVL)8STnQo4rg8FOzW25v18k95vTIsyTw5mwjAAbRfQ22ZRok0BD21m5JNxTbEN2MbNATh605vRzsyZgwHZ7xuRuLBvn7wCEfYRoZk5K9K4ZyET5Inc3ZReAWYhyBmz7JmPUPBhyD3oEPGP51NwGuLekvNYyGwOjEl8T0cHKUi4sA5x3YLo08atkyRz1yA7Qla(I3yWXZvn91HbXpW201EhuLBzc4W4)i9e3E2AGxyaBWGZi2bM6KAHPIfqrSVMPRaIaog806AoRHxof90POpGe03ujErlOxI(FPDOVTx1Oz1tcuW0afMsguhrKRvhVr)diNxEq0YlTT)nmOK7l8nBvT6(UYp)USrPduMRHMh6PT)J1omM0CckySDTHRnvk8dG5nyW72FELuSg6AtqB4u0ghgVi1I2G0Rk63kCciS43PkArHJdNfnIYnCqLz7RNuD)qdyg(1987gljwRb3BGsy)DUIQPtIDpuhBNgmlHPwrVISGdnoJyek19SJYwKOoYAkHf)g7aK13uzYjmrWmTCGqAFuS3fYXGDhcjmXO65aQeSUPQML9pWKRfa2EnRTGT5QY0MGxdGA9w1E7tSdk8eUbZdqyQH5r1bSSn3zbyt1SMJTeObQNk9IMDFcXBrKt6fhSW)YUGzSfBQtcq8SMO3WKxOV)1sUHayipGiQqQfLHOa5exdKurN2UHuHpo5igQOH1c3hD00QThvvvHfg8ZTvhbJs43SpvxA6nGG00(dWlZUmK278K4TayJAk9KmJEGPOO(RBVb98kv)eVlAoWAVF44wrnFuEEKj0M(1aeEq1u2Wbq3l((W7NGK0N4IFc1Bb57WZdrDmwWIJC(J23GM))d
 ```  
 ![이미지 설명](https://wow.zamimg.com/images/wow/icons/large/spell_nature_bloodlust.jpg){: width="30" height="30"} 
-**블러드** : 입구 ▶ 2넴 선혈토막 ▶ 막넴
+&nbsp;&nbsp;**블러드** : 입구 ▶ 2넴 선혈토막 ▶ 막넴
 {: .notice--danger}  
 쭉 직진하는 루트.  
 <br>
@@ -42,7 +42,7 @@ toc_label: 고투 MDT
 ```
 
 ![이미지 설명](https://wow.zamimg.com/images/wow/icons/large/spell_nature_bloodlust.jpg){: width="30" height="30"} 
-**블러드** : 입구 ▶ 2넴 선혈토막 ▶ 막넴
+&nbsp;&nbsp;**블러드** : 입구 ▶ 2넴 선혈토막 ▶ 막넴
 {: .notice--danger}  
 3넴 앞 중보 패스하는 루트입니다.  
 <br>
@@ -57,7 +57,7 @@ toc_label: 고투 MDT
 ```
 
 ![이미지 설명](https://wow.zamimg.com/images/wow/icons/large/spell_nature_bloodlust.jpg){: width="30" height="30"} 
-**블러드** : 입구 ▶ 2넴 선혈토막 ▶ 막넴
+&nbsp;&nbsp;**블러드** : 입구 ▶ 2넴 선혈토막 ▶ 막넴
 {: .notice--danger}  
 3넴 앞 중보 2마리 패스하는 루트입니다.  
 파티 이속기 (드루 - 쇄포, 술사 - 바질토) 혹은 흑마 - 관문 이 필요합니다

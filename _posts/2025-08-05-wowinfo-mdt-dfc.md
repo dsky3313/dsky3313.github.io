@@ -27,7 +27,7 @@ toc_label: 어불동 MDT
 !1zvVUXnoq4NOdG)tQYloWajfRnGcCjr8UIYNC0kzSsYjUj1P76oKuCVdPiiv3BKZdXXzgQvuBwBljqYVrdN5B(4O1Z9VZxEBvvF3nHddn9D(nAL0xURVT)W132gghdVPRUhnBAS)cy9MU78VYx2nTFB4WftdJ97X1h8BSN8QvFYVXexdnkT4n32ofgIECdNEaxc)gMFJeEocZYaU0kyARHXuoM06Cf(6)qRwmwUYyNrllSgjxOSfwLcmwUySImoAghT0O0gJw4aZ0yyWxmwN8mBb4sNKXSXxqkLkR2L8)iKMzgFPrvueJbTwuWegTn5FjyYiWtuyyLoH0YTUy(fdgxkApYgOXUv0eFbO4La4SxeH)IiIxab(VCm8P4ZF9p)45F(LN)7V953)R)9)E(7F1xw1ux3SBQD8j41kNAQIkdDV5QWtpuoEVV8rOCd6NhMABZl70UrKUa3njuFGlnqNWLfVC4vm0JzmKB4DbTcxKUJVghIyt2ynENjOeqUGkuFzDnl(xgAE6lTue5W4rwK7evUQtKPQojtYuqZa57UXWw0VIJ0rMVjLaj1157Jbbi9KfTWLVBQv7tTMDu6pVQScY(OxCNjY5zLbI9woIbZwl7eOaH2B3QaFEq2HdlcyqaIAHsPMkLgOOUC4yvAWy11HTZUAzvrOUglYzvdxEDIBYH42vZCRMvKptWwnJVAwUCAoGfQmsAoaR4qGFmOoYCuhfBwjMOBxIfaiAQeNAO3bf6C8(C64K7t1afvsjYwIfYSt)R7smMfBPIhj7GJqkKfpN0L8GqFMmFr3L2u1kvt2zeUCLgKNK7W2Aq8z2253C2wf)E3IIvDkYynASHYYOyGAv4O8KNGkiibJGeCAnHIwtiO1eY0ytASnzJdPKnYzmDcRGWKmASKtJLY0yf9oyP6KdQl0W5BbKttksCPiIeQ)atruLK0sQuFdQXQsG0LYs0LYquLsF2ZFy560dGctUusYwvrpFxf8Zk7MoCi0nED8tdygmVq5022WJbyrFzOlS)P)CyO5UU9rm4BilV6RN6Ul03H)sdESSf)svyp8lu26lhcTHDJWVQjfCy7)dn1JxvxpeqpHnUsrt)27J2N8)hdHpaOL7RAGmU(qi8x9TvyiTnC3utlSnWSzO3230fQ8BrV5))p
 ```  
 ![이미지 설명](https://wow.zamimg.com/images/wow/icons/large/spell_nature_bloodlust.jpg){: width="30" height="30"} 
-**블러드** : 입구 ▶ 3넴 ▶ 막넴
+&nbsp;&nbsp;**블러드** : 입구 ▶ 3넴 ▶ 막넴
 {: .notice--danger}  
 쭉 직진하면서 보이는거 다 잡으시면 됩니다.  
 <br>
@@ -42,7 +42,7 @@ toc_label: 어불동 MDT
 ```
 
 ![이미지 설명](https://wow.zamimg.com/images/wow/icons/large/spell_nature_bloodlust.jpg){: width="30" height="30"} 
-**블러드** : 입구 ▶ 7번 (1넴 뒤) ▶ 15번 (막넴 앞 중보)
+&nbsp;&nbsp;**블러드** : 입구 ▶ 7번 (1넴 뒤) ▶ 15번 (막넴 앞 중보)
 {: .notice--danger}  
 3넴 앞 중보 패스하는 루트입니다.  
 <br>

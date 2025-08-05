@@ -26,8 +26,8 @@ toc_label: 작업장 MDT
 ```  
 !1zvZUXrrq4hiRi1D1)FK4ilXLflnqo2cVE7XAHzNb2zgtYfekasCGdGesqoKiUejqkh4yoWteE97aDxt390ZU2zJxntxFD9Zx9vLTLA)uB1MT11BVESz4L2vuHTAC7gB13C5N91N3WfpR7wB1vB201(C3((TDT2vcoZB35(spCB11DnD7V8Qg3WG7JBR7cE8QXHUZdNVT9g7tTvTJ7w72F(y)q3o88E7k1rxDZlSRK(ZqqXdF(vnJUEVhxrN(k8FWUIyxXcFpeERWWfkGiuscHRjmLwBS1prWNbZwawlfmJsYOaxzuCEamBgmFcShgfrk5cPua6ambMg0zWIONjZgUqZieL)cmgJRe6O)hcLzb4lKCJXNdcbyiGuOI(NfGme4PP0qX0atrvAF95tgDmBZSbcwVGMOZgmpMbk5rTqFulWJyj8PAW9c)3hE7VE43)XdV9DF7NF4n)7D)ZFyR6w)fURhW2jG6UCLX5kqYzukJlzHkJJe8fprXLgVzI0yeE(pWnCEmC(g0tdeF1Hx9(7((3fcDR)KyBo7DFxqlnAgOmGwYGGlKrVtKAMKt5kofus5d69)7dF39)07l8oV07((LXl6msLxJiOl8UMtaWqfgk4Rc6d697E1Rp8MpCM)hpvveeXIGeKYAohOaJii8ccIl4kVnH0FUu7feEtStiO)8xU)3(HZU)1)99)8Fnhe)d3ggWcHA)26HpPUU3nKh3qa9UgFplm2h748WPxpUFVRDOACDJ7wxtWsLR1T7LFuF)2BA35T1JEiH8zJT346AXHCkabrIBxy5W6mKlhBAq)x9v(NYzX0scBvDnX)p)zPHNjT)eHkWhKO2u8a2L4dc0opBFiV)aWKf1nXgCSfKgqsJdjXFPJ4yGKfjcGpqxKoqCuzOOeu4zA8Mg8Mu8MaYCP6wkd1nKAjXLyZt6bpQkEB(M1cY8MmGUGyG8qBcpBtGJTZt3AeLPGbvtfMaFFQa4iobIdiiDHu786J5kpVNKw0dsHNqQRDRlcpnUlnUEzQzsNizugoxsjohdHmhIsikB5YoOyXfRqCalTp1uPtLjDQoPMfjn4QRTX10Pt3qdfdcTSjrsDqDsZnN7S5oBuiZlVRi)YKwBy(xIqlfNWsr6XdpWYf3qS4XKkMRfo9yWfz48rNOtjNERsTAUlOorEG4gsJHhjJJtLzHvYNSttoEj9bz69iDEILow)Xl9smJeN4S8AHeJNc(0FzGQOjKAoHNylciQDYbuwsvYSBcxBccBrZHUGLssULkoig4Pp2)p
 ```  
-![이미지 설명](https://wow.zamimg.com/images/wow/icons/large/spell_nature_bloodlust.jpg){: width="30" height="30"} 
-**블러드** : 1넴 ▶ 3넴 ▶ 막넴 2페
+![이미지 설명](https://wow.zamimg.com/images/wow/icons/large/spell_nature_bloodlust.jpg){: width="30" height="30"}
+&nbsp;&nbsp;**블러드** : 1넴 ▶ 3넴 ▶ 막넴 2페
 {: .notice--danger}  
 쭉 직진하는 루트.  
 2넴 잡고 똥개 애드나지 않게 벽에 딱 붙어 올라가세요.  
@@ -43,7 +43,7 @@ toc_label: 작업장 MDT
 ```
 
 ![이미지 설명](https://wow.zamimg.com/images/wow/icons/large/spell_nature_bloodlust.jpg){: width="30" height="30"} 
-**블러드** : 입구 ▶ 3넴 ▶ 막넴 2페
+&nbsp;&nbsp;**블러드** : 입구 ▶ 3넴 ▶ 막넴 2페
 {: .notice--danger}  
 2넴 잡고 똥개 애드나지 않게 벽에 딱 붙어 올라가세요.  
 도적(도비), 사제(위안), 흑마(관문)이 있다면 12번 패스하세요.  

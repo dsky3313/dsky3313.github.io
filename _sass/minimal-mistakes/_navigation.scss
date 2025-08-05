@@ -437,12 +437,27 @@
 }
 
 .nav__list .nav__items {
-  margin: 0;
-  font-size: 1.5rem; /* 1.25rem*/
+  margin: 0 0 2em 0; /* 0; */
+  font-size: 1.5rem; /* 1.25rem */
 
   a {
     color: inherit;
   }
+/* 사이드바 하위카테고리 추가 */
+  ul {
+    margin-left: 1em;
+    padding: 0 0 0 1em;
+    border-left: 3px solid rgba($primary-color, 1);
+    li {
+      padding: 0.1em 0 0.1em 0;
+    }
+  }
+
+  hr {
+    margin: 0 1.5em 0.3em 0;
+    border-top: 0px;
+  }
+/* 사이드바 하위카테고리 추가 */
 
   .active {
     margin-inline-start: -0.5em;
@@ -494,7 +509,7 @@
   font-size: $type-size-6;
   font-weight: bold;
   text-transform: uppercase;
-  border-bottom: 1px solid $border-color;
+  border-bottom: #ffffff00;/* 1px solid $border-color */
 }
 
 /*
@@ -505,7 +520,7 @@
   font-family: $sans-serif-narrow;
   color: $gray;
   background-color: $background-color;
-  border: 1px solid #2e2e33;
+  border: 1px solid border-color;
   border-radius: $border-radius;
   -webkit-box-shadow: $box-shadow;
   box-shadow: $box-shadow;

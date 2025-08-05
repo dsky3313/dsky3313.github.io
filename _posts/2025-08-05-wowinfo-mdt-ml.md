@@ -27,7 +27,7 @@ toc_label: 왕노 MDT
 !nA1YU1Tnq0VOyi(MAzCAmqlqvdGcYsc7RfLRQ1vkqpsI7cVRFaDv35DDFb6g)n16pIYHV51Xb124ELjp6mZCMZqjfs9Ev7vDDZtFqVSompPAyuIQ965X5L3D1OEBt)9t9Zwy7BZVbwFy6g15Q2P9Jh0lVzFDB(OD9vvJ4KBT7lQgUznli)IF4QXD9QHXgK7d4pSQPs1qGp3G)lBJle4kMGxvrLveHuwR6FfJMatkal5msTGtqyQOwqPayscm1b2adzrYPmoNHLamMnnqjWmpZvPnUqsQQeMBGqiubt65FdkZmWxWP11MCGXW1vyot45Naq2aDYLgcIeteiH0uFMKr6Z2OAybllKjuAJ6xAdu1lUd6f3b)c7a)2UP)I5ZNE43F6p(TNE4pV)Y)5X)6F)7hvTZh(f91BX2zBN7QwmVg4P9viu9zupzg5)CqwBpFCEUB04kU)Yx)R6L5BVfcYKzxF3pYdtIod5ycxrod9nyQFy6QX7V8W86AInZfFwRV1YWNaNhq(h3hhtoWyH7naUSfdXaw2124MRjqJdeQmxhlG0AYsomyvSxAbFuMdbca2goVtyZp1OA77Rm)4BtGuu7(29vyYiKWyVXSUymi6ZZCWI84ZYCG2emfDUzmlqwA1EgKtKqy5HIZnxfvjQDlwPLDlPjbRhPWIsYylqsUDeRYC6bWPCM0bAwQwrfYpViu0cIj5eZIWdexv13RpK0nuukbKYiX5usZPmbmrjw33NuFFtgXIQvUWgig(M(vraIf1M7mR0ZtwLqi7qqDeAjpZMXZ6tPJtiH5GTS6oSk21sDGLNKxWn8TDwUMbUOLGdXWAKX4IMTBmbt(FQawz3Q7W90ahcrTrTbZSvtdMBRIgSWxusLBKS2gSgItyGIdkg7uw4AuTnBDRvxuG2HKOGflqwrbgSzne)mzSydhkikQwI7gi(61vWexftYf40yGZmIlhVS9xS05MsXSi3qXi)1gcq2uctlaZobCWEB9RNybDOBcdEyE0bK6MSyAM6Z8S(mX59Cdm(zJi8Gb19KtSNASvRKX0fqYvp)e3y(iuXdo8hI6KeiUC17p1sNLU1Uu2)4dHl(vfroDMqCsbNpVan1tNOE25WvpdIxlSpT769Lf9027mpIZkgHfA3pmQ)Kgwu1QN0hV71RRd3mD0S3QVp6q(D7t3ONNSV8gYuaMh(RpcV03bv7QE084E4ff95auFTld9B)uF)Q29IazzZ(qN5ME7NV7WhxE7pIgm2HH((HR3h3UZ6tAp2naQ6b9n7dJquG8RFrR)55XUI)5hMhM0DQdwMv)3p
 ```  
 ![이미지 설명](https://wow.zamimg.com/images/wow/icons/large/spell_nature_bloodlust.jpg){: width="30" height="30"} 
-**블러드** : 입구 ▶ 2넴 ▶ 막넴 or 막넴 앞 전쟁기계 2마리
+&nbsp;&nbsp;**블러드** : 입구 ▶ 2넴 ▶ 막넴 or 막넴 앞 전쟁기계 2마리
 {: .notice--danger}  
 입구블 후, 벽 넘어 가는 루트입니다.  
 벽넘기가 안되신다면 쭉 직진하고, 10-11번 풀링에서 덜 잡으면 됩니다.  
@@ -43,7 +43,7 @@ toc_label: 왕노 MDT
 ```
 
 ![이미지 설명](https://wow.zamimg.com/images/wow/icons/large/spell_nature_bloodlust.jpg){: width="30" height="30"} 
-**블러드** : 1넴 ▶ 2넴 ▶ 막넴
+&nbsp;&nbsp;**블러드** : 1넴 ▶ 2넴 ▶ 막넴
 {: .notice--danger}  
 ![이미지 설명](https://wow.zamimg.com/images/wow/icons/large/ability_ambush.jpg){: width="30" height="30"} 패스 : 1넴 앞, 3넴 앞, 막넴 앞  
 1넴 앞은 `위협의외침` - `위협` 특성을 찍고 왼쪽무리에 공포를 넣은 다음 1넴 앞 3마리를 끌고 들어가 그숨으로 패스했습니다

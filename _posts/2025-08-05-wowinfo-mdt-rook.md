@@ -27,7 +27,7 @@ toc_label: 부화장 MDT
 !9zvVUrUnq4NOZGKd)tLXxWcKuSXaY4ksbr8UIAJs0kDyxPl(AcstEdUM0CDPlfbiib(z68L3HqodLeLx7yliSIC4h)MV5BOKJ7U1vExvvF3B8No30352QKGRCFFB)PBUR1pm4)QU6EmSXH(xhhVP7G7Axz34XD(tVE88q)rC8ZUTMNS0Q7DB1HXWGsd(M7Ah9NdiULt3Ixc3wMBleVpeFkBIngbtz0mM0YaJ1w4QFLsUemSkyRwbfgnWfstHrkJbdlblPGdHXXi1sLwRe2yykKg8LGvjKzltSXcmMjSaaaPrzt4petZSG3OLffboOuIcMqRmj8HyidrDIOHbScWWn2q(fiJnX2z1ad2UsM4ltu8stWzV4m8xCgXlmt8)Yb)9H7p(p)Y)(BF4ZF83)5V7tp8Np(xp4kRAQRB2p2o8(4YkhBQCLhU(WXV9TA7(BU3v(Uy5o6FE7yBBEzFA3YQ3uQRYRQACidoNeVWiIx64GPAAsttQvsBgsUrxzDnl838wnTFgenBkvrWxzPSzwgKPl4P1SLqNIVGKowUFi3vPZDvY5KDb1AfBXMQNzzMejOLjGCEcundsMgbbUodAOkkblBovyPhNHMNJPyI4zsWk(VY1dz7fJvx73Tml8mciJj811tLTP(bQ0Bx5gK5KIt2brQKzYqSIh33LMcGYqBo85MjiZSapNzzgjjHuros2fUTU90SsdLx6zEsxRMap1XM71w6IlYSPAS2AqFfKLrsmGN3nLA6NA5eZYorHyv2EPxjUWO14jL1SdxGj7owmilnNApjXoaBKBCICCfMkXAyCny1l11o4MSj8mrFMKPYoTI59hOwbGucGugijnw68HcsCyibKKwkteqksSEQNrs5KuruwM4SmrAfr6TkoLzsZSgDzlWK9ovsNslZkTN0FEXQ0srElTMkWwmT0fyAzyyAzOAUbW0YqPL2K01ckTemkTeckTeaLwOPm)4(l6HgW8oN26vmuNSUcIH0XY60HYWk0nx2xnGQ5Tx0xWvRm)pXGo3ZIVoA)4Pt(UHBcVsjkbtpxoUR1)oFBm(sFN)47)IZNBo0Dmm3z3TzR8lh7o477WpqHhkMHxW5pg)WMDUYZ(w)(H4hdn1Rhw3PM6HVPU(ShbcpemXL(D)qi853Svwr)AJYWmffwdOeqbyIF2Ie7y2eEhVXOyfgbOcFKqOWeMA6RdcA51r8l)8h)1p93)XJp8H4M0fgCGoQEAdk5A7viGLVsOKxDbaRxkKVuL1ELIwQuBUc(FxA4h)K3)J4ehRAI4uFY7)((2keSD(dJnTrXl(00uFDFtNVYTdbW9Fp
 ```  
 ![이미지 설명](https://wow.zamimg.com/images/wow/icons/large/spell_nature_bloodlust.jpg){: width="30" height="30"} 
-**블러드** : 입구 ▶ 2넴 ▶ 막넴
+&nbsp;&nbsp;**블러드** : 입구 ▶ 2넴 ▶ 막넴
 {: .notice--danger}  
 평범하게 직진하는 루트.  
 <br>
@@ -42,7 +42,7 @@ toc_label: 부화장 MDT
 ```
 
 ![이미지 설명](https://wow.zamimg.com/images/wow/icons/large/spell_nature_bloodlust.jpg){: width="30" height="30"} 
-**블러드** : 입구 ▶ 9번 (2넴 앞) ▶ 막넴
+&nbsp;&nbsp;**블러드** : 입구 ▶ 9번 (2넴 앞) ▶ 막넴
 {: .notice--danger}  
 11번풀 후, 양산을 사용하는 루트입니다.  
 2넴 잡을 때, 자고있는 쫄 하나를 깨워서 붙여주세요.  

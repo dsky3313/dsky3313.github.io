@@ -27,7 +27,7 @@ toc_label: 양조장 MDT
 !1zvZosonq4NiKI)l2(4YIg0kqHvkJ2Jwm90oJAO70OUDw29cVdCHJiXbUpsCzFMG5Ha7Qk7yNE3rr9K4QCvFFv9vj2XC37g3FyA6WJlhdF0nW6CJ)Q3)ZX7CJpSF)5535VC9W5z3GskCJN39t(hdxJBl4gF)dhx8PiC5Wu4hMMU6bldmWC0HhxUCXphE7YXJXvzLfgx2D0)E)ril(z)Pp(QRxp808POnk2KNFZY8t(ZZVz)hsbO3ng8(thMFYTZnE1FmILe2GCMsqCJ)smzfuK)zGdxc4sfDl(eAqwzdmiid9WQsYa5NcEmAsdxw3GjDfs2jqqXlrHZhpFXnon1f)RkN3xNFDDoziuyICedPuMdCDi77JHCiwqWkDoczovLalesttAW1I7oXgMgyhZa0JPa(XK1Ks0K7jfsNK18QI9jAsikdxiHeucfUWjIXeLEtivhUVkjDDtt(DjydUAX)rHlQrXWMFMvGzU2p0tM4B6)vfMyyGQadXgc81syD7UEx8M4kBan3pnvrmbjHczcoW7CnDFMSQHxsUUkO7zPAb4zlJuWoXwObaSgw0I9VUsjgYUPHDaNxXzV7g1kMVKrttwZkuCUG1wqvBKvHCVd59AjjFtaCdRiBMlsYXKN220JtLmSXq0qUPCVoXIvKEAyUMYk3nttzL1gHoIWIKMxQHfXwP11VrSrVRqcxQmwWxDykAI8eGP6HTJv2kBL6roD00CxvnrFJcSeEwHORQOcAlqLLlBz0MUSywyD4TzH02HwBj5H1Aop3L0nkG1mAG0zZnntjpc8U(kbDHFk3TJFvVZyLHYcRt9qXn9qSdgwlQmsPUoUtIZqLMJ1IgBDDw2uN5OCMRrEBrDAh(kgSyNgT0qObYJfdgXEwntlVtG3svBlgXVC00358nmh77FMX)mWL03brxLy7sstyOGwGYebhaUqGDnjcCHcQtdYoKHcdskPbPQKbiDqAroltLGu0Sa2he0RrGpSCZ3)Ogktvk6RAzoPSc5VFeC0SC73AYZ5TFRHzRRB1QJpJEaoStW)H4VV8h)(l)1ZV8N)9V9J)7NE()(Npr55TpC0hc(3mpDUqK8APd3epAZ8YPD(lVE5A48PxNSFnb1XhwcNHhth75RtNmk5aT33Locw9XDOol(YG6tDGgUtZ7u6yXtA6eAJX6M(kLC15MjJ7m9kHv3lyCP2QJn)OZIvNPr6OBmWZEPQVxfL6r3uvJ5GZ5wu3QH7mIUoDCdcHqQvgk(vtHGZ31lT2igukUTJ3R0u8fuZHg)UtlmCHMPnr(fbJHqBPAWQhpzv4JvpeDJHYOWTwyFrl8VGfqPSCyVB0WVyh)2XtF3R((4AU))p
 ```  
 ![이미지 설명](https://wow.zamimg.com/images/wow/icons/large/spell_nature_bloodlust.jpg){: width="30" height="30"} 
-**블러드** : 입구 ▶ 2넴 혹은 3넴 ▶ 막넴
+&nbsp;&nbsp;**블러드** : 입구 ▶ 2넴 혹은 3넴 ▶ 막넴
 {: .notice--danger}  
 1넴 후, 취향껏 이파나 버즈비에서 넴드블 하시면 됩니다.  
 부담되시면 무리하게 풀링하기보단 나눠서 가다가 체인풀 하시면 됩니다.  
@@ -47,7 +47,7 @@ toc_label: 양조장 MDT
 ```
 
 ![이미지 설명](https://wow.zamimg.com/images/wow/icons/large/spell_nature_bloodlust.jpg){: width="30" height="30"} 
-**블러드** : 입구 ▶ 7번 ▶ 3넴 버즈비
+&nbsp;&nbsp;**블러드** : 입구 ▶ 7번 ▶ 3넴 버즈비
 {: .notice--danger}  
 6번 풀링 후, 쫄을 구석으로 끌고들어가서 7번 풀 로머 위치 조심하며  
 파티원들을 먼저 보내고 그숨패스 하시면 됩니다.  

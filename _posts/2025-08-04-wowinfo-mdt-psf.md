@@ -27,7 +27,7 @@ toc_label: 수도원 MDT
 !1z1soYTnq0tuae)tT02bdG3iBanXljs3ttnOtul50IYXEtwLfzxYYa4lraYM5mf7driRIF98P1mJKQQE1Jv9kY2qm3AgpDEA68D7ZUpzgicZ4VAT)S)oZ4HtNwxEN96251fZGGZmJ7Npzg)Hv6B(L3F3HtV4LMXpCyE3gG565j3BMM2SUn)JdbOD(pJB2z7DUaeWBhiYWBVB)6v7IBC)4S9d2ziF2f7Lp9ITTZ3VCXBBdqi553VVCVDD51N(O33anDw7LZl3BoMD5T7ZZa(JV3FxMfP)mWmdu4YFdhUeWvVzqga1mOmdA4IGVMW9mWhrkEh42TW)7sVv2aBWukas4P(4YyDE9QzCAQZ)tfQrp7beiikeitQOnoys0K0azrFzqu1jqk9jiG4TP0paEhIxvXmxi4koWvaMCz9AwvZegTDLRrsOAs)K4BtpKkEtQW1eh5pNI9dsfoStHkfukQQLPhWsobdxvkrHBKqdub9pDQ)s6WFzyPJeR1es7cIJCvueW51o2ti8MUzx30K9OjixqrHSTOtyP2QlwsYlfAh6QSso5sVOGp1onvrczd6ydJOX1LmtWsjsGycXNYOUjJd0A1AkXNiHLwY7uTqAsAPI4teNLQlvGOH(0JDLm)nJejfsarkWFmqEQnYGx2NA46O4mk0IDMs5bxCTehlknAAckI9nNAoxZb1tYzCkl3k6XCJsPu6qO7RthTlNNhp00x7uansLwinrKapiNZs4m8XUdTz1GBUOJGsRPiHMgLQrbBtIIppHKp1UWYtrAGjbNut(qA8Hu6cLCG0ORjtG4plQZH3i2OyRI23ahZ8iTCHn6g2WImgdv3W4eC59xanyD2XrqkocY6mp1o9yQYBI2cDFSyeIhignzP(CfnWbCCdnXHGe55GhT)popK3sIw3lWp(Jq)O)VF9p(7V8N)(x)8F9B)4)9W)8L)9bZ46XFYFMD6a4aWV9WS15SVEzAnRjtVlCKS)q3L9lhTxF1(MB9YRc23cmB8WUBfEmCy9ldhwhCig77cF7H6tQJcbCR66Zjrd3OODcLFbY1DmLw3BM(obV4mRXzTuW6vsgHYv9k)HoENzfNJveVBeWtjxiLcFV07gQQifNtDLUIHB0SUoLpagJXvcDeFxrQcoFJK3375Gqq77OsHkIplQYIcJBumnLPikTF95jJoY2C1aCw3oVum0)CgkFNHhzH8SwOpJf8J5))d
 ```  
 ![이미지 설명](https://wow.zamimg.com/images/wow/icons/large/spell_nature_bloodlust.jpg){: width="30" height="30"} 
-**블러드** : 입구 ▶ 7번 (1넴 뒤) ▶ 15번 (막넴 앞 중보)
+&nbsp;&nbsp;**블러드** : 입구 ▶ 7번 (1넴 뒤) ▶ 15번 (막넴 앞 중보)
 {: .notice--danger}  
 입구블 후 넴드블 하셔도 됩니다.  
 저 - 중단용 루트입니다.  
@@ -48,7 +48,7 @@ toc_label: 수도원 MDT
 ```
 
 ![이미지 설명](https://wow.zamimg.com/images/wow/icons/large/spell_nature_bloodlust.jpg){: width="30" height="30"} 
-**블러드** : 입구 ▶ 7번 (1넴 뒤) ▶ 15번 (막넴 앞 중보)
+&nbsp;&nbsp;**블러드** : 입구 ▶ 7번 (1넴 뒤) ▶ 15번 (막넴 앞 중보)
 {: .notice--danger}  
 '2 명사수 + 3 스라소니'를 1넴에 붙여서 잡는 루트입니다.  
 명사수 하나를 얼덫, 양변 등으로 메즈 하고 1넴에 붙이면 됩니다.  

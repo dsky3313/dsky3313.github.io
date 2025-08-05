@@ -1,10 +1,10 @@
 /* ==========================================================================
-   MASTHEAD
+   MASTHEAD 블로그 타이틀
    ========================================================================== */
 
 .masthead {
   position: relative;
-  border-bottom: 1px solid $border-color;
+  border-bottom: #ffffff00; /* 1px solid $border-color */ 
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
   -webkit-animation-delay: 0.15s;
@@ -50,6 +50,7 @@
   align-self: center;
   font-weight: bold;
   // z-index: 20;
+  font-size: 1.2rem; /* 블로그 타이틀 */
 }
 
 .site-subtitle {
