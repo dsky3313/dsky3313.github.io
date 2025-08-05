@@ -34,7 +34,7 @@ toc_label: hodo 플레이터
 | [Green](#link){: .btn .btn--green}     | 아군  |
 | [Shaman](#link){: .btn .btn--shaman}   | 우선순위 높음  |
 | [Cyan](#link){: .btn .btn--cyan}       | 광역기, 전방기 사용  |
-| [Magenta](#link){: .btn .btn--red} | 차단필요  |
+| [Magenta](#link){: .btn .btn--reeed} | 차단필요  |
 | [HotPink](#link){: .btn .btn--hotpink} | -  |
 | [Monk](#link){: .btn .btn--monk}       | -  |
 | [Orange 1](#link){: .btn .btn--q1}     | 퀘스트 중립몹  |
