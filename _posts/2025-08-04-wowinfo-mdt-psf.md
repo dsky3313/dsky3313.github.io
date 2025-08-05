@@ -3,7 +3,7 @@ search: true
 toc: true # 목차 사용할지
 toc_sticky: true # 목차가 옆에 따라올지
 
-date: 2025-08-05
+date: 2025-08-04
 last_modified_at: # 2021-10-09 수정날짜
 
 title: "[MDT] 신성한 불꽃의 수도원 (와우 내부전쟁 2시즌)"
@@ -12,11 +12,11 @@ title: "[MDT] 신성한 불꽃의 수도원 (와우 내부전쟁 2시즌)"
 categories: # 카테고리 설정
   - WOWinfo
 # tags:
-#   - [tag1, tag2] BREW DFC WORK FLOOD PSF ML ROOK TOP
+#   - [tag1, tag2]
 # permalink: /wow-data/riding-macro
 toc_label: 수도원 MDT
 ---
-**주의!** 전탱시점에서 작성된 글입니다. 악탱 등 다른 클래스와는 다를 수 있습니다.
+**주의!** 나엘 전탱시점에서 작성된 글입니다.
 {: .notice--warning}  
 
 ## 수도원 기본
