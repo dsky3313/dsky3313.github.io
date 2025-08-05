@@ -438,7 +438,7 @@
 
 .nav__list .nav__items {
   margin: 0;
-  font-size: 1.25rem;
+  font-size: 1.5rem; /* 1.25rem*/
 
   a {
     color: inherit;
@@ -505,12 +505,12 @@
   font-family: $sans-serif-narrow;
   color: $gray;
   background-color: $background-color;
-  border: 1px solid $border-color;
+  border: 1px solid #2e2e33;
   border-radius: $border-radius;
   -webkit-box-shadow: $box-shadow;
   box-shadow: $box-shadow;
 
-  .nav__title {  /* 블로그 타이틀 */
+  .nav__title {  /* toc 타이틀 */
     color: #fff;
     font-size: 16px;
     background: $primary-color;
@@ -541,7 +541,7 @@
     color: $muted-text-color;
     font-weight: bold;
     line-height: 1.5;
-    border-bottom: 1px solid $border-color;
+    border-bottom: 1px solid #2e2e33;
 
     &:hover {
       color: $text-color;
