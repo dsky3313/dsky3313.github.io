@@ -11,7 +11,7 @@ title: "Plater 테스트"
 # excerpt: "Plater 카테고리 포스팅 테스트"
 
 categories: # 카테고리 설정
-  - Plater # Plater, Weakauras, WOWinfo, Github
+  - Github # Plater, Weakauras, WOWinfo, Github
 # tags:
 #   - [tag1, tag2]
 

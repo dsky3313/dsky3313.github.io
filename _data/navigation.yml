@@ -21,4 +21,6 @@ sidebar-category:
         url: "/wowinfo"
 
   - title: "TIL"
-    url: /til
+    children:
+      - title: "Github"
+        url: "/github"
