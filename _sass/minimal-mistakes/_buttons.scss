@@ -55,7 +55,19 @@
   (linkedin, $linkedin-color),
   (mastodon, $mastodon-color),
   (twitter, $twitter-color),
+  (x, $x-color),
+   /* button for plater */  
+  (lastfm, $lastfm-color),
+  (rss, $rss-color),
+  (behance, $behance-color),
+  (vimeo, $vimeo-color),
+  (flickr, $flickr-color),
+  (dribbble, $dribbble-color),
+  (vine, $vine-color),
+  (stackoverflow, $stackoverflow-color),
+  (soundcloud, $soundcloud-color),
   (x, $x-color);
+   /* button for plater */  
 
   @each $buttoncolor, $color in $buttoncolors {
     &--#{$buttoncolor} {
