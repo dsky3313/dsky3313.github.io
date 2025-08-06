@@ -447,7 +447,7 @@
   ul {
     margin-left: 1em;
     padding: 0 0 0 1em;
-    border-left: 3px solid rgba($primary-color, 1);
+    border-left: 3px solid $primary-color;
     li {
       padding: 0.1em 0 0.1em 0;
     }
@@ -509,7 +509,7 @@
   font-size: $type-size-6;
   font-weight: bold;
   text-transform: uppercase;
-  border-bottom: #ff0000;/* 1px solid $border-color */
+  border-bottom: 1px solid $border-color transparent; /* 사이드바 줄 */
 }
 
 /*
@@ -520,7 +520,7 @@
   font-family: $sans-serif-narrow;
   color: $gray;
   background-color: $background-color;
-  border: 1px solid border-color;
+  border: 1px solid $border-color;
   border-radius: $border-radius;
   -webkit-box-shadow: $box-shadow;
   box-shadow: $box-shadow;
@@ -556,7 +556,7 @@
     color: $muted-text-color;
     font-weight: bold;
     line-height: 1.5;
-    border-bottom: 1px solid #2e2e33;
+    border-bottom: 1px solid $border-color;
 
     &:hover {
       color: $text-color;
