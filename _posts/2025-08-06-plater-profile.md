@@ -29,16 +29,16 @@ toc_label: hodo 플레이터
 
 | 색상                                   | 설명 |
 | ---                                    | ---           |
-| [Red](#link){: .btn .btn--red}         | 적대적 |
-| [Yellow](#link){: .btn .btn--reed}   | 중립  |
-| [Green](#link){: .btn .btn--green}     | 아군  |
-| [Shaman](#link){: .btn .btn--shaman}   | 우선순위 높음  |
-| [Cyan](#link){: .btn .btn--cyan}       | 광역기, 전방기 사용  |
-| [Magenta](#link){: .btn .btn--reeed}   | 차단필요  |
-| [HotPink](#link){: .btn .btn--hotpink} | -  |
-| [Monk](#link){: .btn .btn--monk}       | -  |
-| [Orange 1](#link){: .btn .btn--q1}     | 퀘스트 중립몹  |
-| [Orange 2](#link){: .btn .btn--q2}     | 퀘스트 적대적 |
+| [Red](#link){: .btn .btn--lastfm}         | 적대적, 어그로 높음 |
+| [Yellow](#link){: .btn .btn--rss}   | 중립  |
+| [Green](#link){: .btn .btn--success}     | 아군, 어그로 낮음  |
+| [Shaman](#link){: .btn .btn--behance}   | 우선순위 높음  |
+| [Cyan](#link){: .btn .btn--vimeo}       | 광역기, 전방기 사용  |
+| [Magenta](#link){: .btn .btn--flickr}   | 차단필요  |
+| [HotPink](#link){: .btn .btn--dribbble} | -  |
+| [Monk](#link){: .btn .btn--vine}       | -  |
+| [Orange 1](#link){: .btn .btn--stackoverflow}     | 퀘스트 중립몹  |
+| [Orange 2](#link){: .btn .btn--soundcloud}     | 퀘스트 적대적 |
 
 ## 시전바 스크립트
 전방기  
