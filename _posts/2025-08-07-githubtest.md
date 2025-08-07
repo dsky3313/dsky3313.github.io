@@ -1,5 +1,5 @@
 ---
-published : false
+published : true
 search: true
 toc: true # 목차 사용할지
 toc_sticky: true # 목차가 옆에 따라올지
