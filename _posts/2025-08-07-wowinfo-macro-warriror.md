@@ -21,7 +21,9 @@ categories: # 카테고리 설정
 #  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 ![alt text](/assets/img/wow/wowinfo/2025-08-07-wowinfo-macro-warrior/1.webp){: .align-center}
-<center>내부전쟁 3시즌 전사 매크로</center>
+
+내부전쟁 3시즌 전사 매크로
+{: .text-center}
 
 ## <span style="color:#0b89ff">■</span> 주시 차단
 ```
