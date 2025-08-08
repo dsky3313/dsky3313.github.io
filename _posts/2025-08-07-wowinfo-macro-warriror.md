@@ -10,7 +10,7 @@ last_modified_at: # 2021-10-09 수정날짜
 # permalink: /wow-data/riding-macro
 
 date: 2025-08-07
-title: "와우 전사 매크로 &#124; 와우 내부전쟁 3시즌"
+title: "전사 매크로 &#124; 와우 내부전쟁 3시즌"
 
 categories: # 카테고리 설정
   - WOWinfo
@@ -21,6 +21,7 @@ categories: # 카테고리 설정
 #  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 ![alt text](/assets/img/wow/wowinfo/2025-08-07-wowinfo-macro-warrior/1.webp){: .align-center}
+<center>내부전쟁 3시즌 전사 매크로</center>
 
 ## <span style="color:#0b89ff">■</span> 주시 차단
 ```
