@@ -10,6 +10,7 @@
         <a class="site-title" href="{{ '/' | relative_url }}">
           {{ site.masthead_title | default: site.title | escape_once | strip }}
           {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle | escape_once | strip }}</span>{% endif %}
+          <a href="https://hits.sh/dsky3313.github.io/"><img alt="Hits" src="https://hits.sh/dsky3313.github.io.svg?view=today-total&style=flat-square&color=0b89ff&labelColor=2d2c31"/></a> <!-- Hits counter -->
         </a>
         <ul class="visible-links">
           {%- for link in site.data.navigation.main -%}
