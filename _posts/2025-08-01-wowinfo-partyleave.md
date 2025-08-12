@@ -17,6 +17,8 @@ categories: # 카테고리 설정
 # permalink: /wow-data/party-leave-macro
 
 # toc_label: 포스팅 목차 # 목차 제목
+header:
+  teaser: "/assets/img/wow/wowinfo/2025-08-01-partyleave/1.webp"
 ---
 
 ## 와우 내부전쟁 파티탈퇴 매크로

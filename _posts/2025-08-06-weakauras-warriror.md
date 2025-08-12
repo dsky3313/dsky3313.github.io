@@ -15,6 +15,8 @@ categories: # 카테고리 설정
 #   - [tag1, tag2]
 # permalink: /wow-data/riding-macro
 toc_label: 전사 위크오라
+header:
+  teaser: "/assets/img/wow/weakauras/warrior/1.webp"
 ---
 
 ## 위크오라 코드

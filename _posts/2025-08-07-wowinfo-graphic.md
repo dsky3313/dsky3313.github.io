@@ -14,11 +14,6 @@ title: "그래픽 설정 &#124; 와우 내부전쟁 3시즌"
 
 categories: # 카테고리 설정
   - WOWinfo
-#toc_label: 애드온 프로필
-#header:
-#  overlay_image: /assets/img/wow/plater/1.webp
-#  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-#  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 ![alt text](/assets/img/wow/wowinfo/2025-08-08-wowinfo-graphic/1.webp)
 

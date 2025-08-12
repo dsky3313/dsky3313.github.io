@@ -15,6 +15,8 @@ categories: # 카테고리 설정
 #   - [tag1, tag2]
 # permalink: /wow-data/riding-macro
 toc_label: hodo 플레이터
+header:
+  teaser: "/assets/img/wow/plater/1.webp"
 ---
 
 ## 플레이터 프로필

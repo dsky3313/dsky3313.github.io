@@ -16,6 +16,8 @@ categories: # 카테고리 설정
 #   - [tag1, tag2]
 # permalink: /wow-data/riding-macro
 # toc_label: 주술사 위크오라
+header:
+  teaser: "/assets/img/wow/weakauras/2025-08-06-tww-s2-m+/1.webp"
 ---
 
 ## <span style="color:#0b89ff">■ </span>위크오라 코드

@@ -15,6 +15,8 @@ categories: # 카테고리 설정
 #   - [tag1, tag2]
 # permalink: /wow-data/riding-macro
 toc_label: 부화장 MDT
+header:
+  teaser: "/assets/img/wow/wowinfo/2025-08-05-wowinfo-mdt-rook/1.webp"
 ---
 **주의!** 나엘 전탱시점에서 작성된 글입니다.
 {: .notice--warning}  

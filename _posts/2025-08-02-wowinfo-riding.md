@@ -17,6 +17,8 @@ categories: # 카테고리 설정
 # permalink: /wow-data/riding-macro
 
 # toc_label: 포스팅 목차 # 목차 제목
+header:
+  teaser: "/assets/img/wow/wowinfo/2025-08-02-riding/1.webp"
 ---
 
 ## 와우 내부전쟁 탈것 매크로
