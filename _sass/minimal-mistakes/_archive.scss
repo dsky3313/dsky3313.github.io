@@ -235,7 +235,7 @@
 
   .archive__item-teaser {
     @include breakpoint($small) {
-    min-height: 130px;  //max-height: 200px;
+    min-height: 150px;  //max-height: 200px;
     background-size: contain; //비율 강제 고정
     }
 
