@@ -53,3 +53,9 @@ Interface\AddOns\SharedMedia 에 들어가서 **<span style="color:#26beff">MyMe
 ![alt text](/assets/img/wow/wowinfo/2025-08-16-sharedmedia/5.webp)
 
 위크오라에서 제가 추가한 사운드를 선택할 수 있게 됐네용.
+
+<audio controls>
+    <source src='/assets/img/wow/weakauras/2025-08-16-blood/1-Stimpack.mp3'>
+</audio>
+
+스팀팩 사운드

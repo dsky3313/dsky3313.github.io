@@ -42,7 +42,9 @@ header:
 
 스팀팩 사운드는 **<span style="color:#26beff">SharedMedia</span>** 애드온으로 추가할 수 있습니다.
 
-<audio controls src="../assets/img/wow/weakauras/2025-08-16-blood/1-Stimpack.mp3" title="Title"></audio>
+<audio controls>
+    <source src='/assets/img/wow/weakauras/2025-08-16-blood/1-Stimpack.mp3'>
+</audio>
 
 스팀팩 사운드
 
