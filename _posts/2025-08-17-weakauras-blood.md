@@ -4,7 +4,7 @@ search: true
 toc_sticky: true # 목차가 옆에 따라올지
 # last_modified_at: # 2021-10-09 수정날짜
 
-date: 2025-08-16
+date: 2025-08-17
 title: "블러드 & 전투부활 위크오라"
 categories: # 카테고리 설정
   - Weakauras # Plater, Weakauras, WOWinfo, Github
@@ -48,7 +48,7 @@ header:
 
 스팀팩 사운드
 
-**[SharedMedia 사용법](https://wago.io/ry_EsCrIm)**
+**[SharedMedia 사용법](https://dsky3313.github.io/wowinfo/wowinfo-sharedmedia/)**
 <br>
 <br>
 
