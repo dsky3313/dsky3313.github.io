@@ -8,11 +8,11 @@ toc_sticky: true # 목차가 옆에 따라올지
 # published : false
 date: 2025-08-09
 last_modified_at: 2025-08-16
-title: "Plater 프로필 &#124; 와우 내부전쟁 3시즌"
+title: "플레이터 프로필 &#124; 와우 내부전쟁 3시즌"
 categories: # 카테고리 설정
   - Plater # Plater, Weakauras, WOWinfo, Github
 tags:
-  - [Plater 프로필]
+  - [플레이터 프로필]
 toc: true # 목차 사용할지
 toc_label: hodo 플레이터
 header:

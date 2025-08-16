@@ -1,0 +1,148 @@
+---
+# bundle exec jekyll serve
+search: true
+toc_sticky: true # 목차가 옆에 따라올지
+# last_modified_at: # 2021-10-09 수정날짜
+
+date: 2025-08-16
+title: "MDT &#124; 와우 내부전쟁 3시즌"
+categories: # 카테고리 설정
+  - WOWinfo # Plater, Weakauras, WOWinfo, Github
+tags:
+  - [MDT]
+toc: true # 목차 사용할지
+toc_label: 내부전쟁 3시즌 MDT
+header:
+  teaser: "/assets/img/wow/wowinfo/2025-08-16-tww-s3-mdt/1.webp"
+---
+
+**주의!** 나엘 전탱시점에서 작성된 글입니다.
+{: .notice--warning}  
+
+## <span style="color:#0b89ff">■ </span>생태지구 알다니
+
+![이미지 설명](/assets/img/wow/wowinfo/2025-08-16-tww-s3-mdt/1.webp)
+
+```  
+!9z1YUXTnu0ViBW3pw2KIbnOaQbGTzjr94HYDA1ivmsYXztxxGKT9pOFafOBY3uD)i6LVejNjU2YEGiV8Co3JoICSy73Bnho23F8(1HLpy74wZ6XdwZt9V)XFW8Tp9nN)jR5UdhMgFN788XPrOeo1AE8UHvNFXNp2V8D99ZULz42opGlWVM7xpF2nU821Hbyu22aM19dUhD(bTg3O70h(Q55JpmEcMBoS4CLF964dUPX3C4jOwcW5IZD644d29wZSBWD)Ixobo9eal8xbY2ur(FDcBhX2XSDuF7T4VREIWq0MHKHAJlI5RWFjcdctPcx6WfgL(d7rHLqjUyIFiEwGHgBAy6S103JGFQusQeuyz4iaQa1YAXHJQdZdfGPHkWrbIj1cqutDLAKbdgeE4dGW4N40NKK)NLPqeLPxaLr75iuqfLoRdR2Ulswhn7E0qEilTyvA)iI0nBkB7gvd0OT(OOn6bVjwKUEB5bhQQBYgrMnEnBSKuR4K1WjPIteQV3TVWv65LossaFzJlGJ2qmBOU4PSUHhwdpexFFfpIidY62ax3g4MoGGAGgxJ9bSVlkytjrSJRnzMY6vwGn2uQwW52RY1fW5r7n(Qhnismn)uXx1frnVRu1EeutoOU1lAaB)cPiEJJt3kVelUmoRBnp6fCfzjpkTXdY7zKbVBlhMACBDannzDWkfMlRp3tSgTqADE71jZn6Ljzx)IBowTHNU2XuPSCiWIASV2DDYqZAukVrPQM1FrIH0yuQgZjsfjsfffFbvBVk)UyZ7)u2KVeUcu3W5xy33cPXnbiQ4oLYSReBtH96uAE7tztizzJJ3E3GBzX9MX(j)QVBDz61(X9ND9kRzC90E35xVoVmDkm(SNW2L6pZt4pj0xuAW35pYT(4TuqdfeE95jXj2jjiUeumtHOsLsB7VHZkftBkwj4uTuqXeMulzmFX0sXPTVHYWHkfmUqWbtdkl(AoUuC(ObuzIDkkcjHfqPuMKRs4Vu2rlu8obtRbnW5enIi4Ye(0OlNJR7KufHkXsf0FGyuj1U5gTB5wPpCDE7QjQE76YzWV4mKxyMqGyX9e8))9p(0ZF8pF(J)(V9J)ZN)RN)7pBnt7)z4BWS940CW2(6wcgW4Fv4BL5Z9cxy3MBubKtwXnGdWucPwtGCTMH9EriWpeRWW54BdBizUHYO3gG2Wv4BfE4HbjQBtB057fZOpLM0Zo4znsiKicdbXdL)bcl407UrsrCmJrOykhIzHPyxQ7bichXMEf2qqtRqWfdRKywgGi2aFibdHWcIs6Jlm(lJn7ASzmjsdzdmfPfOmaES5eMMXXAUMbZkL))ydg57DUFj(m1(Fd
+```  
+
+![이미지 설명](https://wow.zamimg.com/images/wow/icons/large/spell_nature_bloodlust.jpg){: width="30" height="30"}
+&nbsp;&nbsp;**블러드** : 입구블 or 2번풀 ▶ 2넴 사이페 ▶ 막넴
+{: .notice--danger}  
+
+14, 15번 풀링이 너무 멀어서 수정할까 말까 고민중입니다.  
+1넴 ~ 2넴에 **<span style="color:#26beff">과충전된 파수꾼</span>**, 2넴 ~ 3넴에 **<span style="color:#26beff">황무지인 서약대변자</span>** 조심하세용.
+<br>
+<br>
+
+## <span style="color:#0b89ff">■ </span>속죄의 전당
+
+![이미지 설명](/assets/img/wow/wowinfo/2025-08-16-tww-s3-mdt/2.webp)
+
+```
+!fAvZoUTnq4NOaWFg(3XMTWabiWjaQnhf661ulCRSCHTuA2l9urV1NI(ceGEjptT5HOC4qjn0762fEnSiNF)MVps1kB)U2M9h66o8Wu)4tTBLI2MPd7BB((3QUB6PnV7TBuTn3VF)PHpepF5WPH2TgJUT5J33pfrV)5P((lPFSvY(ARk)j9dD6BB7i(iTJeFqV8azzAjyEjn5AErZC4aYqxoGkdA(wvoU2IjA8bh7HMho1F6CBtxNi93sjmxhUQ6OKuGxjbAnbVqKgArpviICHiDObBLbE94NRhELyTuLO5yvOYKotYKLOubnEElI7SUxP6eCK2w1HsgScRlYb5IjwQ3ueiZHs9Eemz(qoc8SgQYQBgU4zLfrHORlUlxxRJLvuS4an9P6YWtgWtMnBLHNkIgc8U0uLDvSRJHQldzwmmCVH5yQZFGIfyUTyuWp(8NkYavkb(8JJc7LioG76XD1lZB0lIZhOKvnG1ln8vC9v6QCMdNfI0ifHtKUQjOoKS9kgkvgLICm7phEYCij(ybzyMSiLEXusWKKWjj1IOKk1DOKcDckLT2x8wqXei95waixa6KLT6mQkROFq1GmWilxPZM7J1EtEDVLbAIAPjvV2L7PsIfvdlIJsgW11fLZALbmHrGZ0YDYiVNwW11k7zYhrzkSCkROchSvC4IQGMqaXQb9CLq5M4GfCqQz8H5KDLiQ4l2sKT2BivG8wMsEGL8WjpvNOSsIhx1g4rVk6mlKiWX6IAAbwLZS4mayFr2ajBwo2GY)lCl1kaxo)vMJNsWbiL8khl9pC9ftKytcvoZVOetq(ad1SnfaA(hq50nPTAcD91veTus8sPAw)NfJajgNzWlh0KTrUOIXRGLe3gDHjCTK5YIKgfY4sHYqsqlLVDrM7p6FD5FOTE8XKMiv6AfKm8FcUf8AgjMj0PWFj2hFyeFdgMeP5HPZNJdJnt76JFm2J70ehIhF6BUC5WJdht7DPq3jl)2PHhJNgEZ(pLsy6TLgJXJhgESD3IfVp9gr5W3C(q34766UehxEdPsXKBQ3FFFCCm(MHUtyJE)04P7W1XW962MHPJ7INVB6Y4PJ51VGOFTRyvyXmJgvw8d4RMXFLScur69QBqYBSXPegxIkcEH259H2UxzGvJRKbB8wJo4SAPcCbx604KX6vJl80KzYSLwWyTgLhnZW4UvVvLyDJnETq4soO1AWz8L4pUkCZgVXcHqQgmgvqOSgxj(6YCVqc240EL2jD(u)LkgFPAxqJSX(kysUUr4wBSEB3Z2rEZDu3yNmHym(P03F93)JV(N)2V(d)9x(8)8xFPT50UFmXzxMLndiVyFP3SGtObHuh84Sdrki3BBEL151basiKw5DclUfusyAe9Ae6B6tKg6mg1ZIT378HGc8MG0MW6saYXoH8wLfaVlHUb4)j26NfBNr6suiWKQoHsLlolfBiyCsH36ukPYjXXfyUzSta2VeJ)eHIT)7
+```
+
+![이미지 설명](https://wow.zamimg.com/images/wow/icons/large/spell_nature_bloodlust.jpg){: width="30" height="30"} 
+&nbsp;&nbsp;**블러드** : 입구 ▶ 1넴 뒤 계단(10) or 2넴 ▶ 막넴앞 중보 or 막넴
+{: .notice--danger}  
+10, 11, 12 관리인이 도망갈 때 애드 조심!  
+cc기 연계로 최대한 도망가지 못하게 막아주세용.
+<br>
+<br>
+
+## <span style="color:#0b89ff">■ </span>타자베쉬: 경이의 거리
+
+![이미지 설명](/assets/img/wow/wowinfo/2025-08-16-tww-s3-mdt/3.webp)
+
+```
+!vEvUUUTrx4hNujHzFPmXbcWajmgGg3scjD1W7vXsKgIKEPr9PlnP1ipaPii)n(z63(HiNZmd5muljiggI0FN157Sm0v0QxxvUBFD9(hho0)XQckPQCy)UQYx3S6hE7dB7)rbTQCZUDTnp4o1TVTPQqk5vLTB)z3J9DG9fbNeERGQQky(34(FfvFhyrvjHuxRCvfG4fMQ(QYdbdkzsXslAt5cbJSuGgcG6LC04YfCdkhmOpyWQfAUrB5sk3YOcMHuvVqYan6rVKsLvsUrAbLumkJsfAqpHa1z1cJKW5wcNPimdJPIIMNYhg66pV(9p7AoVMFA351BB76oV(X2Jo4XU233S886ZR3xFE9hBhqKMVbmiy2ZUtUZR79g72dppnkPX9b433oC4W51Ta6PHUNbnBbS2U(JB66rD30SB0G(N30VezGgiX6XSmJVnb6E5)cHxO92oX6ulzPkW6mJCPXZ6iinW6mJbLlNavjqnaAS4Bge0sXIMDceBHgrP0amMI(yzfyDLYtWImymCqm0(2iewJHMQtWMmyBagpgKiSi0gi(pZq6RzidlXqkSf1N0YCgseyOaOkb6ty9edbNutKH0jgkGsJfdYedrNyOiSid2xqyEQnWqmpTOtWMmymKa1QNyibKOEgsMpOOeclrRegU2A0WapmniddkcJIynggHWSgUvFZbLyV8qFOn(dz9QQ84i0WmNLjmsHGzv5dKkfvzTuJsWnCQ42dKDVz)BpV(jgjm0bJlD73EWLfo98JLXqLCbSaGPJd58y4OcRqQPAjNsneXDN)Z8Tb9n(EkaGtPsMMsbY3O9NhviaAjewcNiTmTKkLrk9MbWhK3T5WGdJWP919)uDDNlTC1RWJdNo5A6FfW1HIFeOCaOG35o4BADnUJF8BbA5PMJGSoVXJA(9dnp5ABE5Upajc0X07Ch338u1wGzDhGT5429PT49H66usm(tHnBbpdpmfMXvVEt9rS9q7PQY6Ac8NmPbv0EdvEpWh3OHcyrxhhHVasEZiOuHiWZJGyMk1sqfFR4O5tUFw45PThtEsM5j(o8aLmwKNv8yUMgVIwHRzCBd9MJXpoz47PMYjBSAnAgZvxp1uhr3rr3vHRqUWY5K1y)68cbUTzUMf(BzlethEVRyICVZYjECl1vvgM6FS0etw9m3i9NwCF1TmnuYOJhmLxv1nZJXUjF6hpG6PCmpeSBulP2yEOMcvwD0hKllKJMWLt9iOjApzA8KP1d6ZA(f1DkFMl9f5KRg7Ic1f0CXfMlUr3aF(0cFw2r5z1AQV9fpxycsPZYWXdT3swQdlLsEpZOxi5Qb(cgFwde7kdsmopqMm9ndxH)k2azI)vCDdwbZEL7dohpBSS2m8Po(KLyhm6M7CyhnjLF6z6lMcsXD6H5ZMuNY1rNNpLo2tYPvx2OpDprp81JvLF93(0x)0V(L)63)6V8hNx)))8F(L)3NJU5vBo467DVSPUfD9MH(2xG44ME4URMHJBDNEbCZt7rpEN)ZvMzkEbH)cguPi4d49t5xgePkINQY3XheSsZisnuFegcxBmw8R0fjL5Zu2OKWhxO4uMqB1c8(yjpPCS9guJ61ujKkLekcGAYSUBVYJ99KKGvgoHObd4CUqlnr)3NUuWRm8fdwlKdsjZsykPo6FESseBbwb)hqyC4JhmW5dsgtmBNydVYZ7OOjb27jGsURe6DLWUJeFZY7DU3e(Nv)9d
+```
+
+![이미지 설명](https://wow.zamimg.com/images/wow/icons/large/spell_nature_bloodlust.jpg){: width="30" height="30"} 
+&nbsp;&nbsp;**블러드** : 2번 풀 ▶ 우정국장 ▶ 막넴
+{: .notice--danger}  
+
+![이미지 설명](https://wow.zamimg.com/images/wow/icons/large/ability_ambush.jpg){: width="30" height="30"} 패스 : 막넴 앞 중보
+
+난간에 걸쳐서 클릭하면 패스할 수 있긴 한데,  
+글로벌에서 너무 애드가 많이 나서 그숨패스 하는 중입니다.
+<br>
+<br>
+
+## <span style="color:#0b89ff">■ </span>타자베쉬: 소레아의 승부수
+
+![이미지 설명](/assets/img/wow/wowinfo/2025-08-16-tww-s3-mdt/4.webp)
+
+```
+!fAvZUXTnq4NOaqYH)EmXflQVOeazKJe12lLX2QvBXkP0Kl9EVv0hGI(a0dbThAEMQZdrhYHuIYBCJH3vl5mZh)Mz(iP8C)n(29h66oC)C)0h8nCMVD(WEF7vQRBF9HBgfF7l9T3UF)PH3gopE40GVrPaF7P7((W9tJy8nei0V2jvwdxY1CG54kW57EHu6Be(DVWODGfuGu5ekdolAs7BGyCns)RqK9T9ZJt(jF7aoEkgxf2gJ2ACAlyLaO0QkSrmzCddrNBzAcB4RGnSbBTXz1sRqjbMMbzYL4TuAqGvAU1zforEz))Wg)X7UTFoexHZh6MEDx3yyTALC4(5ZNddtVzUVpoBzC78D9H3fO5cdHJF4LJJhEy4iABmfBXZVzE4HWPHR3)EKmwF7uiC8WWd(78TJHES7e7wPve)hd7hXvAHcLVA4qmlB45msftPgUoMunc0ESiG2n4d0UfFG2D4dBsT0armWpqee8JqLXutGkmeQchblGXWnjC52eGChbiJauKbuuaeiUijsOOWf54tWNPdIqwYetmrPhtTPysskckf1rZYQ6doF1aeRyToMk0tBU2FQ)0zFBxhd)lrWKzr2nHm3El0GGuRsRVMK7AlXatIlAQiRPISwMQjAOovsLJu1PkLWIBnF06iFk5GnfGHOcutfdrfdvlmYevmu)2q9fllrfJlHJXMApAh1EmmIpMC7XW3W0nvDSVxvKL1fz3AgTMdDkgRkICQqU6yjcJB)Ie2Xte2bjc70jc7ujc7KByeLVCDnXIAnbj1GKsRU9VSHyLAW(ydV4vzwgRRlCxKbxkYkdtna9MGeHUoFu0wKBjQe9ZuRa51JwmM1z2nbt7Dl)yL275rkgl2xSuzbBbQcE6SUH2NezrPniOQsCUcCQQfh8xS5i75tLOLOn0wInlsPcMigNLM16F62YNKkCrLhxkM4lh3LvfzDWuUAUwWvlP6fD(OCGmwk0LAinxwzmvXNYAOUi3EQ(zb78Pe0oZQUuJDbB4RNmWYYoDPQt6Vzd1fBPUCH6lg5QVq5TOSwOEL8quxvxbOCc5YfpvIX6o4ssZ1FHfErBLUdDk8E87h)T)5Z)(V(4F9hF(x(ZF(7(3p9Xh)7pLd4n32hMMcxp0DcbR925PtxfNpEp5RWBRNpEx48v4D3NoMMFmw43gA86vD8s3Ot5jFB8Y967sZzdDg1MRHsg2zemLbL)sldmwB81IuYvNHnoB14loz0axino6fLuWQZ5so6gp5PwQ0AfEbi6w(WUvNlnp2QHDwGXmyaaasJYMXFA9GSKZ70sNd5GsjCmHwzY4d52u(4PDgWkad3yX8djJnZ2LQbViGxlt8vdUNZaN9Sw4pRfXZyjjw(Pq4hOH()7p
+```
+
+![이미지 설명](https://wow.zamimg.com/images/wow/icons/large/spell_nature_bloodlust.jpg){: width="30" height="30"} 
+&nbsp;&nbsp;**블러드** : 입구 ▶ 2넴 ▶ 막넴
+{: .notice--danger}  
+1넴 전 멀록구간 애드 조심!  
+속죄 관리인처럼 체력 낮아지면 도망다니면서 애드낼 수 있으니,  
+CC기로 도망가지 못하게 막아주세요.
+<br>
+<br>
+
+## <span style="color:#0b89ff">■ </span>메아리의 도시, 아라카라
+
+![이미지 설명](/assets/img/wow/wowinfo/2025-08-16-tww-s3-mdt/5.webp)
+
+```
+!9zvZUnUnq4NOfG)tQJDtRb2lQlGd2JeXoMkXTYYfw0B2Czp1xHESVdfO9WwG(e1DFi6mCiLOCCAISSf5Wz(Mp(nuJN7V1VE3(UU93FUp(SVLl9RpVFhmyq80nB)HTXN34xVz3UJdFiCAC)XbFRwdgDC7pfUpocRVLCc9RvAMqALWLtQBuAUV7nkLVv4x9gdNPLCTXATCl3XWP0(wjUUwL)TGN9RV)Xn7h(8Dp9yaUpggINEg(oU5HXhd99F(UDHn78r)6bW(i63QyRSsM2j5sfx6CMgmaYsSfsjZ5A4ncRtLIT5Yy3FEmw5BzTVncaYCMeCGXi5QSdqFBngvdJ1iemb300C186cFRQ9TvdUWPennwftRDzhK8TvYnwbtPua3XKz68)Z3Wp(4M(ZbmcN23f)XUUXW8ovYG7pF6eWTV)CFpoA551N32h(yGglmeo883noU)HHdWCJP1wS87pp8q44W729jWwu0edHd7hEWV1VEm0dsduQKcjCbR7xGqnHHYnifXljLrsnMsTsdMu4aM0Z20JU0Jny0GpmyEg9Bbog6eEs92kal5OId(WrweMJJ7uiNb(saF4GncyooSwHPOJqaL2sBvIu8rXJkfDDcgiEiaPiejiiLCjlhAcsz5ZSl1LDDCO0MBBkW2As6(J9hp5x31XG)QGvMSyeHXP9)MAClLxHjXuwtmHjLWvOYvJNepqbqsSvM80e3AO8ZMsVACAmmgLdXkNNDkLL8CzMLCQRg1CIB45QffzIGIRS4XkGMYztwjwarNMiRunvEu5oKejBl07CyTuyDZezeJ5TZMSKRrnesIeYmeFAYIcdjoTjPGrwtYQfKmTfXvtbRGRLjeJ11f2wgFEurORlrzxKrXe(kdwkPsaoPgIvYSjXcmeNx7jN)2LlVCeZCfGjDzXlC5SROC3Xr0t5CejKLWkohP5taQcUJyisg2qQb(cviv(HujwRPNasmzsv(ucT2FT6QMkMTOINsiXcVTaGfbRL4hhbXSaICG71uql4mEMMFHoEc4PxAsNrmHL8MzM8OtZtbS236RSqvnLqQFxMKJxwZmTUsMiPTfjvilPczzZIGA9VqaNIxniiUZMZb5czGEAm8BTFzbrw6RMt4edtjIGoZtqBgcsRkiXQOWy1NnuePCxTGHBx8efRcyUqbvqFXyTVU4HxQFuzINpDeWlkp1531rHYuVVYxCkYumM3EFHaE(usIOBPYeuIYYvWL9J4ukFP(Jp)gIY21CWlNCAQ1)cY54lrmKG3Mf8rprYxEQmVPM(eSlONyYlxog9p0OXNG7F73(1V(7)Z3(7)cU)57(3V8hF9p)somVFtFigdVBO7ig6nNJhVbhh7o5TqtsNpSnC6gOLPJhsJpI4D5sXUAmyVoOr5b)a2tvDhmzOrhwv)2AAIvqxBqFDmMYXKwOZtO1nTA2y5cJDgTSXcnwkuwOlqS9sTC248olygpzPrPngTa7uuRReDjJlBwS5jw5KmMfwGukvwTl7)48litgVcAKTbWGwlAycJ2M9VmVtLlrwbD3dD5ZToi)aW4YODInw8gfEf(wC08lMGZE1z4V6mIxzMKy5Pq4NPh9)h
+```
+
+![이미지 설명](https://wow.zamimg.com/images/wow/icons/large/spell_nature_bloodlust.jpg){: width="30" height="30"} 
+&nbsp;&nbsp;**블러드** : 입구 ▶ 1넴 뒤 계단(10) or 2넴 ▶ 막넴앞 중보 or 막넴
+{: .notice--danger}  
+1번풀링 빡셉니다.  
+끊어가셔도 되용.
+<br>
+<br>
+
+## <span style="color:#0b89ff">■ </span>새벽인도자호
+
+![이미지 설명](/assets/img/wow/wowinfo/2025-08-16-tww-s3-mdt/6.webp)
+
+```
+!nAvZosonq4NhoSs2UCz7CKDqTyfsHvkJwUzr)JZsdzsqDNSmCHlCHhbUW7asCzEMGL3bkN4exUhgeJIA1TD5V6R(QVuE8s)9(MtNBBpFCQB8h91sHVz68jFZx9jFE7NE801VaF03S)0PH(3fUC98qVVgrW3mC4BdhhVsNVEbKLVTdTkN1asNrRucu4BFLg91k)UxHkeqT0aiirhQIBP91q8C1A)RjK9nh)M9N79J(MEAHX4bzGBjaaWHAKG3aog4wJZkDGabHZ5uM)vW7MUoYWgkjoQSwDLgSe5m2iaWc2gP2HGtiqNgRCvP0(FITUaBcbPYbwH0iucdJ3ouOmskFOUcaH9)bVPV8H9DtHygooD5sOF8TtDD(A32VBMo0f(qOlIsZLZTJFzB71qUDndsk2pBQ)9HH(3C6rApjf)yi8W5(37p4BUg6OUCSRpFqkd05(EkzBiT(r8rn)aXNuNlVQCvWxInPqJXY7(zYm0nCX302kO)yh)(KqeXyrZnCWboSQvyxZrgvJzbvGJAvriTifY2XvRCB9hzOxLIiLSCYOz4bNILsgc5ce4CtBjeHOTnCG2sxgJPqw3edwTHSWQLWIahZoXNKUK6fZkTlT4mzRwRjfJTcHk02sRBxsKCjHzaV)gwKYplJYLEea8mY69vEEF(Kmw9PeXQDxrTx0Ql7wZ2KnnOOYWvAnUTkJR56GK2x0QmBu4QvUqKBqVaWATc8MYQH9zgS4XKpxtHSMU1C2KwvrxSAHkco9Ky2dCJdCCtKLSYDdBKvs3AmnLAqXB1UKeam5vYn71YstaKhQfFWs1z1a620w9ZfPYUOlZUnICtZCZLTsWCRJ)I4QBsA8CZ48qYXWJ0NF8N)Lp(Bp93)6t)0x)Np97)1F8u6SVDFxyCm8M(2HiE7NghUlUEC85RP51tpCiC5oA69WdZRFnY(YJgh7AIdJJbLw8DXX78rSjzC2xwZhpUSXolDvRL8TANaSU5BOqDoyOiyNbHQ4D0kTTYs32qbd5GtcpfMCosJgngufVSft2SCWRDCrEJD0TWc6YuhaGMUlnHpZDph8oJUQI4aIQk6kq0MWh8fg0DwWPaR0s)xfcImUeB3uJI3nKm(j5E3NTb7L)B3r(I7OEHDMDk)qi8Dl)0)pp
+```
+
+![이미지 설명](https://wow.zamimg.com/images/wow/icons/large/spell_nature_bloodlust.jpg){: width="30" height="30"} 
+&nbsp;&nbsp;**블러드** : 2번풀 ▶ 2넴 ▶ 막넴
+{: .notice--danger}  
+<br>
+<br>
+
+## <span style="color:#0b89ff">■ </span>신성한 불꽃의 수도원
+
+![이미지 설명](/assets/img/wow/wowinfo/2025-08-16-tww-s3-mdt/7.webp)
+
+```
+!fAvZoYnrq4NOi1)v9phHGgPCXSsEjsCPf7mt7Lb86jAg7Lah4uoWn4is8sGexYZejpeuv)JD7zMvKyT76UQ67RQQ)AxTN7V33EC7pe2nEg)ZM47d(V03Up96gqimGrAesPXz5gF3RusFJWV5vOjU0jbhxyfwPGmP8nskUgfcsd4B399pCyWpI)hJ5kWbHwBvioGtBnUkWvGdyATHRmat4S3e8(PZJjSLxHTXXmghy5AMHXHcae2wTLj4kLMPDklePfEzSvxN3gNqOuwTKXeAtbGyERbJcum0OwA5)p59OV9NcHFKm2(W(9hhEB405dhhqVaPVD6WEF7xeE6BKV7XV90VCNV95h6Ncu(SB60PWW4Dt99y0W8cTtB7dph6Jq(o068(A5hyAspY4Jk(aXhNVrJoGRAWFjkBzuiskt3DS)4jFBxhd)h579KlUIlXMlIgUgVqfFzNFMEudroITMXei0IqoykN0Kb7mcP8TMFTM4VqmNfDXfjwVMyznXjPvQCAe666JVc)oOuFKnBDvMshzQ5XLroDXgrwOmhMPUkGOJSBWMCp1pZOm76mDIeYqDDif1DUyDBUbYmwxxy7C(1mNM6cy1(kcDDyTDXgxexbBwfu1)QIEpN4kx)rzo5NUeGI6dnqEVn1BOxT5MeSc(QdlnRkuUjLt2v5KALyX6VwNc1nwDTNLg9myqoXRH05Vw6vGuh93eZ4vYzmQOSLLyjUZFP(siw3RJhAUuwuauKo0kiFxY30jjBDtmrmVqSyv9LoJi9vkuEjqXTKoLD00xdGL3IKusC5ksICVWI9gYSzCLRGvw3cfjvKiVRNdrTqYAT4cHXAjxQWQ1G8N8Us5wC9wFIlgBsyiYs6ydNxFMRkXwtf9OZvGEvfu27i)CRk8BO4Q47E)1FQsiRZfrHIK8uKLN5twqXK6IZHXPr5PiF10WJHJdVz)7PkcNUmgcpDy4r)wF75qpEDbAivMt6Gv7PdDJFDx35WYfjYqogEp(Zp)B)5N(9p85)6p(1V7F)4F)P)5J5I4Uh6dJJH3m0DK2aEyA84RP1jYWjUdtpTnC6148YJpfx)mLSRdLssnL6Kt5fFlnNSE0xwcWI9GydvuByJrWad2QvwM0yT0iDqT48kX1gRgKoJwYfkJZGZ3rNLloN7)OB8ONAfO1GGUlaav6wwT6VsqVXI3RWGbiLs86p2m(vAKOZB0kNdZb8wuo8AiGjJVmRdYcMngPvinCJfRpmzS5SDUBeDE98w(Ib3lzOAC2Lw4VOfXlyjQu2FOR7WUP(XF2N(aT))(d
+```
+
+![이미지 설명](https://wow.zamimg.com/images/wow/icons/large/spell_nature_bloodlust.jpg){: width="30" height="30"} 
+&nbsp;&nbsp;**블러드** : 입구 ▶ 1넴뒤 (7) ▶ 막넴앞 중보
+{: .notice--danger}  
+오른쪽 루트입니다.  
+파티 조합에 짤이 부족하다면 2시즌 왼쪽루트로 가시는걸 추천드립니다.
+<br>
+<br>
+
+## <span style="color:#0b89ff">■ </span>작전명: 수문
+
+![이미지 설명](/assets/img/wow/wowinfo/2025-08-16-tww-s3-mdt/8.webp)
+
+```
+!nA12oUTnq0VOaWzgE91KadeGc1aOS5rIUETuGB1AvytLM(sFUFc9JOpuG(Y(nL0pIYBIKY76IUlGHnNzoZHN5qrzb7hS9hoooE8HLj3VA7aTTF54bBp(D67MV7TU72jT93F4W8PpoC(YX5t2oHGS9Z7)XHhCx813Laj9TD(GOIanNRqqRq74R4CBhA39kbIgc4kdAyiZVQpKW2rH6642x7r22pTCXzD2(t(F7c11ITrl4mJwJs0yGi2Ye2CnzmeY0sozaTm32)tSPwSLehuiJrgTbazeBkHTuJCHeadrkUK))bB)x(89tldHo8WY5ZdNCVFzAYxbvwOFz)0WNhclA7pFC099JJxgQsAeLCUVD50NgMp9UdFXhdm2E3WWJhp9j7EB)LHj)KimzIfgAHVWF23UcuRF0rRAA4h6Wx7mHL45LeXLIj2jdbe5aQyaDmGjKFoBccj2bQykE3JVgGLlcZOf2hZtZNT9JJm)FfsixPmpLjLuvi1aSLSRPi20b(gSLsp2fkJSufXniuWjtl3QdifYf7(1Pu0fADZqPEwzaTHbJIadaEd9k8bKn7auuuCxTrWvmHV2tkk284eqevCzqWDHHXh2Gh2Wh6qqVB4JOLpyEFIL9JRjCRFOvLzSXXH9ncWQZOf5uzOmjCQ0grNWpnZ1fTo0Ct7V85F9CO2CCyCmKumhvRmxME4gVul3pab2N0SQ)CZzI8QSuXMeLtKvTHKx7NsoJo(v4HPHoUr5HuraZ(sNmISRuFYcGuLhjjPUFv2BFgasgxaxfJibXIcwnGX55ZmYInkLC1lwo(ZJlUcb0arX7rzdkRr(QhibBRthALokD(ftp0bnVGjSqptAeu1VcKRCJkTR90c8CZv90Y6H(MjNiRdnTzD)W3SFspBvTXkOEbR4kWe1IPQ2gqARMCxEKCLPPMeuPC(XAfiqW26FVUI0K9zojx8F)1nFX)5)87)X3(ZN(TF4Rp9xF7VFkN67VFAW5gE3PX5aZUFXn)MW6HBNET)(WLh3pC(n(BhNFmU(LW2BBPHB1KH76cjLx8JHRpBValZ00jtM96ZS78xEluEkZ1msP1g)T0cEn5npCFNwkiJssa6FDev8vreun5SdWNgeZu6V)xk8orFATxrYA9gSAGDAIXu(ciI4kHoJVREJxm5DsU)LwauicVrKuOY4t5Hu(i6ofPrsbkTF)5jJoZ2IAetwVrMGAaZTcaSBgbUze8grI2KFzy4Ns)0(Vd
+```
+
+![이미지 설명](https://wow.zamimg.com/images/wow/icons/large/spell_nature_bloodlust.jpg){: width="30" height="30"} 
+&nbsp;&nbsp;**블러드** : 입구 ▶ 1넴 ▶ 막넴
+{: .notice--danger}  
+2넴 먼저 갔다가 1넴 가는 루트.

@@ -11,8 +11,8 @@ title: "Plater 프로필 &#124; 와우 내부전쟁 2시즌"
 
 categories: # 카테고리 설정
   - Plater
-# tags:
-#   - [tag1, tag2]
+tags:
+  - [플레이터 프로필]
 # permalink: /wow-data/riding-macro
 toc_label: hodo 플레이터
 header:
