@@ -1,0 +1,55 @@
+---
+# bundle exec jekyll serve
+search: true
+toc_sticky: true # 목차가 옆에 따라올지
+# last_modified_at: # 2021-10-09 수정날짜
+
+date: 2025-08-16
+title: "블러드 & 전투부활 위크오라"
+categories: # 카테고리 설정
+  - Weakauras # Plater, Weakauras, WOWinfo, Github
+#tags:
+#   - [Addon]
+toc: true # 목차 사용할지
+toc_label: 블러드 & 전투부활
+header:
+  teaser: "/assets/img/wow/weakauras/2025-08-16-blood/1.webp"
+---
+
+## <span style="color:#0b89ff">■ </span>위크오라 코드
+
+![이미지 설명](/assets/img/wow/weakauras/2025-08-16-blood/1.webp){: .align-center}
+
+```
+!WA:2!fI1E0Xrzv8mzPISfPjPLi9fel0iTkPn7MKMY5Wb3jDdj10K0z30xNk786B3zAMDMHVz2KS9W)qoigW3Rkk(aXvQpOiQlkQOIyuHkO2RlOU(c0OIIWb90Jh(dFC0733mBE0KuZ5KD(MzUFF333F37iCOw8u7UJy7UJyTKVf9w0NzpI5OotwEGrKg8yJmC6ednNQdvNqfv0gxN64kLYXYuVesub3b1CSVIgx)qtNJAQNUOlzBs7ZTjpdfkrVFQsEYqKjiwgLZwWYQptQMfrwYZvrJSMsSDCytDFJ1sv08nDS96rYZxH6hv0020pQAw8INr0P9PM5YrOEBQDA4Y7OSorTq2Smgshi5qJ2)ydj6J3iPuGQeBApxIL1G6ErNZRGkka2(PqQnNQsM(sKkDMuPtiLwSaYevxlLIe68KnkLGKjLA0KdnKe)jQdquS8nKSrDXlAPc2HIq0kAowfYBNIPmruPk6Mf8U9lD6cEKHmZB6BusX2mVctV6bED9dBq02XMmlrXJKYNsSZ5BCXv1rPLrrgMSt9iOXu3BAgnmnd2UyEftBCVW2H2Vy4ncxlSdC56o)NiPyzMZwsAWBAG0ttD85NPGOoXtZDRg((UEx)U21Kk5C6W0zx0Izs61hDW87QZ4rPObNPncLrlGejhZleTsG7Uphlh6(JG)52eQvjS1mCOJsOJH2ndrlhf9(f9mpjPvP8fS8nJkIwDTwHEIkPzP45XwP6RyH2q2YQkf8X9pIl3thTQAyWuaxg4gF0nTP3sdnezLw8mMWJ3qdcHI1G2EeFbAG1LyG67Kb(ajpnKBrkRHCKq5XIdjPgSjJYbxtQNJ42KOL5jpPcvVT0ooOK7wYZN4MWoNf5QcPlfQxRt0ZH6dBVKcvBiUd72BfT0UgkroNjJf2kwhc9AO(CA3Mv4MhEi)OyWVTVXCO3enV2(9JH3ouvPe7BWXs520IOK)JBZ9zO4Zx2zsDtFrNPMnqkgjBwuxxRKflGATL9D0MiGFxHWdn12m1D3SOIVVfrI41o6qC0Tk453wAmDACcTmL7oz2Hz1lIHVMA8m2kzzCcJbv8rfzrcdJYPhBWrtiLC400Pcy()4kvr1iRzUOXkyQxPV(6(O7VOAQ8JneTyafxsLGZyuh0OuwCK0Ph5adLS)0LzbZMbE7kM2zDObzdrl5rSYYPwnG6w025mDv2ePpLtbQgrqLfRo4(knFOAff9tGQgr)akt1yznCPt(0KP8DVUSfS51oU2DeLs8lqTB7WeLXtG5vEDKC)SQtEDKxjNPwuIToCCb4TrtpYOm5RQg681DM0o1KMUez3Mw4yhZvhdTulWVeRa1YDlxOSirMOldnDZTdn)iyQ5LdVE4kQIARMbXlLHZKJyx2dVKWAsLIEWwHRe2mSfO1ONdtRsofgDKkOEL8SSYx8IxM6EhtQ79SNyDX)nUuV7oE3DPgRNU6P39QgFV7UR4DdBe2eCvrHwOdKq6ayjqOTOlwea3z94CpbAIMGSigduzW7beJ1BSULIhRZEJXp(48JVN9Wo(492Je(B3DRgF37TNU7vnEVDgF3DQ2vxDfR79OIKHIW8caSEK1v0n9ob3DmbjMIDrmNGVoDqbZd4OtIadE6Znobt2y1k8LybeYGcCZy9CpfFw1qIbnmiFZqN3vRWgQIvMyflybV26zdRcKHv5js1WBC4rIcHPnz041ueeeIeICLzctptve7P(UjS6anN6wkGPQT1pIn12Hnm9jWgkX4gNMxTAolNj7NsULceBTIJEriaz3WgOibSxml7N9fw)osj2DPcQ)WwguV4Y5hrAdtTXTjEErQWU9ObPnc8TSqnwoPPyWFjWkBYISBnMfdqUP6Kzmn)0WSuXrPoA8d7il(WgYe5sZC(lgu17fGpqD5g(GWNWaUxPrnNIybFKiW98MBa(OCwdF4lhUp8Upue4JBa3De4t1mu2yMR29n4Jjdz4)eK(MXnJVzEsgxkrZ0JR4ZtI427Sdx32w2wI1r4McUxWTj(BXwe0RR)mpLB7R(oTi5u0kMjlwIJkFUasq1iO7HBBf4zNNhplZbfjSCBXHhz4KL5eRv34pWn(I3Z9CFn0qdUTSizRUJQk)ztIw0dtvCN(WHlML)4WalJQHSh70adm3A1GAI1DpRGY15kPCgUBCfm5blKyuRpxGawVcQyIXspI765pebyDyLy14MfXe4THIrDnjqKzvsnZwuTpSmFsj3RE1fTfCZUBEf9oblHVwqAb7TLM3o42u)uZt22blOOZGAAlD6LyDN30STv3VN3rpdRKGS7BA1fYqSTm(gucwUZsxyfOo2fG6RC1IYRhWU5vK5119vWagB5gWzd8ezCzEn4XwbTUZLP1letX7ZDKXsp0GdN0DhRM8UCDBMRgoJa8dKHpRa854PzWNxgEGBdoTa8GWxaEO9lery(OF4lkaFj4ldvmGhERWxra(QgWJGo3Vo8nGhf(MW3sa(rYW3jc84mpo8DHzHVhC)rGFm8tGNuaoRa89fGFi(UNqaEA4XGNkc8TXlNsC7ObzMTYeLtXQs4Xeh(bxjObaEJRCwGIgUlKrSnYKqukyClu4rMggeTK8R1IkYa34R8CppQenebPJjyOSG6ZtgOsmreL0kYWt728GdpCsPmlM1O6E2v2p7v3pV9z2e7eo122UDDPPUDbf6fjXiFpBrUK22Q5OM3dJYnVamkVRqMV988MPjNPUZX9AwTZDjLs46mZn8WBKzfr7TQbXmNH)bxOBkt7gHUUBQPnVZqSn92L4RKfPkM6YLq4Nm24yquJQM8Ez1i8rvyn0d7H9BfgjH73a6gFu2PZArMIJ2k5IWzfLJ5tSLl7pj2uCXSydbYtJITFX8k2YQbpvg6LFK7L9l9K4Gs4WBnoD9o0KdgajuQ5DbAaz2z7sydwAJ3V0ekwfirMEcfQPcYxv2OHeDO5iBZXDB3Wnq1muSZr8U(2HxsEAxCOdcYE3wWswD0DhlUmoJa4Vb3jEncEvRD4V2d08AGxwK1if7HVYjAfFXFpGWGJONv4iyJt1rxDWGIXhyeEMRj4mFPEk7X6LHBkfhfNavIFV7EhKnwrwCyMJNqxhBD94P4dsFaIUPsMduKF94CApENxxk0NJd(mEh5DJxn4azkQnXkwQ(pcYQxv1J3pTkshAWNd18CyLbVGUS35wAOX5qKaTXlwVngd4yvKoCcSrOtmSZO7aU(ONVH3ePjf4ahQsQKdLSV09lL4ajHXIaxkoKBuyDrHllQBl4E6l01HD9jXI0lJplCAldy)gImWkd3nu3dZqM3NPhZ7PllEshN8S(wIhx1JKhd)KI3bEhCW6Z9S((CYRQ432TERTn)CpWreGbIinjd87GWrJIr1SgjjYZwNjSH)mGRHpooo8mBg66JuVZL9K1D(pH1El7RfWMPqTZ49S7oJbYTwbdL1ijzFPapzP57OiYmDbABPbqhiOveY2iKdm4JFaMWjKHXbRAcR1aWUFBAySN9zAvYNn2gluLIHQUnZYRYrSjutTGriKRUKBHBb78UeFwHHXH3ETJErS2WzF(HmSpSHmSbj(lNU(3yOLozZe4UbEcBoBhkHp1XB1MLGnh7Pky8cvL1NUmSv3nw3f22OHXnTDT8DSd31ZOMWgCjZ8cGCvkrXk1IKNQmQw494yh0c28VPsnSDVwwqoCq)e1KXvC6eEnhUTqMpErBTxtOPAcnxty9Ok)2H7aEhpyd1eA0aMHp5a8FmG7kCub4DMfExrG3Ta8EcQq)ELH3h8(Xxu6vxsNW3NaRnxSTxwFWc1Bd(JjZ6)f7c(EHpjRzzEBWlTfA(l)0lV9z80WnG7M1hDy7ZmKGtbFMvh7DXDEop2R8fc79PUayVNja7fHNzf9zOrpbd6pe3fGfjhSdnqwWwdcHUWJ(SbyTm2X4aJ9NxdcldxTIrDOvosdxYrLdzkx5)PlHPvRJwYu)LX27NdVdpZkcMFMZhmNjCm0C4zd56pJJq)lW8voe9ITDldFgjNXQF(IXFz8FXOSCUuZOockcPhQh)Ydc)kgQj8Rz4LWVrg(TYWZzap)cGIWVleke(9YWlid)bz4pkd)jzyULa0b)5gXki1eUmz4fnQjCPnc)t4FXkJD0OqEWg(V8AT1eUKdwtqqgUtdwH2GYxN3xeCN)))gHyrxmTd))IKRjSMGQR1eEn1eU4vUSA9pSunH1fyJgicCOAcnGqegJKF3DLkFSJvONAcrLH)ndkjeb4YAxn47O0yjDNmblny4cz2ecM2p8sTSB4LX055bNHxzt1rDH)Imm4PBzIN9i)V
+```
+<br>
+<br>
+
+## <span style="color:#0b89ff">■ </span>위크오라 설명
+
+공격대, 던전에서 **<span style="color:#26beff">블러드</span>** 와 **<span style="color:#26beff">전투부활</span>** 을 트래킹 하는 위크오라입니다.
+
+![이미지 설명](/assets/img/wow/weakauras/2025-08-16-blood/2.webp)
+
+블러드를 사용하면 스팀팩 사운드와 함께 노란색 테두리와 남은 시간이 표시됩니다.
+
+![이미지 설명](/assets/img/wow/weakauras/2025-08-16-blood/3.webp)
+
+블러드가 끝나면 디버프가 표시 됩니다. (10분)
+
+블러드 옆엔 전투부활이 몇분 남았는지, 몇개 남았는지 보여줍니다.
+
+스팀팩 사운드는 **<span style="color:#26beff">SharedMedia</span>** 애드온으로 추가할 수 있습니다.
+
+<audio controls src="../assets/img/wow/weakauras/2025-08-16-blood/1-Stimpack.mp3" title="Title"></audio>
+
+스팀팩 사운드
+
+**[SharedMedia 사용법](https://wago.io/ry_EsCrIm)**
+<br>
+<br>
+
+## <span style="color:#0b89ff">■ </span>원본 위크오라
+
+[**Sanluli36li** - BattleRes & Bloodlust Cooldowns](https://wago.io/ry_EsCrIm)
