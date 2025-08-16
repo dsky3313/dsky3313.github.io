@@ -1,0 +1,61 @@
+---
+# bundle exec jekyll serve
+search: true
+toc_sticky: true # 목차가 옆에 따라올지
+# last_modified_at: # 2021-10-09 수정날짜
+
+date: 2025-08-16
+title: "MDT &#124; 와우 내부전쟁 3시즌"
+categories: # 카테고리 설정
+  - WOWinfo # Plater, Weakauras, WOWinfo, Github
+tags:
+  - [MDT]
+toc: true # 목차 사용할지
+toc_label: Github 블로그 만들기
+header:
+  teaser: "/assets/img/wow/weakauras/2025-08-08-bigwig-timer/1.webp"
+published : false
+---
+
+## 🦥 본문
+본문은 여기에 ...
+
+![이미지 설명](/assets/img/wow/wowdata/partyleave/1.webp){: .align-center}
+![이미지 설명](https://wow.zamimg.com/images/wow/icons/large/spell_nature_bloodlust.jpg){: width="30" height="30"} <!--블러드-->
+![이미지 설명](https://wow.zamimg.com/images/wow/icons/large/ability_ambush.jpg){: width="30" height="30"} 패스 : 1넴 뒤 박스, 14번 앞 방울이, 막넴앞 시동자 2 마리 
+
+![이미지 설명](https://wow.zamimg.com/images/wow/icons/large/spell_nature_bloodlust.jpg){: width="30" height="30"} 
+&nbsp;&nbsp;**블러드** : 입구 ▶ 7번 (1넴 뒤) ▶ 15번 (막넴 앞 중보)
+
+{% include video id="유튜브영상id" provider="youtube" %}
+<br>
+<br>
+
+## 코드
+```  
+여기에 코드 복붙
+```  
+
+`일리단` <!--글자강조-->
+
+## 링크
+[링크](https://community.algolia.com/jekyll-algolia/options.html)
+
+
+**Notice:** This is an important info notice.
+{: .notice--primary}  
+
+**Notice:** This is an important info notice.
+{: .notice--warning}  
+
+
+**Notice:** This is an important info notice.
+{: .notice--success}  
+
+<span style="color:red"> ■ 글씨색 변경 </span>  
+<span style="color:#0b89ff">■ </span>
+
+내부전쟁 3시즌 전사 매크로
+{: .text-center}
+
+bundle exec jekyll serve <!--vsc에서 로컬 테스트-->
