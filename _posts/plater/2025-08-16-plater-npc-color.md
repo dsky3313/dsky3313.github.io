@@ -7,7 +7,7 @@ toc_sticky: true # 목차가 옆에 따라올지
 date: 2025-08-16
 last_modified_at: # 2021-10-09 수정날짜
 
-title: "Plater NPC 색상지정"
+title: "플레이터 NPC 색상지정"
 #excerpt: "와우 내부전쟁 탈것 매크로"
 
 categories: # 카테고리 설정
@@ -15,12 +15,12 @@ categories: # 카테고리 설정
 tags:
   - [Plater info]
 # permalink: /wow-data/riding-macro
-toc_label: Plater NPC 색상지정
+toc_label: 플레이터 NPC 색상지정
 header:
   teaser: "/assets/img/wow/plater/plater-npc-color/2.webp"
 ---
 
-## <span style="color:#0b89ff">■ </span>Plater NPC 색상 및 이름
+## <span style="color:#0b89ff">■ </span>플레이터 NPC 색상 및 이름
 
 ![이미지 설명](/assets/img/wow/plater/plater-npc-color/1.webp)
 
