@@ -13,7 +13,7 @@ tags:
 toc: true # 목차 사용할지
 toc_label: 플레이터 간격 조절
 header:
-  teaser: "/assets/img/wow/plater/2025-08-19-plater-space/0.webp"
+  teaser: "/assets/img/wow/plater/2025-08-19-nameplate-space/0.webp"
 ---
 
 ## <span style="color:#0b89ff">■ </span>플레이터 간격 조절

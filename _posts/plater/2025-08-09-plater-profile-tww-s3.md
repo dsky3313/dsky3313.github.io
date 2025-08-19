@@ -38,9 +38,12 @@ header:
 /Plater &nbsp;&nbsp;>&nbsp;&nbsp; 프로필  &nbsp;&nbsp;>&nbsp;&nbsp; 프로필 가져오기 &nbsp;&nbsp;>&nbsp;&nbsp; `Ctrl` + `V` 로 붙여넣기  &nbsp;&nbsp;>&nbsp;&nbsp; 프로필명 지정 후, 확인
 
 ## <span style="color:#0b89ff">■ </span>자주 하는 질문
-[이름표 간격 설정](https://dsky3313.github.io/plater/nameplate-space/)
-[NPC 색상 설정](https://dsky3313.github.io/plater/plater-npc-color/)
-[캐스팅바 색상 설정](https://dsky3313.github.io/plater/castbar-color/)
+
+**<span style="color:#26beff">[이름표 간격 설정](https://dsky3313.github.io/plater/nameplate-space/)</span>**  
+**<span style="color:#26beff">[NPC 색상 설정](https://dsky3313.github.io/plater/plater-npc-color/)</span>**  
+**<span style="color:#26beff">[캐스팅바 색상 설정](https://dsky3313.github.io/plater/castbar-color/)</span>**  
+<br>
+<br>
 
 ## <span style="color:#0b89ff">■ </span>NPC 색상
 
