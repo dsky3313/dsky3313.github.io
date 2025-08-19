@@ -30,6 +30,7 @@ MDT에서 설정하고 싶은 몹을 선택 > **<span style="color:#26beff">Cast
 <br>
 
 ![이미지 설명](/assets/img/wow/plater/2025-08-19-castbar-color/3.webp)
+
 설정한 모습  
 <br>
 <br>
