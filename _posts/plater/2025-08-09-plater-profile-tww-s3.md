@@ -42,6 +42,7 @@ header:
 **<span style="color:#26beff">[이름표 간격 설정](https://dsky3313.github.io/plater/nameplate-space/)</span>**  
 **<span style="color:#26beff">[NPC 색상 설정](https://dsky3313.github.io/plater/plater-npc-color/)</span>**  
 **<span style="color:#26beff">[캐스팅바 색상 설정](https://dsky3313.github.io/plater/castbar-color/)</span>**  
+**<span style="color:#26beff">[징표, 아이콘 설정](https://dsky3313.github.io/plater/raidmark/)</span>**  
 <br>
 <br>
 
