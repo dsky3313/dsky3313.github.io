@@ -4,32 +4,34 @@ search: true
 toc_sticky: true # 목차가 옆에 따라올지
 # last_modified_at: # 2021-10-09 수정날짜
 
-date: 2025-08-19
-title: "헤키리 &#124; 딜사이클 애드온"
+date: 2025-08-20
+title: "전사 키세팅 &#124; 와우 내부전쟁 3시즌"
 categories: # 카테고리 설정
   - WOWinfo # Plater, Weakauras, WOWinfo, Github
 tags:
-   - [Addon]
+   - [전사]
 toc: true # 목차 사용할지
-toc_label: SharedMedia
+toc_label: 전사 키세팅
 header:
-  teaser: "/assets/img/wow/wowinfo/2025-08-19-hekili/0.webp"
+  teaser: "/assets/img/wow/wowinfo/2025-08-19-key-warrior/1.webp"
 ---
+## <span style="color:#0b89ff">■</span> 전탱
 
-![alt text](/assets/img/wow/wowinfo/2025-08-19-hekili/0.webp)
+![alt text](/assets/img/wow/wowinfo/2025-08-19-key-warrior/1.webp)
 
-딜 사이클 추천 애드온, 헤키리 입니다.  
-단일 대상 ↔ 광역 모드 자동 전환됩니다.
+산왕 키세팅  
+<br>
+
+![alt text](/assets/img/wow/wowinfo/2025-08-19-key-warrior/2.webp)
+
+거신 키세팅
+
+쇄파 넣을 공간이 없어서,
+방패 돌격 > 쇄파
+연전연승 > 방패 돌격
+연전연승은 돌진이랑 묶어서 매크로 사용  
 <br>
 <br>
-
-## <span style="color:#0b89ff">■ </span>산왕 
-
-![이미지 설명](/assets/img/wow/wowinfo/2025-08-19-hekili/1.webp)
-
-현재 제가 사용하는 키세팅입니다
-
- 
 
 WASD - 이동
 
