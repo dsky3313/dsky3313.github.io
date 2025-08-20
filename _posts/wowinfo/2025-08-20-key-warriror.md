@@ -30,6 +30,8 @@ header:
 방패 돌격 > 쇄파
 연전연승 > 방패 돌격
 연전연승은 돌진이랑 묶어서 매크로 사용  
+
+[**전사 매크로**](https://dsky3313.github.io/wowinfo/macro-warriror/)
 <br>
 <br>
 
