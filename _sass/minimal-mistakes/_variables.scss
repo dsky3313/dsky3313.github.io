@@ -15,6 +15,9 @@ $doc-font-size-x-large: $doc-font-size * 1.375 !default;
 $paragraph-indent: false !default; // true, false (default)
 $indent-var: 1.3em !default;
 
+
+
+
 /* Modern font stack */
 /* https://github.com/system-fonts/modern-font-stacks */
 
@@ -60,8 +63,9 @@ $default-monospace: Monaco, Consolas, "Lucida Console", monospace;
 $emoji-native: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 
 /* system typefaces */
-$serif: $default-serif !default;
-$sans-serif: $default-sans-serif !default;
+$customFont: "Isamanru"; /* 이사만루 폰트 */
+$serif: $customFont, $default-serif !default;
+$sans-serif: $customFont, $default-sans-serif !default;
 $sans-serif-narrow: $sans-serif !default;
 $monospace: $default-monospace !default;
 
