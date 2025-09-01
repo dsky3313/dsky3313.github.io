@@ -8,25 +8,11 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-// 이사만루체
+// 원스토어 모바일고딕 제목체
 @font-face {
-    font-family: 'Isamanru';
-    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-10@1.0/GongGothicLight.woff') format('woff');
-    font-weight: 300;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Isamanru';
-    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-10@1.0/GongGothicMedium.woff') format('woff');
+    font-family: 'OneStoreMobileGothicTitleFont';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2105_2@1.0/ONE-Mobile-Title.woff') format('woff');
     font-weight: normal;
     font-display: swap;
 }
-
-@font-face {
-    font-family: 'Isamanru';
-    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-10@1.0/GongGothicBold.woff') format('woff');
-    font-weight: 700;
-    font-display: swap;
-}
-// 이사만루체
+// 원스토어 모바일고딕 제목체
