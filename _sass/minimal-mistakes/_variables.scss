@@ -65,7 +65,7 @@ $emoji-native: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto C
 /* system typefaces */
 $customFont: "OneStoreMobileGothicTitleFont"; /* 원스토어 모바일고딕 제목체 */
 $serif: $customFont, $default-serif !default;
-$sans-serif: $default-sans-serif !default;
+$sans-serif: $customFont, $default-sans-serif !default;
 $sans-serif-narrow: $sans-serif !default;
 $monospace: $default-monospace !default;
 
