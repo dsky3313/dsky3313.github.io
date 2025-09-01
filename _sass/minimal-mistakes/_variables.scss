@@ -63,15 +63,16 @@ $default-monospace: Monaco, Consolas, "Lucida Console", monospace;
 $emoji-native: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 
 /* system typefaces */
-$customFont: "OneStoreMobileGothicTitleFont"; /* 원스토어 모바일고딕 제목체 */
-$serif: $customFont, $default-serif !default;
-$sans-serif: $customFont, $default-sans-serif !default;
+$Font1: "OneStoreMobileGothicTitleFont"; /* 원스토어 모바일고딕 제목체 */
+$Font2: "OneStoreMobileGothicBody"; /* 원스토어 모바일고딕 본문체 */
+$serif: $default-serif !default;
+$sans-serif: $default-sans-serif !default;
 $sans-serif-narrow: $sans-serif !default;
 $monospace: $default-monospace !default;
 
-$global-font-family: $sans-serif !default;
-$header-font-family: $sans-serif !default;
-$caption-font-family: $serif !default;
+$global-font-family: $Font2, $sans-serif !default;
+$header-font-family: $Font1, $sans-serif !default;
+$caption-font-family: $Font2, $serif !default;
 
 /* type scale */
 $type-size-1: 2.441em !default; // ~39.056px
