@@ -12,8 +12,8 @@ title: "오토마커 &#124; 와우 내부전쟁 2시즌"
 
 categories: # 카테고리 설정
   - Weakauras
-# tags:
-#   - [tag1, tag2]
+tags:
+  - [오토마커]
 # permalink: /wow-data/riding-macro
 # toc_label: 주술사 위크오라
 header:
