@@ -16,9 +16,6 @@ toc_label: hodo UI
 header:
   teaser: "/assets/img/wow/wowinfo/2025-09-01-hodoui-tww-s3/2.webp"
 ---
-/reflux switch hodo
-/reflux switch hodo
-/reflux switch hodo
 
 ## <span style="color:#0b89ff">■</span> WOW UI 편집모드 코드  
 
@@ -34,6 +31,10 @@ header:
 **<span style="color:#26beff">가져오기</span>** > 
 **<span style="color:#26beff">코드 붙여넣기 (Ctrl+V)</span>** > 
 이름 지정 후, **<span style="color:#26beff">가져오기</span>**
+
+
+
+/reflux switch hodo
 <br>
 <br>
 
@@ -50,7 +51,7 @@ header:
 - GTFO
 - MRT
 - MythicDungeonTools
-- OmniCD
+- [OmniCD](https://dsky3313.github.io/wowinfo/omnicd/)&nbsp;&nbsp;> MRT로 대체
 - Plater
 - SharedMedia
 - SharedMedia_MyMedia
@@ -96,60 +97,3 @@ header:
 ## <span style="color:#0b89ff">■</span> 위크오라
 <br>
 <br>
-
-## <span style="color:#0b89ff">■</span> WOW UI 편집모드 코드  
-<br>
-<br>
-
-
-
-
-
-
-
-
-
-## <span style="color:#0b89ff">■</span> 본문
-본문은 여기에 ...
-**<span style="color:#26beff">할말</span>** 
-
-![이미지 설명](/)
-![이미지 설명](/assets/img/wow/wowdata/partyleave/1.webp){: .align-center}
-![이미지 설명](https://wow.zamimg.com/images/wow/icons/large/spell_nature_bloodlust.jpg){: width="30" height="30"} <!--블러드-->
-![이미지 설명](https://wow.zamimg.com/images/wow/icons/large/ability_ambush.jpg){: width="30" height="30"} 패스 : 1넴 뒤 박스, 14번 앞 방울이, 막넴앞 시동자 2 마리 
-
-![이미지 설명](https://wow.zamimg.com/images/wow/icons/large/spell_nature_bloodlust.jpg){: width="30" height="30"} 
-&nbsp;&nbsp;**블러드** : 입구 ▶ 7번 (1넴 뒤) ▶ 15번 (막넴 앞 중보)
-
-{% include video id="유튜브영상id" provider="youtube" %}
-<br>
-<br>
-
-
-
-
-
-`일리단` <!--글자강조-->
-
-## 링크
-[링크](https://community.algolia.com/jekyll-algolia/options.html)
-
-
-**Notice:** This is an important info notice.
-{: .notice--primary}  
-
-**Notice:** This is an important info notice.
-{: .notice--warning}  
-
-
-**Notice:** This is an important info notice.
-{: .notice--success}  
-
-<span style="color:red"> ■ 글씨색 변경 </span>  
-<span style="color:#0b89ff">■ </span>
-**<span style="color:#26beff">할말</span>**
-
-내부전쟁 3시즌 전사 매크로
-{: .text-center}
-
-bundle exec jekyll serve <!--vsc에서 로컬 테스트-->
