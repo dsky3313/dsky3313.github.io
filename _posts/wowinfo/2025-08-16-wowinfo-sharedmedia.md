@@ -9,7 +9,7 @@ title: "SharedMedia &#124; 미디어파일 추가 애드온"
 categories: # 카테고리 설정
   - WOWinfo # Plater, Weakauras, WOWinfo, Github
 tags:
-   - [Addon]
+   - [애드온]
 toc: true # 목차 사용할지
 toc_label: SharedMedia
 header:
