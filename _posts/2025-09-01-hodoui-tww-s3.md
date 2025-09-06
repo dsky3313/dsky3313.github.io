@@ -4,7 +4,7 @@ search: true
 toc_sticky: true # 목차가 옆에 따라올지
 # last_modified_at: # 2021-10-09 수정날짜
 
-# published : false
+published : false
 date: 2025-09-01
 title: "hodo UI &#124; 와우 내부전쟁 3시즌"
 categories: # 카테고리 설정
@@ -33,24 +33,21 @@ header:
 이름 지정 후, **<span style="color:#26beff">가져오기</span>**
 
 
+## <span style="color:#0b89ff">■</span> UI 다운로드 및 적용 방법
+[hodoUI](#https://github.com/dsky3313/hodoUI/archive/refs/heads/main.zip){: .btn .btn--info} (GitHub)
+
+
 
 /reflux switch hodo
 <br>
 <br>
-
-## <span style="color:#0b89ff">■</span> UI 다운로드
-[hodoUI](#https://github.com/dsky3313/hodoUI/archive/refs/heads/main.zip){: .btn .btn--info} (GitHub)
 <br>
 <br>
 
 ## <span style="color:#0b89ff">■</span> 애드온 목록
-<span style="color:#26beff">■</span> 필수 애드온
-- BigWigs & LittleWigs
-- CauseseDB
+<span style="color:#26beff">■</span> 프로필 수동 입력
 - Cell & Cell_UnitFrames ([프로필](https://dsky3313.github.io/wowinfo/cell/))
-- GTFO
 - MRT ([프로필](https://dsky3313.github.io/wowinfo/mrt/))
-- MythicDungeonTools 
 - ~~OmniCD~~ [(프로필)](https://dsky3313.github.io/wowinfo/omnicd/)&nbsp;&nbsp;> MRT로 대체
 - Plater
 - SharedMedia
@@ -58,34 +55,24 @@ header:
 - WeakAuras
 
 <span style="color:#0b89ff">■</span> 필수 애드온
-- AddonUsage
+- BigWigs & LittleWigs
+- CauseseDB
 - AdvancedInterfaceOptions
 - BlizzHUDTweaks
-- BtWQuests
-- BugSack
-- CanIMogIt
-- ColorPickerPlus
-- Details
-- GlobalIgnoreList
+- Details ([프로필](https://dsky3313.github.io/wowinfo/details/))
+- GTFO
 - GuildMicroButton
-- HandyNotes
 - Hekili
 - HidingBar
 - idTip
 - Leatrix_Plus
-- MCL
-- Narcissus
+- MythicDungeonTools 
 - Oilvl
-- Plumber
 - Prat-3.0
 - RaiderIO
 - SasageMonitor
-- SavedInstances
-- SilverDragon
-- SimpleAddonManager
 - Simulationcraft
 - SoftInteractHUD
-- TomTom
 <br>
 <br>
 
