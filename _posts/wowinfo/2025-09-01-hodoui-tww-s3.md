@@ -47,11 +47,11 @@ header:
 <span style="color:#26beff">■</span> 필수 애드온
 - BigWigs & LittleWigs
 - CauseseDB
-- Cell & Cell_UnitFrames
+- Cell & Cell_UnitFrames ([프로필](https://dsky3313.github.io/wowinfo/cell/))
 - GTFO
 - MRT
-- MythicDungeonTools
-- [OmniCD](https://dsky3313.github.io/wowinfo/omnicd/)&nbsp;&nbsp;> MRT로 대체
+- MythicDungeonTools 
+- ~~OmniCD~~ [(프로필)](https://dsky3313.github.io/wowinfo/omnicd/)&nbsp;&nbsp;> MRT로 대체
 - Plater
 - SharedMedia
 - SharedMedia_MyMedia
