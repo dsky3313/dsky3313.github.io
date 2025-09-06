@@ -49,7 +49,7 @@ header:
 - CauseseDB
 - Cell & Cell_UnitFrames ([프로필](https://dsky3313.github.io/wowinfo/cell/))
 - GTFO
-- MRT
+- MRT ([프로필](https://dsky3313.github.io/wowinfo/mrt/))
 - MythicDungeonTools 
 - ~~OmniCD~~ [(프로필)](https://dsky3313.github.io/wowinfo/omnicd/)&nbsp;&nbsp;> MRT로 대체
 - Plater
@@ -89,11 +89,18 @@ header:
 <br>
 <br>
 
-## <span style="color:#0b89ff">■</span> 아이콘
-[Clean Icons - Mechagnome Edition](https://github.com/AcidWeb/Clean-Icons-Mechagnome-Edition/releases)
+## <span style="color:#0b89ff">■</span> 위크오라
 <br>
 <br>
 
-## <span style="color:#0b89ff">■</span> 위크오라
+## <span style="color:#0b89ff">■</span> 아이콘 팩
+![alt text](https://raw.githubusercontent.com/AcidWeb/Clean-Icons-Mechagnome-Edition/refs/heads/master/docs/Merge.png)
+
+[**Clean Icons - Mechagnome Edition**](https://github.com/AcidWeb/Clean-Icons-Mechagnome-Edition/releases)
+
+**<span style="color:#26beff">■</span>** 설치 방법
+
+- 압축해제 > World of Warcraft\_retail_\Interface 안에 붙여넣기
+
 <br>
 <br>
