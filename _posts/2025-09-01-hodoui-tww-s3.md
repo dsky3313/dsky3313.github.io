@@ -31,15 +31,13 @@ header:
 **<span style="color:#26beff">가져오기</span>** > 
 **<span style="color:#26beff">코드 붙여넣기 (Ctrl+V)</span>** > 
 이름 지정 후, **<span style="color:#26beff">가져오기</span>**
+<br>
+<br>
 
-
+## <span style="color:#0b89ff">■</span> UI 다운로드 및 설치
+[hodoUI](#https://github.com/dsky3313/hodoUI/archive/refs/heads/main.zip){: .btn .btn--info} (GitHub)
 
 /reflux switch hodo
-<br>
-<br>
-
-## <span style="color:#0b89ff">■</span> UI 다운로드
-[hodoUI](#https://github.com/dsky3313/hodoUI/archive/refs/heads/main.zip){: .btn .btn--info} (GitHub)
 <br>
 <br>
 
@@ -90,8 +88,14 @@ header:
 <br>
 
 ## <span style="color:#0b89ff">■</span> 위크오라
+- [전사 직업 위크오라](https://dsky3313.github.io/weakauras/weakauras-warriror/)
+- [전사 주문반사](https://dsky3313.github.io/weakauras/weakauras-spellreflect/)
+- [쐐기 타이머](https://dsky3313.github.io/weakauras/m+timer-tww-s3/)
+- [전투부활 & 블러드](https://dsky3313.github.io/weakauras/weakauras-blood/)
+- [쐐기 오토마커](https://dsky3313.github.io/weakauras/automarker-tww-s3/)
 <br>
 <br>
+
 
 ## <span style="color:#0b89ff">■</span> 아이콘 팩
 ![alt text](https://raw.githubusercontent.com/AcidWeb/Clean-Icons-Mechagnome-Edition/refs/heads/master/docs/Merge.png)
