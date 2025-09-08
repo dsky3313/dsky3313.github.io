@@ -4,7 +4,7 @@ search: true
 toc_sticky: true # 목차가 옆에 따라올지
 # last_modified_at: # 2021-10-09 수정날짜
 
-# published : false
+published : false
 date: 2025-09-01
 title: "hodo UI &#124; 와우 내부전쟁 3시즌"
 categories: # 카테고리 설정
@@ -12,10 +12,28 @@ categories: # 카테고리 설정
 tags:
   - [UI]
 toc: true # 목차 사용할지
-toc_label: hodo UI
+toc_label: hodoUI
 header:
   teaser: "/assets/img/wow/wowinfo/2025-09-01-hodoui-tww-s3/2.webp"
 ---
+
+## <span style="color:#0b89ff">■</span> UI 다운로드 및 설치
+[hodoUI](#https://github.com/dsky3313/hodoUI/archive/refs/heads/main.zip){: .btn .btn--info} (GitHub)
+
+다음과 같은 파일이 있습니다.
+```
+hodo UI
+├─ 편집모드 코드
+├─ Font
+├─ Interface
+└─ WTF
+```
+
+1. Font, Interface 폴더는 와우 설치폴더 (Program Files\World of Warcraft\_retail_) 에 붙여넣기.
+2. WTF 폴더 안 파일은 본인 계정 폴더에 붙여넣기
+3. 접속 후 채팅창에 '/reflux switch hodo' 입력 후, 리로드
+<br>
+<br>
 
 ## <span style="color:#0b89ff">■</span> WOW UI 편집모드 코드  
 
@@ -34,56 +52,67 @@ header:
 <br>
 <br>
 
-## <span style="color:#0b89ff">■</span> UI 다운로드 및 설치
-[hodoUI](#https://github.com/dsky3313/hodoUI/archive/refs/heads/main.zip){: .btn .btn--info} (GitHub)
+## <span style="color:#0b89ff">■</span> Font (폰트)
 
-/reflux switch hodo
+```
+├─ Font
+ ├─ 2002.ttf        (와우의 기본글씨)
+ ├─ 2002b.ttf       (NPC 이름)
+ ├─ ARIALN.ttf      (단축키)
+ ├─ FRIZQT__.ttf    (영문폰트)
+ ├─ K_DAMAGE.ttf    (데미지 숫자)
+ └─ K_PAGETEXT.ttf  (지역 이름, 퀘스트 임무 등)
+```
+<br>
+<span style="color:#26beff">■</span> 적용된 폰트
+
+![이미지 설명](/assets/img/wow/wowinfo/2025-09-01-hodoui-tww-s3/font1.webp)
+- [원스토어 모바일고딕 제목체](https://noonnu.cc/font_page/678) (2002, 2002b, ARIALN, FRIZQT__)  
+<br>
+
+![이미지 설명](/assets/img/wow/wowinfo/2025-09-01-hodoui-tww-s3/font2.webp)
+- [이사만루](https://noonnu.cc/font_page/463) (K_DAMAGE)  
+<br>
+
+![이미지 설명](/assets/img/wow/wowinfo/2025-09-01-hodoui-tww-s3/font3.webp)
+- [빙그레체II](https://noonnu.cc/font_page/6) (K_PAGETEXT)  
 <br>
 <br>
 
-## <span style="color:#0b89ff">■</span> 애드온 목록
-<span style="color:#26beff">■</span> 필수 애드온
-- BigWigs & LittleWigs
-- CauseseDB
+## <span style="color:#0b89ff">■</span> Interface (애드온)
+
+```
+├─ Interface
+ ├─ AddOns          (애드온)
+ ├─ Raidframe       (레이드프레임 텍스쳐)
+ ├─ Targetingframe  (기본 체력바 텍스쳐)
+ └─ Tooltips        (말풍선 택스쳐)
+```
+<br>
+<span style="color:#26beff">■</span> 프로필 수동입력 애드온
 - Cell & Cell_UnitFrames ([프로필](https://dsky3313.github.io/wowinfo/cell/))
-- GTFO
+- Details
 - MRT ([프로필](https://dsky3313.github.io/wowinfo/mrt/))
 - MythicDungeonTools 
-- ~~OmniCD~~ [(프로필)](https://dsky3313.github.io/wowinfo/omnicd/)&nbsp;&nbsp;> MRT로 대체
+- OmniCD [(프로필)](https://dsky3313.github.io/wowinfo/omnicd/)
 - Plater
-- SharedMedia
-- SharedMedia_MyMedia
-- WeakAuras
 
-<span style="color:#0b89ff">■</span> 필수 애드온
-- AddonUsage
+<span style="color:#0b89ff">■</span> 그 외 애드온
 - AdvancedInterfaceOptions
+- BigWigs & LittleWigs
 - BlizzHUDTweaks
-- BtWQuests
-- BugSack
-- CanIMogIt
-- ColorPickerPlus
-- Details
-- GlobalIgnoreList
+- CauseseDB
+- GTFO
 - GuildMicroButton
-- HandyNotes
 - Hekili
 - HidingBar
 - idTip
 - Leatrix_Plus
-- MCL
-- Narcissus
-- Oilvl
-- Plumber
 - Prat-3.0
-- RaiderIO
-- SasageMonitor
-- SavedInstances
-- SilverDragon
-- SimpleAddonManager
-- Simulationcraft
+- SharedMedia
+- SharedMedia_MyMedia
 - SoftInteractHUD
-- TomTom
+- WeakAuras
 <br>
 <br>
 
@@ -93,6 +122,7 @@ header:
 - [쐐기 타이머](https://dsky3313.github.io/weakauras/m+timer-tww-s3/)
 - [전투부활 & 블러드](https://dsky3313.github.io/weakauras/weakauras-blood/)
 - [쐐기 오토마커](https://dsky3313.github.io/weakauras/automarker-tww-s3/)
+- 채팅 말풍선
 <br>
 <br>
 
