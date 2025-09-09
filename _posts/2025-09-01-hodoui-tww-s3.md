@@ -4,7 +4,7 @@ search: true
 toc_sticky: true # 목차가 옆에 따라올지
 # last_modified_at: # 2021-10-09 수정날짜
 
-published : false
+# published : false
 date: 2025-09-01
 title: "hodo UI &#124; 와우 내부전쟁 3시즌"
 categories: # 카테고리 설정
@@ -17,7 +17,10 @@ header:
   teaser: "/assets/img/wow/wowinfo/2025-09-01-hodoui-tww-s3/2.webp"
 ---
 
-## <span style="color:#0b89ff">■</span> UI 다운로드 및 설치
+**주의!** 반드시 백업!
+{: .notice--warning}  
+
+## <span style="color:#0b89ff">■</span> UI 다운로드
 [hodoUI](#https://github.com/dsky3313/hodoUI/archive/refs/heads/main.zip){: .btn .btn--info} (GitHub)
 
 다음과 같은 파일이 있습니다.
@@ -29,10 +32,20 @@ hodo UI
 └─ WTF
 ```
 
-1. Font, Interface 폴더는 와우 설치폴더 (Program Files\World of Warcraft\_retail_) 에 붙여넣기.
-2. WTF 폴더 안 파일은 본인 계정 폴더에 붙여넣기
-3. 접속 후 채팅창에 '/reflux switch hodo' 입력 후, 리로드
+## <span style="color:#0b89ff">■</span> UI 설치
+
+<span style="color:#26beff">[1]</span> 와우 종료.
 <br>
+
+![이미지 설명](/assets/img/wow/wowinfo/2025-09-01-hodoui-tww-s3/install1.webp)  
+<span style="color:#26beff">[2]</span> `Font`, `Interface` 폴더는 와우 설치폴더 (Program Files\World of Warcraft\_retail_) 에 붙여넣기.
+<br>
+
+![이미지 설명](/assets/img/wow/wowinfo/2025-09-01-hodoui-tww-s3/install2.webp)  
+<span style="color:#26beff">[3]</span> `WTF`는 WTF\Account\본인계정(숫자#)SavedVariables 에 붙여넣기.  
+<br>
+
+<span style="color:#26beff">[4]</span> 와우 접속 > 채팅창에 '/reflux switch hodo' 입력.
 <br>
 
 ## <span style="color:#0b89ff">■</span> WOW UI 편집모드 코드  
@@ -91,13 +104,13 @@ hodo UI
 <br>
 <span style="color:#26beff">■</span> 프로필 수동입력 애드온
 - Cell & Cell_UnitFrames ([프로필](https://dsky3313.github.io/wowinfo/cell/))
-- Details
+- Details [프로필](https://dsky3313.github.io/wowinfo/details/)
 - MRT ([프로필](https://dsky3313.github.io/wowinfo/mrt/))
-- MythicDungeonTools 
 - OmniCD [(프로필)](https://dsky3313.github.io/wowinfo/omnicd/)
-- Plater
+- Plater ([프로필](https://dsky3313.github.io/plater/plater-profile-tww-s3/))
+<br>
 
-<span style="color:#0b89ff">■</span> 그 외 애드온
+<span style="color:#26beff">■</span> 그 외 애드온
 - AdvancedInterfaceOptions
 - BigWigs & LittleWigs
 - BlizzHUDTweaks
@@ -108,6 +121,7 @@ hodo UI
 - HidingBar
 - idTip
 - Leatrix_Plus
+- MythicDungeonTools ([내부전쟁 3시즌](https://dsky3313.github.io/wowinfo/mdt-tww-s3/))
 - Prat-3.0
 - SharedMedia
 - SharedMedia_MyMedia
@@ -135,6 +149,5 @@ hodo UI
 **<span style="color:#26beff">■</span>** 설치 방법
 
 - 압축해제 > World of Warcraft\_retail_\Interface 안에 붙여넣기
-
 <br>
 <br>
