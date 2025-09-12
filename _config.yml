@@ -322,6 +322,5 @@ defaults:
       sidebar:                  # 추가한 부분
         nav: "sidebar-category" # 추가한 부분
       toc_ads: true
-      toc_sticky: true
 date_format: "%y-%m-%d"
 future: true # Show future posts

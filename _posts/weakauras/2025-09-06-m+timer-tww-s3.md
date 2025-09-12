@@ -1,7 +1,7 @@
 ---
 # bundle exec jekyll serve
 search: true
-toc_sticky: true # 목차가 옆에 따라올지
+# toc_sticky: true # 목차가 옆에 따라올지
 # last_modified_at: # 2021-10-09 수정날짜
 
 # published : false
@@ -38,18 +38,3 @@ header:
 
 [**Reloe** - M+ Timer](https://wago.io/M+Timer)  
 [**Nørskenwow** - Norsken Season 3 TWW M+ Pack. 1080p](https://wago.io/T5yLDHhZH/1.0.34)
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
