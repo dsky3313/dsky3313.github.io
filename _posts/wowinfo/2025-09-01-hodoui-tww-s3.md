@@ -67,7 +67,7 @@ hodo UI
 
 ## <span style="color:#0b89ff">■</span> Font (폰트)
 
-[폰트 적용법 및 미리보기](https://dsky3313.github.io/wowinfo/font/)
+[▶ 폰트 적용법 및 미리보기](https://dsky3313.github.io/wowinfo/font/)
 <br>
 <br>
 
