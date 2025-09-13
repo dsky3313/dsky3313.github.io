@@ -67,28 +67,7 @@ hodo UI
 
 ## <span style="color:#0b89ff">■</span> Font (폰트)
 
-```
-├─ Font
- ├─ 2002.ttf        (와우의 기본글씨)
- ├─ 2002b.ttf       (NPC 이름)
- ├─ ARIALN.ttf      (단축키)
- ├─ FRIZQT__.ttf    (영문폰트)
- ├─ K_DAMAGE.ttf    (데미지 숫자)
- └─ K_PAGETEXT.ttf  (지역 이름, 퀘스트 임무 등)
-```
-<br>
-<span style="color:#26beff">■</span> 적용된 폰트
-
-![이미지 설명](/assets/img/wow/wowinfo/2025-09-01-hodoui-tww-s3/font1.webp)
-- [원스토어 모바일고딕 제목체](https://noonnu.cc/font_page/678) (2002, 2002b, ARIALN, FRIZQT__)  
-<br>
-
-![이미지 설명](/assets/img/wow/wowinfo/2025-09-01-hodoui-tww-s3/font2.webp)
-- [이사만루](https://noonnu.cc/font_page/463) (K_DAMAGE)  
-<br>
-
-![이미지 설명](/assets/img/wow/wowinfo/2025-09-01-hodoui-tww-s3/font3.webp)
-- [빙그레체II](https://noonnu.cc/font_page/6) (K_PAGETEXT)  
+[폰트 적용법 및 미리보기](https://dsky3313.github.io/wowinfo/font/)
 <br>
 <br>
 
