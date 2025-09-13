@@ -136,7 +136,7 @@ hodo UI
 - [쐐기 타이머](https://dsky3313.github.io/weakauras/m+timer-tww-s3/)
 - [전투부활 & 블러드](https://dsky3313.github.io/weakauras/weakauras-blood/)
 - [쐐기 오토마커](https://dsky3313.github.io/weakauras/automarker-tww-s3/)
-- [말풍선 텍스쳐 및 폰트 크기]()
+- [말풍선 텍스쳐 및 글꼴 크기](https://dsky3313.github.io/wowinfo/chatbubble/)
 <br>
 <br>
 

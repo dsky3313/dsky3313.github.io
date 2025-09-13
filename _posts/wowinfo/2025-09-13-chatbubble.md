@@ -11,7 +11,7 @@ categories: # 카테고리 설정
 toc: true # 목차 사용할지
 toc_label: AIO
 header:
-  teaser: "/assets/img/wow/wowinfo/2025-09-13-chatbubble/1.webp"
+  teaser: "/assets/img/wow/wowinfo/2025-09-13-chatbubble/2.webp"
 ---
 
 ## <span style="color:#0b89ff">■</span> 말풍선 모양을 변경하는 이유
