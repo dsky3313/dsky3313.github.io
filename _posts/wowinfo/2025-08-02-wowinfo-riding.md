@@ -11,8 +11,8 @@ excerpt: "와우 내부전쟁 탈것 매크로"
 
 categories: # 카테고리 설정
   - WOWinfo
-# tags:
-#   - [tag1, tag2]
+tags:
+  - [매크로]
 
 # permalink: /wow-data/riding-macro
 

@@ -12,7 +12,7 @@ last_modified_at: # 2021-10-09 수정날짜
 date: 2025-08-07
 title: "전사 매크로 &#124; 와우 내부전쟁 3시즌"
 tags:
-   - [전사]
+   - [전사, 매크로]
 
 categories: # 카테고리 설정
   - WOWinfo
