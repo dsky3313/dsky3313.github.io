@@ -24,7 +24,7 @@ header:
 
 ## <span style="color:#0b89ff">■</span> 말풍선 다운로드 및 설치법
 
-[말풍선 텍스쳐 다운로드](#https://downgit.github.io/#/home?url=https://github.com/dsky3313/hodoUI/tree/main/Interface/Tooltips){: .btn .btn--info} (GitHub)  
+[말풍선 텍스쳐 다운로드](https://downgit.github.io/#/home?url=https://github.com/dsky3313/hodoUI/tree/main/Interface/Tooltips){: .btn .btn--info} (GitHub)  
 
 ```
 World of Warcraft
