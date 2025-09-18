@@ -21,7 +21,7 @@ header:
 {: .notice--warning}  
 
 ## <span style="color:#0b89ff">■</span> UI 다운로드
-[hodoUI](#https://github.com/dsky3313/hodoUI/archive/refs/heads/main.zip){: .btn .btn--info} (GitHub)
+[hodoUI](https://github.com/dsky3313/hodoUI/archive/refs/heads/main.zip){: .btn .btn--info} (GitHub)
 
 다음과 같은 파일이 있습니다.
 ```
