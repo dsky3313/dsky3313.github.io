@@ -14,7 +14,7 @@ tags:
 toc: true # 목차 사용할지
 toc_label: 옴니씨디
 header:
-  teaser: "/assets/img/wow/wowinfo/2025-09-06-omnicd/1.webp"
+  teaser: "/assets/img/wow/wowinfo/2025-09-06-omnicd/barmove-2.webp"
 ---
 
 ## <span style="color:#0b89ff">■</span> Omnicd 차단바, 공생기 바 옮기기
