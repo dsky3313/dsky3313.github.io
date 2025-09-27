@@ -1,7 +1,6 @@
 ---
 # bundle exec jekyll serve
 search: true
-toc_sticky: true # 목차가 옆에 따라올지
 # last_modified_at: # 2021-10-09 수정날짜
 
 # published : false

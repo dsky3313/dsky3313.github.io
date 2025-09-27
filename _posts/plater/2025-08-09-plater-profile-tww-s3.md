@@ -1,7 +1,6 @@
 ---
 # bundle exec jekyll serve
 search: true
-toc_sticky: true # 목차가 옆에 따라올지
 # permalink: /wow-data/riding-macro
 #excerpt: "와우 내부전쟁 탈것 매크로"
 

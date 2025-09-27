@@ -1,7 +1,6 @@
 ---
 search: true
 toc: true # 목차 사용할지
-toc_sticky: true # 목차가 옆에 따라올지
 
 date: 2025-08-02
 last_modified_at: # 2021-10-09 수정날짜
