@@ -25,13 +25,13 @@ header:
 <br>
 <br>
 
-![이미지 설명](/assets/img/wow/wowinfo/2025-09-06-omnicd/omnicd-barmove-1.webp)
+![이미지 설명](/assets/img/wow/wowinfo/2025-09-06-omnicd/barmove-1.webp)
 
 /oc > 던전 > 추가 바 > 차단 > 잠그기 <span style="color:#26beff">해제</span>
 <br>
 <br>
 
-![이미지 설명](/assets/img/wow/wowinfo/2025-09-06-omnicd/omnicd-barmove-2.webp)
+![이미지 설명](/assets/img/wow/wowinfo/2025-09-06-omnicd/barmove-2.webp)
 
 이런 식으로 바 위에 라벨이 생기게 되는데, 이 라벨을 마우스 드래그로 위치를 조절할 수 있습니다.
 <br>
