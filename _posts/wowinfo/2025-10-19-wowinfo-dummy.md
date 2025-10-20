@@ -6,18 +6,31 @@ search: true
 # last_modified_at: # 2021-10-09 수정날짜
 
 published : false
-title: "타이머 위크오라 &#124; 와우 내부전쟁 3시즌"
+title: "허수아비 장난감"
 categories: # 카테고리 설정
-  - Weakauras # Plater, Weakauras, WOWinfo, Achievement, Github,
+  - WOWinfo # Plater, Weakauras, WOWinfo, Github
 tags:
-  - [tag1, tag2]
+  - [장난감]
 toc: true # 목차 사용할지
-toc_label: Github 블로그 만들기
+toc_label: 허수아비 장난감
 header:
-  teaser: "/assets/img/wow/weakauras/2025-08-08-bigwig-timer/1.webp"
+  teaser: "/assets/img/wow/weakauras/2025-10-19-dummy/0.webp"
 ---
 
-## <span style="color:#0b89ff">■ </span>본문
+## <span style="color:#0b89ff">■ </span>허수아비 장난감
+
+
+[사랑에 빠졌던 튼튼한 바보](https://www.wowhead.com/ko/item=144339)
+[훈련용 순무](https://www.wowhead.com/ko/item=88375) 
+[질긴 생선 머리](https://www.wowhead.com/ko/item=199896)
+[투스카르 훈련용 허수아비](https://www.wowhead.com/ko/item=199830)
+[검은용의 도전 허수아비](https://www.wowhead.com/ko/item=201933)
+[고대의 피조물](https://www.wowhead.com/ko/item=225556)
+[폭죽통](https://www.wowhead.com/ko/item=219387)
+
+[인체 표본](https://www.wowhead.com/ko/item=89614)  판다리아
+[놀 노리기 통](https://www.wowhead.com/ko/item=163201) 쿨티라스, 잔달라 
+
 
 **<span style="color:#26beff">■ </span>** 123
 본문은 여기에...  
@@ -48,7 +61,7 @@ header:
 ## 링크
 [링크](https://community.algolia.com/jekyll-algolia/options.html)
 
-[hodoUI](https://github.com/dsky3313/hodoUI/archive/refs/heads/main.zip){: .btn .btn--info} (GitHub)
+[hodoUI](#https://github.com/dsky3313/hodoUI/archive/refs/heads/main.zip){: .btn .btn--info} (GitHub)
 
 **Notice:** This is an important info notice.
 {: .notice--primary}  

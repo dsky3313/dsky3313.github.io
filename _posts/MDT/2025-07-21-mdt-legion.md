@@ -14,7 +14,7 @@ header:
   teaser: "/assets/img/wow/mdt/2025-07-31-mdt-tww-s1/1.webp"
 ---
 
-## <span style="color:#0b89ff">■ </span>
+## <span style="color:#0b89ff">■ </span>비전로
 
 ![이미지 설명](/assets/img/wow/mdt/2025-07-31-mdt-tww-s1/1.webp)
 
@@ -27,7 +27,7 @@ header:
 <br>
 <br>
 
-## <span style="color:#0b89ff">■ </span>
+## <span style="color:#0b89ff">■ </span>검은떼까마귀 요새
 
 ![이미지 설명](/assets/img/wow/mdt/2025-07-31-mdt-tww-s1/2.webp)
 
@@ -40,7 +40,7 @@ header:
 <br>
 <br>
 
-## <span style="color:#0b89ff">■ </span>
+## <span style="color:#0b89ff">■ </span>영원한 밤의 대성당
 
 ![이미지 설명](/assets/img/wow/mdt/2025-07-31-mdt-tww-s1/3.webp)
 
@@ -53,7 +53,7 @@ header:
 <br>
 <br>
 
-## <span style="color:#0b89ff">■ </span>
+## <span style="color:#0b89ff">■ </span>별의 궁정
 
 ![이미지 설명](/assets/img/wow/mdt/2025-07-31-mdt-tww-s1/4.webp)
 
@@ -66,7 +66,7 @@ header:
 <br>
 <br>
 
-## <span style="color:#0b89ff">■ </span>
+## <span style="color:#0b89ff">■ </span>어둠심장 숲
 
 ![이미지 설명](/assets/img/wow/mdt/2025-07-31-mdt-tww-s1/5.webp)
 
@@ -79,7 +79,7 @@ header:
 <br>
 <br>
 
-## <span style="color:#0b89ff">■ </span>
+## <span style="color:#0b89ff">■ </span>아즈샤라의 눈
 
 ![이미지 설명](/assets/img/wow/mdt/2025-07-31-mdt-tww-s1/6.webp)
 
@@ -92,7 +92,7 @@ header:
 <br>
 <br>
 
-## <span style="color:#0b89ff">■ </span>
+## <span style="color:#0b89ff">■ </span>용맹의 전당
 
 ![이미지 설명](/assets/img/wow/mdt/2025-07-31-mdt-tww-s1/7.webp)
 
@@ -105,7 +105,7 @@ header:
 <br>
 <br>
 
-## <span style="color:#0b89ff">■ </span>
+## <span style="color:#0b89ff">■ </span> 영혼의 아귀
 
 ![이미지 설명](/assets/img/wow/mdt/2025-07-31-mdt-tww-s1/8.webp)
 
@@ -115,3 +115,69 @@ header:
 ![이미지 설명](https://wow.zamimg.com/images/wow/icons/large/spell_nature_bloodlust.jpg){: width="30" height="30"} 
 &nbsp;&nbsp;**블러드** : 1넴 ▶ 11  ▶ 막넴
 {: .notice--danger}  
+<br>
+<br>
+
+## <span style="color:#0b89ff">■ </span>넬타리온의 둥지
+
+![이미지 설명](/assets/img/wow/mdt/2025-07-31-mdt-tww-s1/8.webp)
+
+```
+```
+
+![이미지 설명](https://wow.zamimg.com/images/wow/icons/large/spell_nature_bloodlust.jpg){: width="30" height="30"} 
+&nbsp;&nbsp;**블러드** : 1넴 ▶ 11  ▶ 막넴
+{: .notice--danger}  
+<br>
+<br>
+
+## <span style="color:#0b89ff">■ </span>삼두정의 권좌
+![이미지 설명](/assets/img/wow/mdt/2025-07-31-mdt-tww-s1/8.webp)
+
+```
+```
+
+![이미지 설명](https://wow.zamimg.com/images/wow/icons/large/spell_nature_bloodlust.jpg){: width="30" height="30"} 
+&nbsp;&nbsp;**블러드** : 1넴 ▶ 11  ▶ 막넴
+{: .notice--danger}  
+<br>
+<br>
+
+## <span style="color:#0b89ff">■ </span>감시관의 금고
+
+![이미지 설명](/assets/img/wow/mdt/2025-07-31-mdt-tww-s1/8.webp)
+
+```
+```
+
+![이미지 설명](https://wow.zamimg.com/images/wow/icons/large/spell_nature_bloodlust.jpg){: width="30" height="30"} 
+&nbsp;&nbsp;**블러드** : 1넴 ▶ 11  ▶ 막넴
+{: .notice--danger}  
+<br>
+<br>
+
+## <span style="color:#0b89ff">■ </span>다시 찾은 카라잔: 하층
+
+![이미지 설명](/assets/img/wow/mdt/2025-07-31-mdt-tww-s1/8.webp)
+
+```
+```
+
+![이미지 설명](https://wow.zamimg.com/images/wow/icons/large/spell_nature_bloodlust.jpg){: width="30" height="30"} 
+&nbsp;&nbsp;**블러드** : 1넴 ▶ 11  ▶ 막넴
+{: .notice--danger}  
+<br>
+<br>
+
+## <span style="color:#0b89ff">■ </span>다시 찾은 카라잔: 상층
+
+![이미지 설명](/assets/img/wow/mdt/2025-07-31-mdt-tww-s1/8.webp)
+
+```
+```
+
+![이미지 설명](https://wow.zamimg.com/images/wow/icons/large/spell_nature_bloodlust.jpg){: width="30" height="30"} 
+&nbsp;&nbsp;**블러드** : 1넴 ▶ 11  ▶ 막넴
+{: .notice--danger}  
+<br>
+<br>

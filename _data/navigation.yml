@@ -20,6 +20,9 @@ sidebar-category:
       - title: "WOWinfo"
         url: "/wowinfo"
 
+      - title: "업적"
+        url: "/achievement"
+
   - title: "TIL"
     children:
       - title: "Github"
