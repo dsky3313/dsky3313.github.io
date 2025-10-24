@@ -20,6 +20,9 @@ sidebar-category:
       - title: "WOWinfo"
         url: "/wowinfo"
 
+      - title: "MDT"
+        url: "/mdt"
+
       - title: "업적"
         url: "/achievement"
 
