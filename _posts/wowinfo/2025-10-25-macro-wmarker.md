@@ -38,3 +38,8 @@ header:
 | 6    | ![이미지 설명](/assets/img/wow/wowinfo/mark/IconSmall_RaidCircle.webp)   |
 | 7    | ![이미지 설명](/assets/img/wow/wowinfo/mark/IconSmall_RaidMoon.webp)     |
 | 8    | ![이미지 설명](/assets/img/wow/wowinfo/mark/IconSmall_RaidSkull.webp)    |
+
+
+![이미지 설명](/assets/img/wow/wowinfo/2025-10-25-macro-wmarker/2.webp)  
+
+MRT 애드온이 설치되어 있으면, 단축키 설정에서 따로 지정할 수 있습니다.
