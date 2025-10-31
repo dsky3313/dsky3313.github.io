@@ -18,7 +18,7 @@ header:
   teaser: "/assets/img/wow/plater/1.webp"
 ---
 
-**변경점 :** 속죄, 알다니, 타자베쉬 추가
+**필수 설정 :** /plater > 프레임 우선순위 > Scaling > Fine Tune Scale [ **<span style="color:#26beff">1.0</span>** ]  
 {: .notice--warning}  
 
 ## <span style="color:#0b89ff">■ </span>플레이터 프로필
