@@ -13,7 +13,7 @@ tags:
 toc: true # 목차 사용할지
 toc_label: 징표 매크로
 header:
-  teaser: "/assets/img/wow/wowinfo/2025-10-25-macro-wmarker/1.webp"
+  teaser: "/assets/img/wow/wowinfo/2025-10-25-macro-wmarker/0.webp"
 ---
 
 ## <span style="color:#0b89ff">■ </span>징표 매크로
