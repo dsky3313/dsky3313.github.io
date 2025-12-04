@@ -13,7 +13,7 @@ tags:
 toc: true # 목차 사용할지
 toc_label: 차단순서 배정
 header:
-  teaser: "/ssets/img/wow/wowinfo/2025-12-04-mrt-interrupts/1.webp"
+  teaser: "/assets/img/wow/wowinfo/2025-12-04-mrt-interrupts/1.webp"
 ---
 
 **<span style="color:#26beff">■ </span>**유튜브 질문댓글
