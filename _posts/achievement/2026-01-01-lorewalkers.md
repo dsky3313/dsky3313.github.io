@@ -1,7 +1,7 @@
 ---
 # bundle exec jekyll serve
 ## <span style="color:#0b89ff">■ </span>생태지구 알다니
-#**<span style="color:#26beff">■ </span>** 123
+#**<span style="color:#26beff">■ </span>**123
 search: true
 # last_modified_at: # 2021-10-09 수정날짜
 
@@ -13,13 +13,13 @@ tags:
 toc: true # 목차 사용할지
 toc_label: 전승지기
 header:
-  teaser: "/assets/img/wow/achievement/2025-12-21-lorewalkers/0.webp"
+  teaser: "/assets/img/wow/achievement/2026-01-01-lorewalkers/0.webp"
 ---
 
 **Notice:** Tomtom 애드온 있으면 편해용
 {: .notice--primary}  
 
-![이미지 설명](/assets/img/wow/achievement/2025-12-21-lorewalkers/1.webp)
+![이미지 설명](/assets/img/wow/achievement/2026-01-01-lorewalkers/1.webp)
 
 판다리아 전역에 위치한 제단, 두루마리를 클릭해서 아래 나열된 업적을 달성하면 평판을 획득할 수 있습니다.
 
@@ -89,12 +89,12 @@ header:
 /way #388 37.70 63.00 황제의 짐 - 제5부
 ```
 
-![이미지 설명](/assets/img/wow/achievement/2025-12-21-lorewalkers/2.webp)
+![이미지 설명](/assets/img/wow/achievement/2026-01-01-lorewalkers/2.webp)
 
 업적을 깰 때마다, 우편으로 퀘스트템이 옵니다.  
 <br>
 
-![이미지 설명](/assets/img/wow/achievement/2025-12-21-lorewalkers/3.webp)
+![이미지 설명](/assets/img/wow/achievement/2026-01-01-lorewalkers/3.webp)
 
 영원꽃 골짜기에서 퀘스트를 완료해서, 1분정도 이야기를 들어주면 완료됩니다.
 <br>
@@ -102,7 +102,7 @@ header:
 
 ## <span style="color:#0b89ff">■ </span>전승지기 병참장교 좌표
 
-![이미지 설명](/assets/img/wow/achievement/2025-12-21-lorewalkers/4.webp)
+![이미지 설명](/assets/img/wow/achievement/2026-01-01-lorewalkers/4.webp)
 
 ```
 /way #390 82.2 29.4 탄 신 탸오
