@@ -11,7 +11,7 @@ categories: # 카테고리 설정
 toc: true # 목차 사용할지
 toc_label: 인스턴스 난이도 설정
 header:
-  teaser: "assets/img/wow/weakauras/2025-11-20-difficulty/1.webp"
+  teaser: "/assets/img/wow/weakauras/2025-11-20-difficulty/1.webp"
 ---
 
 ## <span style="color:#0b89ff">■ </span> 인스턴스 난이도 설정 위크오라
