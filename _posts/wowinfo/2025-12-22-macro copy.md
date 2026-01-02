@@ -28,6 +28,25 @@ ESC > 매크로설정 > 만들기 클릭
 /script print(format ("현 위치:[%s]%.2f %.2f",GetZoneText(),px*100,py*100));
 ```
 
+/run local m=WorldMapFrame:GetMapID() local p=C_Map.GetPlayerMapPosition(m,"player") local n=C_Map.GetMapInfo(m).name print(format("[지도] %s (#%d)", n, m)) if p then print(format("[위치] %.2f, %.2f", p.x*100, p.y*100)) end
+
+
+local m=WorldMapFrame:GetMapID() 
+local p=C_Map.GetPlayerMapPosition(m,"player") 
+local n=C_Map.GetMapInfo(m).name print(format("[지도] %s (#%d)", n, m)) 
+  if p then 
+    print(format("[위치] %.2f, %.2f", p.x*100, p.y*100)) 
+  end
+
+
+
+
+
+
+/run local C=C_GossipInfo local a,b=C.GetAvailableQuests()[1],C.GetActiveQuests()[1] if a then C.SelectAvailableQuest(a.questID) elseif b then C.SelectActiveQuest(b.questID) end AcceptQuest() CompleteQuest() GetQuestReward(1)
+/click StaticPopup1Button1
+
+
 https://us.forums.blizzard.com/en/wow/t/how-do-i-find-out-zone-id/422066/8
 https://us.forums.blizzard.com/en/wow/t/macro-for-coordinates/513149
 
