@@ -1,12 +1,12 @@
 ---
-title: "Weakauras" # 사이드바에서 카테고리 눌렀을 때 본문부분에 나오는 문구
+title: "Lua" # 사이드바에서 카테고리 눌렀을 때 본문부분에 나오는 문구
 layout: archive
-permalink: /weakauras
+permalink: /coding/lua
 author_profile: true
 sidebar:
     nav: "sidebar-category"
 ---
 
 
-{% assign posts = site.categories.Weakauras %}
+{% assign posts = site.categories.Lua %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}

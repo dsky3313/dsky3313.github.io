@@ -12,21 +12,24 @@ sidebar-category:
   - title: "WOW"
     children:
       - title: "Plater" # 메인화면 사이드바 카테고리 이름
-        url: "/plater"
+        url: "/wow/plater"
 
       - title: "Weakauras"
-        url: "/weakauras"
+        url: "/wow/weakauras"
 
       - title: "WOWinfo"
-        url: "/wowinfo"
+        url: "/wow/wowinfo"
 
       - title: "MDT"
-        url: "/mdt"
+        url: "/wow/mdt"
 
       - title: "업적"
-        url: "/achievement"
+        url: "/wow/achievement"
 
-  - title: "TIL"
+  - title: "CODING"
     children:
-      - title: "Github"
-        url: "/github"
+      - title: "Lua"
+        url: "/coding/lua"
+
+      - title: "TIL"
+        url: "/coding/til"
