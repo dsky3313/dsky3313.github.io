@@ -11,7 +11,10 @@ main:
 sidebar-category:
   - title: "WOW"
     children:
-      - title: "Plater" # 메인화면 사이드바 카테고리 이름
+      - title: "UI" # 메인화면 사이드바 카테고리 이름
+        url: "/wow/ui"
+
+      - title: "Plater"
         url: "/wow/plater"
 
       - title: "Weakauras"

@@ -4,12 +4,10 @@ search: true
 # last_modified_at: # 2021-10-09 수정날짜
 
 # published : false
-date: 2025-09-01
-title: "hodo UI &#124; 와우 내부전쟁 3시즌"
+date: 2026-01-24
+title: "hodo UI &#124; 와우 소한밤"
 categories: # 카테고리 설정
-  - WOWinfo # Plater, Weakauras, WOWinfo, Github
-tags:
-  - [UI]
+  - UI # Plater, Weakauras, WOWinfo, Github
 toc: true # 목차 사용할지
 toc_label: hodoUI
 header:
@@ -19,6 +17,43 @@ header:
 **주의!** 반드시 백업!
 {: .notice--warning}  
 
+## <span style="color:#0b89ff">■</span> WOW UI 편집모드 코드
+
+![이미지 설명](/assets/img/wow/wowinfo/2025-09-01-hodoui-tww-s3/1.webp)
+![이미지 설명](/assets/img/wow/wowinfo/2025-09-01-hodoui-tww-s3/2.webp)
+
+```  
+2 50 0 0 0 1 4 UIParent 0.0 -242.0 -1 ##$%%/&('%)$+$,$ 0 1 0 1 7 MainActionBar 0.0 -5.0 -1 ##$%%/&''%(#,$ 0 2 0 7 7 UIParent 0.0 4.0 -1 ##$$%/&%'%(#,$ 0 3 0 8 8 UIParent -360.0 4.0 -1 ##$$%/&%'%(#,# 0 4 0 8 2 MultiBarRight 0.0 4.0 -1 ##$$%/&%'%(#,# 0 5 0 8 2 MultiBarLeft 0.0 4.0 -1 ##$$%/&%'%(#,# 0 6 0 6 0 MultiBar5 0.0 4.0 -1 ##$$%/&%'%(#,# 0 7 0 8 2 PlayerFrame -22.0 -25.0 -1 ##$$%/&%'%(#,# 0 10 0 8 2 MainActionBar -12.0 0.0 -1 ##$$&('% 0 11 0 6 0 MultiBarBottomRight 0.0 4.0 -1 ##$$&('%,# 0 12 0 8 2 MultiBarBottomRight 0.0 4.0 -1 ##$$&('% 1 -1 0 4 4 UIParent 0.0 -170.0 -1 ##$#%# 2 -1 1 2 2 UIParent 0.0 0.0 -1 ##$#%( 3 0 0 2 4 UIParent -125.0 -216.0 -1 $#3# 3 1 0 0 4 UIParent 125.0 -216.0 -1 %#3# 3 2 0 6 8 TargetFrame -36.0 0.0 -1 %#&$3# 3 3 0 0 0 UIParent 340.0 -440.0 -1 '$(#)#-k.5/#1#3#5#6-7-7$ 3 4 0 0 0 UIParent 197.0 -440.0 -1 ,$-#.5/#0#1#2(5#6(7U 3 5 0 2 2 UIParent -294.0 -282.5 -1 &#*$3# 3 6 0 2 2 UIParent -294.0 -282.5 -1 -5.)/#4$5#6(7-7$ 3 7 1 4 4 UIParent 0.0 0.0 -1 3# 4 -1 0 1 1 UIParent 0.0 -40.0 -1 # 5 -1 0 3 3 UIParent 362.0 -271.6 -1 # 6 0 0 2 0 MinimapCluster 0.0 -10.0 -1 ##$#%#&-(()( 6 1 0 0 0 UIParent 571.2 -557.0 -1 ##$#%#'3(+)(-$ 6 2 0 8 2 DebuffFrame 0.0 4.0 -1 ##$#%#&.(+)(+#,-,$ 7 -1 0 8 2 ChatFrame1 -160.0 -224.0 -1 # 8 -1 0 7 7 UIParent -726.0 34.0 -1 #'$A%%&T 9 -1 0 8 6 MultiBarBottomRight -10.0 0.0 -1 # 10 -1 0 6 0 FocusFrame 20.0 0.0 -1 # 11 -1 0 8 2 DamageMeter 0.0 4.0 -1 # 12 -1 0 2 8 MinimapCluster 0.0 -30.0 -1 #*$#%# 13 -1 0 8 8 UIParent -2.0 2.0 -1 ##$#%'&) 14 -1 0 6 6 MicroMenuContainer 0.0 4.0 -1 #$$#%( 15 0 0 1 1 UIParent 0.0 -4.0 -1 # 15 1 0 1 1 UIParent 0.0 -16.0 -1 # 16 -1 0 7 7 UIParent 0.0 742.0 -1 #( 17 -1 0 1 1 UIParent 0.0 -80.0 -1 ## 18 -1 0 0 0 UIParent 491.6 -624.0 -1 #) 19 -1 0 1 1 UIParent 0.0 -180.0 -1 ## 20 0 0 1 1 UIParent 0.0 -342.0 -1 ##$)%$&'''(-($)#+$,$-$ 20 1 0 4 4 UIParent 0.0 56.0 -1 ##$-%$&&''(-($)#+$,$-$ 20 2 0 0 0 UIParent 820.0 -732.0 -1 ##$$%$&&'((-($)#+$,$-$ 20 3 0 8 2 MultiBar7 0.0 4.0 -1 #$$$%#&('((-($)#*#+$,$-$.I 21 -1 0 1 1 UIParent 0.0 -600.0 -1 ##$# 22 0 0 0 0 UIParent 1437.0 -90.0 -1 #$$$%$&('((<)U*$+$,$ 22 1 0 1 1 UIParent 0.0 -70.0 -1 &('()U*#+$ 22 2 0 0 0 UIParent 685.0 -122.0 -1 &('()U*#+$ 22 3 0 0 0 UIParent 710.0 -162.0 -1 &('()U*#+$ 23 -1 0 8 2 MicroMenuContainer 0.0 4.0 -1 ##$#%$&('N(#)U+$,$-*.(/<
+```  
+<br>
+<span style="color:#26beff">■</span> 적용 방법
+
+상단 코드 복사 후, **<span style="color:#26beff">편집모드</span>** > 
+**<span style="color:#26beff">가져오기</span>** > 
+**<span style="color:#26beff">코드 붙여넣기 (Ctrl+V)</span>** > 
+이름 지정 후, **<span style="color:#26beff">가져오기</span>**
+<br>
+<br>
+
+## <span style="color:#0b89ff">■</span> 애드온 프로필
+
+- Plater ([프로필](https://dsky3313.github.io/plater/plater-profile-tww-s3-midnight/))
+- Unhalted Unit Frames (유닛프레임)
+```
+!UUF_T3vBVnoUr4FrzHLKF9(wCEBdWg70iNUT9W5Us2kXcNJLHmDYLfhw0FsfO9dlq7N6pNT)joskkzkzsrs9IJTdXDBIIOehYHdNzEMHuCSX4rJTxgg8G)CVmxEL3cVqN5Olh59BG1HERqxFzqO3JHbRxmDSDFpaWl8BFP)C)V(vNq0DCM8RClfaRjNhVF5uhG31lGL9mS6h04dMTgBFwW8G1HykCNNZeGFWc41dmI(b8H6oEG54lB2Y0WSDJUnmT60RtpJXpCsRMJhyXRea6TkDvyLFvyIEqR8RIMPRIOFN3l0k6f41CLPkAx(QOt5RIULUkGYn3g8IxiTaHr0BIEp4pPgMjf8HwrfHeUOgbJk1yZR1iECHQ(mqfySzqVjnTGT1nDk4F2Pvmbnjpqp8R3nt7Pnfrn6S517rk3SD8R3JASlUD9HUMunnJmf2kPmmZ6oNfpINcFXch35Eth3FS9W1GHpeva(fSVEb5VqVM99R8oB9kqWtN66g69SVdAc4QXUJTT9w6e6acchB)7)oCcCWiQ78)(pifclaendlG10LH(F9BF5pT2zk8zC(2xgblXEMZ0GxOBrWk(VEBWQXdoXyS9FbFLrSsagJinqtGiDqmDUCUZJWo19J(01dUa3bU2EIZCVm0i6EXV49l8JAPlN78kwCIMdbvSnX7J(t9s0x1hRVc)gWFpAwONh56X2)8sKe5eydo8x(5jRdxU8xIAz2(FfrrZX2FY51G1GOEJ9DxF1hhH6r29hoA0WBi)nSVDIfUZzIAHPya0YQKEaK0xg9arTICj5zxmy0f3HPz8LjSYgssTrVeSPld7MZw(toqjez7RB1lLLUx6)S3URxoCXoIyWN4JEoZVn0BQFSno7tDxfe6UkJ4iCgPni0FP3uI1x0nHtu8XVM9NU4YrmjhrzA6PmiIklzCPjt0ayk6WZ6xEMwrTTMumHtxh6GBj9x)WdzBsdxm)v7zbVCB0Su3mJbPM)ahign82nIzX9AO5tm1SVkm4fWSZ9d9MqZ4(COZsQBE)TO(46fiAKp1Yo7TXMjVPLBYrsGAGb1oq)T9G1pH)DufyHm7zFUNBrzp4EjH7eDTumhYW9(f3XIWDSsZDqYqNd)x80OCN6P4040nwSvK(VE9KGf4B6IFKqNNqtDGg5G1(WpJN97Sc03jRHLBCatMDRtO3cWN9NcMHUxQMtYyKz6HVK20jgBrXBU48RV)gilcxJdmB2mMd0)1ZM7ScB7Eqaa7ND46LaFyZzBwub8gg65WZEHRWkkq6mq9w6XHuMuRnBe2l9MpFaKHipjt4XjCxk6DJZVD2mNqKFiTesDqkyqkQvCdAHijtkitKAQBdRUw9A3WSLzx4)JE(wr1e7sS4vcAWAYwJkzmIGnp4)4mKp0KXxOXjK)De0yRa(lEmtDWMXsRSHI3gBzX(UlShD9GRAepr2OD0q9tUoG8ia18vijYoznP6pB4n9pDuMA)tEot9cpD1k)vaNfGKoxE0JEc529jOykinnUjy9kVGN3YLYpczRZrS2HlDM4dEDCeEbBBWRq3sTV6Utp)AyxtO8g0JE)PJCcF0dCJt4VUfDuGzf1SnjWQoDou7Wc4u3N9WiS2w5LuY5D4kN3HLQesjPvLWwIkJ6qReRdjYSTQ7zqXAvh96sSpyenUgnW8ZBdcHAK9tj(c7n)TGGNqJ2wCv7L0NoXyZOdcggs5DsT6gpI10mXeaIuX9(MY5H6jnnB9Hi6CIzh0LSSGrBmbqWCNrIWLMBFZ65a)LZ9HYJebBcVk5jiCnxg2MOg6RxzSywLflbf1vAZPegck2pfeGT2dICahmJWmJEWppZBXiNLlJMND6IjZcchfCwqWCiw5f)zFVxI8UBd3Hslsx6otY9nYYN7NIphxwsa26x3ZDQ3r2TL2ILUWk3CdwL13zngFngFuVCbuZx(9VCDwuS7HAu(GYHYpH)Vr8k2o5Ho81it5ma37kKR8(j2hA09A09A09I8VQ0O7JavMPken6CWc3LfyT(1pyTT0dF(WppqzmCTA1igch(cKqtBM6Q044Ky6PghNc6zQ3rwb44EiyY6YbKR2bx82byR2j2EnkTYssGgPwPrQLNvYdlOigeOigj(nuCKAhX4xJ4khpa0KiJ5zjOgFMgFMm(nLfFMB5XN5kK)SFHpJtWQOL2OsLkq5mQLJIwqEy0mtJrlYV9i1eWx7(l)7ef7BgEYkrluVHvBbjAZiQrObOPbOvsfn17iRaaAawbrsneA6uTjtFTygR33bXPt1MSkh5dGRal5)YG5tOPpJdEuoLEj4QZsxMzRkQOz3ccuNLo1nSOrbkNZzLolD17kKTqyml4YQnF0GhrRS2Dek2YTSq1Rk0bAWQVZaRIZMyfGyT2rr92HmT2j2EnC0YssGgskU9WhFP4SND8KtrozptNtXdKCkESLogMXSXkRxSfmxm5nTfuQKXCjEnaXpxm57)SobmYRqx7t7HNpTl1(YstnTVSvfjbAFzlTVShpETzuHRpUJEp83d9LLrQrC1PgrNAK9OuJ4QAQro8qKX1(qDGiRO5vqiGmHRooXAnm1lpUsm7uJotb1m17iRa0zrjBqNYHSutdtRQijqdtR0W0o6bKuiyAhpGxpCGPDO7G7rskhim(C9WvKmR2hxTpUVh8XfpZ9X5bUrNxeWzDxH)JBjhNeqgsQBGJmc0I0doqXASneXh2e2bZ9ZCcteDla2rRcDSsG1SDzNgTB2e(JwTT62QHz7nmB2LqDAdK3jcbZ4urkH6ijq5dvInvrZTvqNTj3m5H5CGse3u34JhF6X5aLqLQGZbkHkvbNducfQIyfUBjkGuBBfz6yq(hOe8p3ieF2ouYdpc(N(d5EQrW9iWi3t6cI1EYUlzRTucLn)07UeKVp4PDBF2p0Vsp7hW3AS9p(()8))V((3(Yp(()4h)3)n6rfEWvi8iJG3PIb2ktYHjbJpZKI8GRVyhSkOhC9hE35qhrfw9Q4)gLFUcx2ZSIDr(Uulvq4ZBt(fHOhKkagfMKc9PNMAKayuyIjkjdJ2Snbx6TzVccsfqJctDL6QKaAuyILBYnOdtI8bZWLtWmKk4fmZYaZGzWKmUfn2fMSIDXwbgjDWmYcrDBGKkoWkniAC7OaBpqwGYmfg2G4yp9geIG4idWiKfjrpGsrhd4CSJUs8EMl3(sH2EGVjSPK9c42J)m4Cr1UfXYG87lp5ZARHIkufjQNkRTPt5AounxDBYBYpRyvnLcDjGMOC8c4RQZAJ1HK4O0qms4ECrc3Jls4EjiHLA)2PyYkjsiIJof3TGvbIufzONSjVyLRiz)gtAMvjuo7fpZoXbVQxK6AlblI2wnIyn7OqyrfKjPKolCmp0HWsCiS62SthR2nB1XSNHv72DqDV2ywcNsS4vcGL8qY4FTosJNAZ8qbSAhim0dd5pmua8JQHymAhgN23hnaYIrDL6QLfaP0edij8rE5cxv4JXi2unz4VFXpQXfLGlsnGKzZ9jTNQMJl2xHN3q(LL68lKXjPXrwap8FNGaRzT6bbKBEzhZgT60QxlddJ2T71PDIxVsHnt(iaOQfrrkR4ebG2nlE0nvjcaaoW8eFo9rDC4rj7uV4SLsYSOodYHdNzUR1gJGzXtP650x9bCp7xNfiEAEuGYG7jgn7qWH32KTTI4UyVwrDrna8QcaELFgOMSiNyCAOIBlz)cpLJxzCZcxQQp(B9eAQuX(ynLtFQmFPMmQ0SvMLpr3OzZLi5QeW(KLOAr8Rd9sDG5VkWjE4H2xjIDmIUxNI4dni(gk4k1EmYEdLqQAYXBnfq2NyeBthrmB6qdrpMpHm9uxi63EC4yfrVble9vkwpP2OUYJBNVIHka3UCKmxq7PH(xyC7YJ6uXVOr5a6S8BSHmXvmRQI2uMj4bjTRoLW1kI0D5UcQoqPXBThyXaslzcgZnqROVtYvjk6cXZLb6D2g5U77KCDm0kdlU4lxyosrQMUxwN3iGdqmHISBMBgGvf1w2e2LRf00i22TqsbSWhUxbERoZinXBm80wL33g7Tqk7lCvhlz6qpjx0tmqReJqRuaRuazfV9Jgd0wKuJYXxS69WlHdFmcSop2yZ9p2yZuSr4TLhpQ84DuvVTOPhVX5P89bQAlwRu5QlQ7dkDEYvlEiMnic4YJkDRCHwyuPYSgM5MF0eQszzPkYoAFnw0cHfTAZrMHodz5noVjtLBJa2LZuk1XvvfUDF4bFsjIT7WVueWzfJykNsTkgKIEvZYACfOtwKSjvJBQhv5df0ECQhlaxQYnqxNlILknjvVDMOpWdpF2CRMZk)A7yZ)o4C74DGp9YdkCRbX8uTceNRsq18jsTM9uICH2)2kIA7q)B)PvqTsGFYSHko6YmVavVJUmjJ2rxTJUAhDfYLahso6EKelQ3q)ek1AAsy0XzSAb1lOjH2AkHdNh2iMYAvujetGsDKTvZUmrUq7OBfrTDOJUQ4FRoqU7D(3((XZnv8V144afGH6Cj47E4FKTTzklNsa18Q4G5x7GknSZkT3iK7BmywJav0k3z3VsLoWqPvPYfhMO0k8s8riiTJXZmonqTJBGAr)34)4
+```
+<br>
+<br>
+
+## <span style="color:#0b89ff">■</span> Font (폰트)
+
+[▶ 폰트 적용법 및 미리보기](https://dsky3313.github.io/wowinfo/font/)
+<br>
+<br>
+
+
+
+<!-- 
 ## <span style="color:#0b89ff">■</span> UI 다운로드
 [hodoUI](https://github.com/dsky3313/hodoUI/archive/refs/heads/main.zip){: .btn .btn--info} (GitHub)
 
@@ -47,28 +82,6 @@ hodo UI
 <span style="color:#26beff">[4]</span> 와우 접속 > 채팅창에 '/reflux switch hodo' 입력.
 <br>
 
-## <span style="color:#0b89ff">■</span> WOW UI 편집모드 코드  
-
-![이미지 설명](/assets/img/wow/wowinfo/2025-09-01-hodoui-tww-s3/1.webp)
-![이미지 설명](/assets/img/wow/wowinfo/2025-09-01-hodoui-tww-s3/2.webp)
-```  
-1 43 0 0 0 4 4 UIParent 0.0 -291.0 -1 ##$%%/&('%)$+$,$ 0 1 0 1 7 MainMenuBar 0.0 -5.0 -1 ##$%%/&''%(#,$ 0 2 0 7 7 UIParent 0.0 4.0 -1 ##$$%/&$'%(#,$ 0 3 0 8 8 UIParent -430.0 4.0 -1 ##$$%/&$'%(#,$ 0 4 0 8 8 UIParent -430.0 34.0 -1 ##$$%/&$'%(#,# 0 5 0 8 8 UIParent -430.0 64.0 -1 ##$$%/&$'%(#,# 0 6 0 8 8 UIParent -430.0 94.0 -1 ##$$%/&$'%(#,# 0 7 0 7 7 UIParent -340.7 230.5 -1 ##$$%/&%'%(#,# 0 10 0 6 0 MultiBarBottomRight 0.0 4.0 -1 ##$$&%'% 0 11 0 6 0 MultiBarBottomRight 0.0 4.0 -1 ##$$&''%,# 0 12 0 6 0 MultiBarBottomRight 0.0 4.0 -1 ##$$&''% 1 -1 0 7 1 MainMenuBar 0.0 50.0 -1 ##$#%% 2 -1 0 2 2 UIParent -2.0 -2.0 -1 ##$#%( 3 0 0 2 0 MainMenuBar 15.0 25.0 -1 $#3# 3 1 0 0 2 MainMenuBar -15.0 25.0 -1 %#3# 3 2 0 0 2 TargetFrame -15.0 0.0 -1 %#&$3# 3 3 0 0 0 UIParent 299.0 -481.0 -1 '$(#)#-k.1/#1#3# 3 4 0 0 0 UIParent 82.0 -488.0 -1 ,$-#.1/#0#1#2( 3 5 0 2 2 UIParent -302.0 -284.5 -1 &$*#3# 3 6 0 2 2 UIParent -302.0 -284.5 -1 -#.#/#4& 3 7 0 2 8 PlayerFrameBottomManagedFramesContainer -11.0 0.0 -1 3# 4 -1 0 1 1 UIParent 0.0 -45.0 -1 # 5 -1 0 5 3 PlayerFrame 60.0 0.0 -1 # 6 0 0 2 0 MinimapCluster 0.0 -10.0 -1 ##$#%#&-(()( 6 1 0 0 6 BuffFrame 0.0 -25.0 -1 ##$#%#'-(()( 7 -1 0 6 0 ChatFrame1 -25.0 0.0 -1 # 8 -1 0 6 6 UIParent 34.0 33.0 -1 #'$#%%&\ 9 -1 0 4 4 UIParent -162.0 -193.0 -1 # 10 -1 0 6 0 FocusFrame 20.0 0.0 -1 # 11 -1 0 8 8 UIParent -2.0 320.0 -1 # 12 -1 0 2 8 MinimapCluster 0.0 -30.0 -1 #*$#%# 13 -1 0 8 8 UIParent 0.0 0.0 -1 ##$#%&&& 14 -1 0 8 8 UIParent -300.0 0.0 -1 #$$#%# 15 0 0 1 1 UIParent 1.0 -4.0 -1 # 15 1 0 1 7 MainStatusTrackingBarContainer 0.0 -4.0 -1 # 16 -1 0 4 4 UIParent -1.0 -3.0 -1 #( 17 -1 0 1 7 EncounterBar 0.0 -4.0 -1 ## 18 -1 0 8 2 MultiBarBottomRight 1.0 3.0 -1 ## 19 -1 0 1 1 UIParent 0.0 -216.0 -1 ## 20 0 0 2 0 MainStatusTrackingBarContainer -4.0 0.0 -1 ##$7%$&('%(-($)#+$,$-$ 20 1 0 0 6 EssentialCooldownViewer 0.0 -4.0 -1 ##$*%$&('%(-($)#+$,$-$ 20 2 0 0 2 UtilityCooldownViewer 4.0 0.0 -1 ##$$%$&('((-($)#+$,$-$ 20 3 0 7 7 UIParent -560.0 882.0 -1 #$$$%#&('%(-($)#*#+#,$-$
-```  
-<br>
-<span style="color:#26beff">■</span> 적용 방법
-
-상단 코드 복사 후, **<span style="color:#26beff">편집모드</span>** > 
-**<span style="color:#26beff">가져오기</span>** > 
-**<span style="color:#26beff">코드 붙여넣기 (Ctrl+V)</span>** > 
-이름 지정 후, **<span style="color:#26beff">가져오기</span>**
-<br>
-<br>
-
-## <span style="color:#0b89ff">■</span> Font (폰트)
-
-[▶ 폰트 적용법 및 미리보기](https://dsky3313.github.io/wowinfo/font/)
-<br>
-<br>
 
 ## <span style="color:#0b89ff">■</span> Interface (애드온)
 
@@ -138,3 +151,4 @@ hodo UI
 - 압축해제 > World of Warcraft\_retail_\Interface 안에 붙여넣기
 <br>
 <br>
+-->

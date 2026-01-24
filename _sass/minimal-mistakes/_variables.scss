@@ -153,6 +153,15 @@ $vine-color: #00bf8f !default;
 $youtube-color: #bb0000 !default;
 $xing-color: #006567 !default;
 
+$castNormal-color: #FFC864 !default;
+$castChannel-color: #64FF64 !default;
+$castImportant-color: #FF9600 !default;
+$castCannotInterrupt-color: #969696 !default;
+$castInterrupt-color: #464646 !default;
+$castSuccess-color: #32FF32 !default;
+
+$miniboss-color: #c792ea !default;
+
 /* links */
 $link-color: mix(#000, $info-color, 20%) !default;
 $link-color-hover: mix(#000, $link-color, 25%) !default;

@@ -54,7 +54,15 @@
   (vine, $vine-color),
   (stackoverflow, $stackoverflow-color),
   (soundcloud, $soundcloud-color),
-  (x, $x-color);
+  
+  (castNormal, $castNormal-color),
+  (castChannel, $castChannel-color),
+  (castImportant, $castImportant-color),
+  (castCannotInterrupt, $castCannotInterrupt-color),
+  (castInterrupt, $castInterrupt-color),
+  (castSuccess, $castSuccess-color),
+
+  (miniboss, $miniboss-color);
    /* button for plater */  
 
   @each $buttoncolor, $color in $buttoncolors {
