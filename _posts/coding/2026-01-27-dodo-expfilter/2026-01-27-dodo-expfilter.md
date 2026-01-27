@@ -34,7 +34,7 @@ header:
 
 ## <span style="color:#0b89ff">■ </span> 설명
 
-![alt text](/_posts/coding/2026-01-27-dodo-expfilter/epxfilter1.webp)
+![alt text](/_posts/coding/2026-01-27-dodo-expfilter/expfilter1.webp)
 
 경매장 / 주문제작 창에서 자동으로 "현행 확장팩 전용"을 활성화 합니다.
 
@@ -42,7 +42,7 @@ header:
 <br>
 <br>
 
-![alt text](/_posts/coding/2026-01-27-dodo-expfilter/epxfilter3.webp)
+![alt text](/_posts/coding/2026-01-27-dodo-expfilter/expfilter3.webp)
 
 성능 최적화를 위해, 쐐기와 레이드에선 작동하지 않습니다.
 <br>
@@ -50,7 +50,7 @@ header:
 
 ## <span style="color:#0b89ff">■ </span> 설정법
 
-![alt text](/_posts/coding/2026-01-27-dodo-expfilter/epxfilter2.webp)
+![alt text](/_posts/coding/2026-01-27-dodo-expfilter/expfilter2.webp)
 
 설정창 (`/dd`) 에서 기능을 활성화/비활성화 할 수 있습니다. (기본값 - 활성화)
 <br>
@@ -89,7 +89,7 @@ local isEnabled = (dodoDB.useAuctionFilter ~= false) -- 기본값 true
 
 **<span style="color:#26beff">■ </span>** 옵션 (체크박스) 추가
 ```
-function ns.expFilter()
+function ns.expfilter()
     checkAuctionFilter()
     checkCraftFilter()
 end

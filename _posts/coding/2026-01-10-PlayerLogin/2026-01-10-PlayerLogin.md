@@ -36,6 +36,5 @@ header:
 
 **<span style="color:#26beff">■ </span>** 최적화를 위해 무거운 코드는 `PLAYER_LOGIN`를 사용하고,  
 &nbsp; &nbsp; &nbsp;`C_Timer.After` 등으로 작업 시간을 미룬다.
-
-
-bundle exec jekyll serve <!--vsc에서 로컬 테스트-->
+<br>
+<br>

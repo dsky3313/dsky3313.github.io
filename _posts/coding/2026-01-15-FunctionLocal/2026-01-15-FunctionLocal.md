@@ -92,6 +92,6 @@ if then ... end 를 사용하여, 만약 좌표값이 있다면 소수점 2자�
 <br>
 <br>
 
-![alt text](/assets/img/coding/lua/2026-01-15-function_local/1.webp)
+![alt text](/_posts/coding/2026-01-15-FunctionLocal/functionlocal1.webp)
 
 결과물 스크린샷
