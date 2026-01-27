@@ -159,6 +159,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _posts # 내가 추가
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"

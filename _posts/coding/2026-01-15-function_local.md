@@ -13,7 +13,7 @@ tags:
 toc: true # 목차 사용할지
 toc_label: 함수와 변수
 header:
-  teaser: ""
+  teaser: "/assets/img/coding/github.webp"
 ---
 
 ## <span style="color:#0b89ff">■ </span> 전역변수와 지역변수
