@@ -16,13 +16,13 @@ tags:
 toc: true # 목차 사용할지
 toc_label: 플레이터 NPC 색상 설정
 header:
-  teaser: "/_posts/plater/2026-01-29-plater-npc-color2/platernpccolor.webp"
+  teaser: "/_posts/plater/2026-01-29-plater-npc-color-midnight/platernpccolor.webp"
 
 ---
 
 ## <span style="color:#0b89ff">■ </span>NPC 색상지정 변경점
 
-![alt text](/_posts/plater/2026-01-29-plater-npc-color2/platernpccolor.webp)
+![alt text](/_posts/plater/2026-01-29-plater-npc-color-midnight/platernpccolor.webp)
 
 소한밤 업데이트 이후 NPC 체력바 색상을 직접 설정할 수 없으며,  
 
@@ -36,14 +36,14 @@ header:
 
 ## <span style="color:#0b89ff">■ </span>Unit Type Coloring
 
-![alt text](/_posts/plater/2026-01-29-plater-npc-color2/platerunittype1.webp)
+![alt text](/_posts/plater/2026-01-29-plater-npc-color-midnight/platerunittype1.webp)
 
 **<span style="color:#26beff">☑ </span>**Unit Type Coloring  
 ☐ Don't override Threat colors  
 <br>
 <br>
 
-![alt text](/_posts/plater/2026-01-29-plater-npc-color2/platerunittype2.webp)
+![alt text](/_posts/plater/2026-01-29-plater-npc-color-midnight/platerunittype2.webp)
 
 ☐ Unit Type Coloring  
 ☐ Don't override Threat colors  
@@ -54,7 +54,7 @@ header:
 
 ## <span style="color:#0b89ff">■ </span>Don't override Threat colors
 
-![alt text](/_posts/plater/2026-01-29-plater-npc-color2/platerunittypeoverride1.webp)
+![alt text](/_posts/plater/2026-01-29-plater-npc-color-midnight/platerunittypeoverride1.webp)
 
 ☑ Unit Type Coloring  
 **<span style="color:#26beff">☑ </span>**Don't override Threat colors  
@@ -63,7 +63,7 @@ header:
 <br>
 <br>
 
-![alt text](/_posts/plater/2026-01-29-plater-npc-color2/platerunittypeoverride2.webp)
+![alt text](/_posts/plater/2026-01-29-plater-npc-color-midnight/platerunittypeoverride2.webp)
 
 ☑ Unit Type Coloring  
 ☐ Don't override Threat colors  
