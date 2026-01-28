@@ -8,7 +8,7 @@ sitemap:
     changefreq : weekly
     priority : 0.5
 
-title: "말풍선 & 글꼴변경 &#124; 와우 애드온"
+title: "말풍선 & 글꼴변경 &#124; 와우 한밤 애드온"
 categories: # 카테고리 설정
   - Coding # Plater, Weakauras, WOWinfo, Achievement, Coding,
 tags:
@@ -19,7 +19,7 @@ header:
   teaser: "/_posts/coding/dodoLogo-teaser.webp"
 ---
 
-'**Gemini**'로 제작했습니다.
+'**Gemini**'로 제작했습니다. (한밤 12.0.0 기준)
 {: .notice--warning}  
 
 ## <span style="color:#0b89ff">■ </span> 원본 위크오라
