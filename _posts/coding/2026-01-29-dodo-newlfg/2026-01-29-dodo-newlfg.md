@@ -34,7 +34,7 @@ header:
 
 ## <span style="color:#0b89ff">■ </span> 설명
 
-![alt text](/_posts/coding/2026-01-28-dodo-newlfg/newlfg1.webp)
+![alt text](/_posts/coding/2026-01-29-dodo-newlfg/newlfg1.webp)
 
 파티 모집 중, 새로운 신청이 왔을때 알림문구를 표시 & 알림음 재생.
 <br>
@@ -42,7 +42,7 @@ header:
 
 ## <span style="color:#0b89ff">■ </span> 설정법
 
-![alt text](/_posts/coding/2026-01-28-dodo-newlfg/newlfg2.webp)
+![alt text](/_posts/coding/2026-01-29-dodo-newlfg/newlfg2.webp)
 
 설정창 (`/dd`) 에서 기능을 활성화/비활성화 & 알림음 변경할 수 있습니다. (기본값 - 활성화)  
 
@@ -72,7 +72,9 @@ function NewLFG()
 ```
 local initializer = Settings.CreateSettingInitializer("dodoCheckboxDropdownTemplate", data)
 ```
-- `initializer = CreateSettingsCheckboxSliderInitializer`를 통해 기본 설정창에 있는 체크박스 + 드롭다운을 구현하려 했으나 실패 [Blizzard_SettingsDefinitions_Frame/Controls.lua](https://www.townlong-yak.com/framexml/live/Blizzard_SettingsDefinitions_Frame/Controls.lua#171)  
+- `initializer = CreateSettingsCheckboxSliderInitializer`를 통해  
+기본 설정창에 있는 체크박스 + 드롭다운을 구현하려 했으나 실패  
+([Blizzard_SettingsDefinitions_Frame/Controls.lua](https://www.townlong-yak.com/framexml/live/Blizzard_SettingsDefinitions_Frame/Controls.lua#171)  )
 - XML 파일을 제작하니 오류 해결..?
 <br>
 <br>
