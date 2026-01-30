@@ -38,9 +38,22 @@ header:
 
 말풍선 배경과 폰트를 변경합니다.
 
-말풍선 배경 변경법은 아래 글을 참고해주세요.
+예전에 사용하던 말풍선 위크오라를 애드온으로 만들었습니다. ([링크](https://dsky3313.github.io/coding/dodo-chatbubble/))
 
-[말풍선 모양 바꾸기](https://dsky3313.github.io/wowinfo/chatbubble/)
+[말풍선 텍스쳐 다운로드](https://downgit.github.io/#/home?url=https://github.com/dsky3313/hodoUI/tree/main/Interface/Tooltips){: .btn .btn--info} (GitHub)  
+
+```
+World of Warcraft
+ └─ _retail_
+  ├─ AddOns
+  ├─ Raidframe
+  ├─ Targetingframe
+  └─ Tooltips        (말풍선 택스쳐)
+    ├─ ChatBubble.blp
+    └─ ChatBubbleVertical.blp
+```
+`Interface` 폴더 안에 `Tooltips` 폴더를 만들고
+`ChatBubble.blp`, `ChatBubbleVertical.blp`를 넣어준 뒤, 와우 실행.
 <br>
 <br>
 
@@ -55,3 +68,7 @@ header:
 [와우 글꼴 변경 및 추천 | 와우 내부전쟁 3시즌](https://dsky3313.github.io/wowinfo/font/)
 <br>
 <br>
+
+## <span style="color:#0b89ff">■ </span> 추가예정
+
+- `ChatBubble.blp`, `ChatBubbleVertical.blp`를 따로 넣지않고, 인게임 내에서 변경하기.
