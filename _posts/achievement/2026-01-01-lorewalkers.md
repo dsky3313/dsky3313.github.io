@@ -7,9 +7,7 @@ search: true
 
 title: "전승지기 &#124; 평판 & 업적"
 categories: # 카테고리 설정
-  - 업적 # Plater, Weakauras, WOWinfo, Github, 업적
-tags:
-  - [업적]
+  - Achievement # Plater, Weakauras, WOWinfo, Github, Achievement
 toc: true # 목차 사용할지
 toc_label: 전승지기
 header:

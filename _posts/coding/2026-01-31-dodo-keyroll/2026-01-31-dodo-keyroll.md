@@ -24,7 +24,7 @@ header:
 
 ## <span style="color:#0b89ff">■ </span> 원본 위크오라
 
-[Reroll Your Key?](https://wago.io/AT6ZmGDlK)
+[Reroll Your Key?](https://wago.io/AT6ZmGDlK) (Wago)
 <br>
 
 ## <span style="color:#0b89ff">■ </span> 다운로드

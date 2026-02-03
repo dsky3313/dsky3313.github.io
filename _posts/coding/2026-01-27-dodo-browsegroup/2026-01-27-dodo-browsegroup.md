@@ -16,7 +16,7 @@ tags:
 toc: true # 목차 사용할지
 toc_label: 파티 탐색하기
 header:
-  teaser: "/_posts/coding/dodoLogo-teaser.webp"
+  teaser: "/_posts/coding/2026-01-27-dodo-browsegroup/dodoLogo-teaser.webp"
 ---
 
 '**Gemini**'로 제작했습니다. (한밤 12.0.0 기준)
