@@ -14,7 +14,7 @@ categories: # 카테고리 설정
 toc: true # 목차 사용할지
 toc_label: 텍스쳐 변경
 header:
-  teaser: "/_posts/wowinfo/2026-02-03-addon-hidingbar/hidingbar-teaser.webp"
+  teaser: "/_posts/wowinfo/2026-02-14-partyframe/partyframe3.webp"
 
 ---
 
