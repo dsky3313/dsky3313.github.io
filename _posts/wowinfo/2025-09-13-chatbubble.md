@@ -27,15 +27,14 @@ header:
 ```
 World of Warcraft
  └─ _retail_
-  ├─ AddOns
-  ├─ Raidframe
-  ├─ Targetingframe
-  └─ Tooltips        (말풍선 택스쳐)
-    ├─ ChatBubble.blp
-    └─ ChatBubbleVertical.blp
+  └─ Interface 
+    ├─ AddOns
+    └─ Tooltips        (말풍선 택스쳐)
+      ├─ ChatBubble.blp
+      └─ ChatBubbleVertical.blp
 ```
 `Interface` 폴더 안에 `Tooltips` 폴더를 만들고
-`ChatBubble.blp`, `ChatBubbleVertical.blp`를 넣어준 뒤, 와우 실행.
+`ChatBubble.blp`, `ChatBubbleVertical.blp`를 넣어준 뒤, 와우 재실행.
 <br>
 <br>
 
