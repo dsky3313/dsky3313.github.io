@@ -39,7 +39,7 @@ ESC 창 옆, 던전 텔레포트 스킬들을 보여줍니다.
 
 ## <span style="color:#0b89ff">■ </span> 설정법
 
-![alt text](/_posts/coding/2026-01-31-dodo-partyclass/teleport2.webp)
+![alt text](/_posts/coding/2026-02-07-dodo-teleport/teleport2.webp)
 
 설정창 (`/dd`) 에서 기능을 활성화/비활성화 할 수 있습니다.
 <br>
