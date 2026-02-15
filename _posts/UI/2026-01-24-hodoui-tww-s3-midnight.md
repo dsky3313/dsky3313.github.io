@@ -82,6 +82,13 @@ S37E3rXvwEI(zP)JED7YRlSI3p6)tYGSzzqWqkxUR1YlcImZqsztQmZjZibR6wflEiCjdYLHQKkKTLOf
 <br>
 <br>
 
+## <span style="color:#0b89ff">■</span> 키세팅 & 매크로
+
+[▶ 키세팅](https://dsky3313.github.io/wowinfo/warriorkey-midnight/)
+[▶ 매크로](https://dsky3313.github.io/wowinfo/macro-warriror/)
+<br>
+<br>
+
 ## <span style="color:#0b89ff">■</span> 아이콘 팩
 ![alt text](https://raw.githubusercontent.com/AcidWeb/Clean-Icons-Mechagnome-Edition/refs/heads/master/docs/Merge.png)
 
