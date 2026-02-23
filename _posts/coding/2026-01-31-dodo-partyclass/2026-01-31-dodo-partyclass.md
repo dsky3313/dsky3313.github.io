@@ -12,7 +12,7 @@ title: "파티원 클래스 현황 &#124; 와우 한밤 애드온"
 categories: # 카테고리 설정
   - Coding # Plater, Weakauras, WOWinfo, Achievement, Coding,
 tags:
-  - [lua]
+  - [Lua]
 toc: true # 목차 사용할지
 toc_label: 파티원 클래스 현황
 header:

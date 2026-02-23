@@ -3,37 +3,45 @@
 ## <span style="color:#0b89ff">■ </span>생태지구 알다니
 #**<span style="color:#26beff">■ </span>**123
 search: true
-# last_modified_at: # 2021-10-09 수정날짜
+lastmod: 2026-02-01 00:00:00
+sitemap: 
+    changefreq : weekly
+    priority : 0.5
 
 published : false
-title: "매크로 만들기 &#124; 와우 내부전쟁 3시즌"
+title: "타이머 위크오라 &#124; 와우 내부전쟁 3시즌"
 categories: # 카테고리 설정
-  - WOWinfo # Plater, Weakauras, WOWinfo, Achievement, Github,
+  - Weakauras # Plater, Weakauras, WOWinfo, Achievement, Coding,
 tags:
-  - [매크로]
+  - [tag1, tag2]
 toc: true # 목차 사용할지
-toc_label: 매크로 만들기
+toc_label: Github 블로그 만들기
 header:
   teaser: "/assets/img/wow/weakauras/2025-08-08-bigwig-timer/1.webp"
 ---
 
-## <span style="color:#0b89ff">■ </span>매크로창 띄우기
+## <span style="color:#0b89ff">■ </span>본문
 
-ESC > 매크로설정 > 만들기 클릭
 
+
+
+
+
+
+![alt text](_posts/wowinfo/2026-02-21-macro-count/count1.webp)
 **<span style="color:#26beff">■ </span>** 123
 본문은 여기에...  
 <br>
-![이미지 설명](/)
-![이미지 설명](/assets/img/wow/wowdata/partyleave/1.webp){: .align-center}
-![이미지 설명](https://wow.zamimg.com/images/wow/icons/large/spell_nature_bloodlust.jpg){: width="30" height="30"} <!--블러드-->
-![이미지 설명](https://wow.zamimg.com/images/wow/icons/large/ability_ambush.jpg){: width="30" height="30"} 패스 : 1넴 뒤 박스, 14번 앞 방울이, 막넴앞 시동자 2 마리 <!--패스--> 
-![이미지 설명](https://wow.zamimg.com/images/wow/icons/large/ability_ambush.jpg){: width="30" height="30"} 저주 해제 : 드루이드, 마법사, 주술사
-![이미지 설명](https://wow.zamimg.com/images/wow/icons/large/ability_ambush.jpg){: width="30" height="30"} 질병 해제 : 사제, 성기사, 수도사
-![이미지 설명](https://wow.zamimg.com/images/wow/icons/large/ability_ambush.jpg){: width="30" height="30"} 마법 해제 : 사제, 흑마법사
-![이미지 설명](https://wow.zamimg.com/images/wow/icons/large/ability_ambush.jpg){: width="30" height="30"} 독 해제 : 기원사, 드루이드, 성기사, 수도사
+![alt text](/)
+![alt text](/assets/img/wow/wowdata/partyleave/1.webp){: .align-center}
+![alt text](https://wow.zamimg.com/images/wow/icons/large/spell_nature_bloodlust.jpg){: width="30" height="30"} <!--블러드-->
+![alt text](https://wow.zamimg.com/images/wow/icons/large/ability_ambush.jpg){: width="30" height="30"} 패스 : 1넴 뒤 박스, 14번 앞 방울이, 막넴앞 시동자 2 마리 <!--패스--> 
+![alt text](https://wow.zamimg.com/images/wow/icons/large/ability_ambush.jpg){: width="30" height="30"} 저주 해제 : 드루이드, 마법사, 주술사
+![alt text](https://wow.zamimg.com/images/wow/icons/large/ability_ambush.jpg){: width="30" height="30"} 질병 해제 : 사제, 성기사, 수도사
+![alt text](https://wow.zamimg.com/images/wow/icons/large/ability_ambush.jpg){: width="30" height="30"} 마법 해제 : 사제, 흑마법사
+![alt text](https://wow.zamimg.com/images/wow/icons/large/ability_ambush.jpg){: width="30" height="30"} 독 해제 : 기원사, 드루이드, 성기사, 수도사
 
-![이미지 설명](https://wow.zamimg.com/images/wow/icons/large/spell_nature_bloodlust.jpg){: width="30" height="30"} 
+![alt text](https://wow.zamimg.com/images/wow/icons/large/spell_nature_bloodlust.jpg){: width="30" height="30"} 
 &nbsp;&nbsp;**블러드** : 입구 ▶ 7번 (1넴 뒤) ▶ 15번 (막넴 앞 중보)
 
 {% include video id="유튜브영상id" provider="youtube" %}
@@ -79,6 +87,7 @@ ESC > 매크로설정 > 만들기 클릭
 |내용 5|내용 6|내용 7|내용 8|
 |내용 9|내용 10|내용 11|내용 12|
 
-✅
+☑
+☐
 
 bundle exec jekyll serve <!--vsc에서 로컬 테스트-->

@@ -9,7 +9,7 @@ title: "함수와 변수 &#124; 와우 API"
 categories: # 카테고리 설정
   - Coding # Plater, Weakauras, WOWinfo, Achievement, Coding,
 tags:
-  - [lua]
+  - [Lua]
 toc: true # 목차 사용할지
 toc_label: 함수와 변수
 header:
@@ -31,12 +31,6 @@ Lua에선 변수 선언시 기본적으로 전역변수 (Global Variable),
 |속도|느림|빠름|
 |안전성|이름 충돌 가능|좁은 범위에서만 사용하여 충돌 가능성 낮음|
 
-<br>
-<br>
-
-## <span style="color:#0b89ff">■ </span> 함수
-
-함수란? 데이터 **<span style="color:#26beff">동작</span>**에 이름을 붙여주는 것.
 <br>
 <br>
 
@@ -95,3 +89,9 @@ if then ... end 를 사용하여, 만약 좌표값이 있다면 소수점 2자�
 ![alt text](/_posts/coding/2026-01-15-functionlocal/functionlocal1.webp)
 
 결과물 스크린샷
+
+## <span style="color:#0b89ff">■ </span> 함수
+
+함수란? 데이터 **<span style="color:#26beff">동작</span>**에 이름을 붙여주는 것.
+<br>
+<br>

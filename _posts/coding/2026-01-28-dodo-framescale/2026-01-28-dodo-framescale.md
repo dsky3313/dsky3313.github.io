@@ -12,7 +12,7 @@ title: "프레임 크기 조절 &#124; 와우 한밤 애드온"
 categories: # 카테고리 설정
   - Coding # Plater, Weakauras, WOWinfo, Achievement, Coding,
 tags:
-  - [lua]
+  - [Lua]
 toc: true # 목차 사용할지
 toc_label: 함수와 변수
 header:

@@ -12,7 +12,7 @@ title: "경매장 '현행 확장팩 전용' 자동 설정 &#124; 와우 한밤 �
 categories: # 카테고리 설정
   - Coding # Plater, Weakauras, WOWinfo, Achievement, Coding,
 tags:
-  - [lua]
+  - [Lua]
 toc: true # 목차 사용할지
 toc_label: 함수와 변수
 header:

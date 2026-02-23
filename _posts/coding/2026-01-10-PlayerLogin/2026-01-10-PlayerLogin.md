@@ -9,7 +9,7 @@ title: "애드온 로딩속도 최적화 &#124; 와우 API"
 categories: # 카테고리 설정
   - Coding # Plater, Weakauras, WOWinfo, Achievement, Coding,
 tags:
-  - [lua]
+  - [Lua]
 toc: true # 목차 사용할지
 toc_label: 애드온 로딩속도 최적화
 header:

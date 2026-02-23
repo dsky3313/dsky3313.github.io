@@ -16,6 +16,6 @@ categories: # 카테고리 설정
 toc_label: 캐드 명령어
 ---
 
-![이미지 설명](/assets/img/til/cad-command.webp){: .align-center}
+![이미지 설명](/_posts/til/2025-08-07-til-cad-command/cad-command.webp){: .align-center}
 
 자격증 공부하면서 자주 사용했던 명령어들 정리본.
