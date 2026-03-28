@@ -35,12 +35,12 @@ header:
 
 ## <span style="color:#0b89ff">■ </span>적용 방법
 
-![이미지 설명](/assets/img/wow/plater/plater-import-1.webp)  
-게시물에서 플레이터 코드를 복사합니다
+![alt text](/_posts/plater/2025-08-09-plater-profile-tww-s3/plater-import-1.webp)  
+게시물에서 플레이터 코드를 복사합니다.
 <br>
 <br>
 
-![이미지 설명](/assets/img/wow/plater/plater-import-2.webp)  
+![alt text](/_posts/plater/2025-08-09-plater-profile-tww-s3/plater-import-2.webp)   
 
 /Plater &nbsp;&nbsp;>&nbsp;&nbsp; 프로필  &nbsp;&nbsp;>&nbsp;&nbsp; 프로필 가져오기 &nbsp;&nbsp;>&nbsp;&nbsp; `Ctrl` + `V` 로 붙여넣기  &nbsp;&nbsp;>&nbsp;&nbsp; 프로필명 지정 후, 확인
 <br>

@@ -12,12 +12,12 @@ tags:
 toc: true # 목차 사용할지
 toc_label: 플레이터 간격 조절
 header:
-  teaser: "/assets/img/wow/plater/2025-08-19-nameplate-space/0.webp"
+  teaser: "/_posts/plater/2025-08-19-nameplate-space/0.webp"
 ---
 
 ## <span style="color:#0b89ff">■ </span>플레이터 간격 조절
 
-![이미지 설명](/assets/img/wow/plater/2025-08-19-nameplate-space/1.webp)
+![이미지 설명](/_posts/plater/2025-08-19-nameplate-space/1.webp)
 
 이름 간격 조절 옵션은 **<span style="color:#26beff">/plater</span>** > **<span style="color:#26beff">일반</span>** > **<span style="color:#26beff">이름표 중첩 (수직)</span>**값을 조절해 설정할 수 있습니다.
 <br>
@@ -25,17 +25,17 @@ header:
 
 ## <span style="color:#0b89ff">■ </span>간격 비교
 
-![이미지 설명](/assets/img/wow/plater/2025-08-19-nameplate-space/4.webp)
+![이미지 설명](/_posts/plater/2025-08-19-nameplate-space/4.webp)
 
 🟦 이름표 중첩  
 <br>
 
-![이미지 설명](/assets/img/wow/plater/2025-08-19-nameplate-space/3.webp)
+![이미지 설명](/_posts/plater/2025-08-19-nameplate-space/3.webp)
 
 ☑️ 이름표 중첩  (0.2)  
 <br>
 
-![이미지 설명](/assets/img/wow/plater/2025-08-19-nameplate-space/2.webp)
+![이미지 설명](/_posts/plater/2025-08-19-nameplate-space/2.webp)
 
 ☑️ 이름표 중첩  (1.4)  
 <br>
@@ -43,7 +43,7 @@ header:
 
 ## <span style="color:#0b89ff">■ </span>이름표 중첩 자동 켜짐/꺼짐
 
-![이미지 설명](/assets/img/wow/plater/2025-08-19-nameplate-space/5.webp)
+![이미지 설명](/_posts/plater/2025-08-19-nameplate-space/5.webp)
 
 **<span style="color:#26beff">이름표 중첩</span>**을 해제한 상태에서  
 **<span style="color:#26beff">/plater</span>** > 
