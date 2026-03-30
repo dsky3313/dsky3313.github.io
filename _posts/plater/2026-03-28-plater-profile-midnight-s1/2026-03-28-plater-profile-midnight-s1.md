@@ -43,7 +43,7 @@ header:
 
 ## <span style="color:#0b89ff">■ </span>플레이터 설정
 
-- **<span style="color:#26beff">[이름표 간격 설정](https://dsky3313.github.io/plater/nameplate-space/)</span>**  
+- **<span style="color:#26beff">[이름표 간격 설정 (한밤 업데이트)](https://dsky3313.github.io/plater/nameplate-space/)</span>**  
 - **<span style="color:#26beff">[징표, 아이콘 설정](https://dsky3313.github.io/plater/raidmark/)</span>**  
 - **<span style="color:#26beff">[NPC 색상 설정 (한밤 변경)](https://dsky3313.github.io/plater/plater-npc-color-midnight/)</span>**  
 - **<span style="color:#26beff">[시전바 설정](https://dsky3313.github.io/plater/plater-castbar/)</span>**  

@@ -4,7 +4,7 @@ search: true
 # last_modified_at: # 2021-10-09 수정날짜
 
 date: 2025-08-19
-title: "플레이터 간격 조절"
+title: "플레이터 간격 조절 (한밤 업데이트)"
 categories: # 카테고리 설정
   - Plater # Plater, Weakauras, WOWinfo, Github
 tags:
@@ -19,7 +19,7 @@ header:
 
 ![이미지 설명](/_posts/plater/2025-08-19-nameplate-space/1.webp)
 
-이름 간격 조절 옵션은 **<span style="color:#26beff">/plater</span>** > **<span style="color:#26beff">일반</span>** > **<span style="color:#26beff">이름표 중첩 (수직)</span>**값을 조절해 설정할 수 있습니다.
+이름 간격 조절 옵션은 **<span style="color:#26beff">/plater > 상세 > Client Settings > Nameplate Overlap (V)</span>**값을 조절해 설정할 수 있습니다.
 <br>
 <br>
 
