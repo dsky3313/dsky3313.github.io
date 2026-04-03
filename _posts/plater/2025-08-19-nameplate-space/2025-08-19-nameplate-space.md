@@ -15,11 +15,14 @@ header:
   teaser: "/_posts/plater/2025-08-19-nameplate-space/0.webp"
 ---
 
-## <span style="color:#0b89ff">■ </span>플레이터 간격 조절
+## <span style="color:#0b89ff">■ </span>플레이터 중첩 및 간격 조절
 
+![이미지 설명](/_posts/plater/2025-08-19-nameplate-space/1-1.webp)
 ![이미지 설명](/_posts/plater/2025-08-19-nameplate-space/1.webp)
 
-이름 간격 조절 옵션은 **<span style="color:#26beff">/plater > 상세 > Client Settings > Nameplate Overlap (V)</span>**값을 조절해 설정할 수 있습니다.
+이름 간격 조절 옵션은 **<span style="color:#26beff">/plater > 일반 > ☑ Stacking Enemy Nameplate</span>**로 활성화,  
+
+**<span style="color:#26beff">/plater > 상세 > Client Settings > Nameplate Overlap (V)</span>**값으로 간격을 조절할 수 있습니다.
 <br>
 <br>
 
