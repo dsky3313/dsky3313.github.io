@@ -13,12 +13,12 @@ tags:
 toc: true # 목차 사용할지
 toc_label: 옴니씨디
 header:
-  teaser: "/assets/img/wow/wowinfo/2025-09-06-details/deal-2.webp"
+  teaser: "/_posts/wowinfo/2025-09-06-details/deal-2.webp"
 ---
 
 ## <span style="color:#0b89ff">■</span> 디테일즈 현재 피해량 / 종합 피해량 보기
 
-![alt text](/assets/img/wow/wowinfo/2025-09-06-details/deal-1.webp)
+![alt text](/_posts/wowinfo/2025-09-06-details/deal-1.webp)
 
 디테일즈 우측 상단 `종이모양`에 마우스 올리면,  
 
@@ -28,7 +28,7 @@ header:
 
 ## <span style="color:#0b89ff">■</span> 자동으로 현재 피해량 ↔ 종합 피해량 교체하기
 
-![alt text](/assets/img/wow/wowinfo/2025-09-06-details/deal-2.webp)
+![alt text](/_posts/wowinfo/2025-09-06-details/deal-2.webp)
 
 위의 방법으로 디테일즈를 `종합 데이터`로 바꿔놓고,  
 
