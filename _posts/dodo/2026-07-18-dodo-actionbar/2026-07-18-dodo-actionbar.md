@@ -3,7 +3,7 @@
 ## <span style="color:#0b89ff">■ </span>생태지구 알다니
 #**<span style="color:#26beff">■ </span>**123
 search: true
-lastmod: 2026-07-16 00:00:00
+lastmod: 2026-07-18 00:00:00
 sitemap: 
     changefreq : weekly
     priority : 0.5
@@ -14,9 +14,9 @@ categories: # 카테고리 설정
 tags:
   - [dodo]
 toc: true # 목차 사용할지
-toc_label: 자원바
+toc_label: 행동단축바
 header:
-  teaser: "/_posts/dodo/2026-01-27-dodo-browsegroup/dodoLogo-teaser.webp"
+  teaser: "/_posts/dodo/2026-07-18-dodo-actionbar/actionbar3.webp"
 ---
 
 '**Claude**'로 제작했습니다. (한밤 12.0.7 기준)

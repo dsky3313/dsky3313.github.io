@@ -50,8 +50,6 @@ header:
 
 ## <span style="color:#0b89ff">■ </span> 설정법
 
-![alt text](/_posts/dodo/2026-01-27-dodo-expfilter/expfilter2.webp)
-
 설정창 (`/dd`) 에서 기능을 활성화/비활성화 할 수 있습니다. (기본값 - 활성화)
 <br>
 <br>
