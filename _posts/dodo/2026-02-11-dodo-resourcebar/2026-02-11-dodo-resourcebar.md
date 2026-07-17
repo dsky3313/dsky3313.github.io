@@ -10,13 +10,13 @@ sitemap:
 
 title: "자원바 &#124; 와우 한밤 애드온"
 categories: # 카테고리 설정
-  - Coding # Plater, Weakauras, WOWinfo, Achievement, Coding,
+  - dodo # Plater, Weakauras, WOWinfo, Achievement, dodo,
 tags:
   - [Lua]
 toc: true # 목차 사용할지
 toc_label: 자원바
 header:
-  teaser: "/_posts/coding/2026-01-27-dodo-browsegroup/dodoLogo-teaser.webp"
+  teaser: "/_posts/dodo/2026-01-27-dodo-browsegroup/dodoLogo-teaser.webp"
 ---
 
 '**Claude**', '**Gemini**'로 제작했습니다. (한밤 12.0.0 기준)
@@ -37,7 +37,7 @@ header:
 
 ## <span style="color:#0b89ff">■ </span> 설명
 
-![alt text](/_posts/coding/2026-02-11-dodo-resourcebar/resourcebar1.webp)
+![alt text](/_posts/dodo/2026-02-11-dodo-resourcebar/resourcebar1.webp)
 
 직업별 자원바와 특성별 버프의 남은시간/스택을 바 형태로 보여줍니다.  
 
@@ -68,7 +68,7 @@ header:
 
 ## <span style="color:#0b89ff">■ </span> 설정법
 
-![alt text](/_posts/coding/2026-02-11-dodo-resourcebar/resourcebar2.webp)
+![alt text](/_posts/dodo/2026-02-11-dodo-resourcebar/resourcebar2.webp)
 
 설정창 (`/dd`) 에서 기능을 활성화/비활성화 할 수 있습니다.
 <br>

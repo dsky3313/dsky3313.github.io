@@ -10,13 +10,13 @@ sitemap:
 
 title: "새로운 파티신청 알림 &#124; 와우 한밤 애드온"
 categories: # 카테고리 설정
-  - Coding # Plater, Weakauras, WOWinfo, Achievement, Coding,
+  - dodo # Plater, Weakauras, WOWinfo, Achievement, dodo,
 tags:
   - [Lua]
 toc: true # 목차 사용할지
 toc_label: 새로운 파티신청 알림
 header:
-  teaser: "/_posts/coding/2026-01-27-dodo-browsegroup/dodoLogo-teaser.webp"
+  teaser: "/_posts/dodo/2026-01-27-dodo-browsegroup/dodoLogo-teaser.webp"
 ---
 
 '**Gemini**'로 제작했습니다. (한밤 12.0.0 기준)
@@ -34,7 +34,7 @@ header:
 
 ## <span style="color:#0b89ff">■ </span> 설명
 
-![alt text](/_posts/coding/2026-01-29-dodo-newlfg/newlfg1.webp)
+![alt text](/_posts/dodo/2026-01-29-dodo-newlfg/newlfg1.webp)
 
 파티 모집 중, 새로운 신청이 왔을때 알림문구를 표시 & 알림음 재생.
 <br>
@@ -42,7 +42,7 @@ header:
 
 ## <span style="color:#0b89ff">■ </span> 설정법
 
-![alt text](/_posts/coding/2026-01-29-dodo-newlfg/newlfg2.webp)
+![alt text](/_posts/dodo/2026-01-29-dodo-newlfg/newlfg2.webp)
 
 설정창 (`/dd`) 에서 기능을 활성화/비활성화 & 알림음 변경할 수 있습니다. (기본값 - 활성화)  
 

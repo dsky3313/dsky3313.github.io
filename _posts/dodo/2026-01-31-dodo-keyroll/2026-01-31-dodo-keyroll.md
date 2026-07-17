@@ -10,13 +10,13 @@ sitemap:
 
 title: "쐐기돌 굴리세요! &#124; 와우 한밤 애드온"
 categories: # 카테고리 설정
-  - Coding # Plater, Weakauras, WOWinfo, Achievement, Coding,
+  - dodo # Plater, Weakauras, WOWinfo, Achievement, dodo,
 tags:
   - [Lua]
 toc: true # 목차 사용할지
 toc_label: 돌 굴리세요 알림
 header:
-  teaser: "/_posts/coding/2026-01-27-dodo-browsegroup/dodoLogo-teaser.webp"
+  teaser: "/_posts/dodo/2026-01-27-dodo-browsegroup/dodoLogo-teaser.webp"
 ---
 
 '**Gemini**'로 제작했습니다. (한밤 12.0.0 기준)
@@ -34,7 +34,7 @@ header:
 
 ## <span style="color:#0b89ff">■ </span> 설명
 
-![alt text](/_posts/coding/2026-01-31-dodo-keyroll/keyroll1.webp)
+![alt text](/_posts/dodo/2026-01-31-dodo-keyroll/keyroll1.webp)
 
 쐐기 완료 후, 돌을 바꾸라고 채팅으로 알려줍니다.
 
@@ -44,7 +44,7 @@ header:
 
 ## <span style="color:#0b89ff">■ </span> 설정법
 
-![alt text](/_posts/coding/2026-01-31-dodo-keyroll/keyroll2.webp)
+![alt text](/_posts/dodo/2026-01-31-dodo-keyroll/keyroll2.webp)
 
 설정창 (`/dd`) 에서 기능을 활성화/비활성화 할 수 있습니다.
 <br>

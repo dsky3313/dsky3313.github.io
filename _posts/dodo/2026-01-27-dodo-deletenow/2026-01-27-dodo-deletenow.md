@@ -10,13 +10,13 @@ sitemap:
 
 title: "지금 삭제 &#124; 와우 한밤 애드온"
 categories: # 카테고리 설정
-  - Coding # Plater, Weakauras, WOWinfo, Achievement, Coding,
+  - dodo # Plater, Weakauras, WOWinfo, Achievement, dodo,
 tags:
   - [Lua]
 toc: true # 목차 사용할지
 toc_label: 지금 삭제
 header:
-  teaser: "/_posts/coding/2026-01-27-dodo-browsegroup/dodoLogo-teaser.webp"
+  teaser: "/_posts/dodo/2026-01-27-dodo-browsegroup/dodoLogo-teaser.webp"
 ---
 
 '**Gemini**'로 제작했습니다. (한밤 12.0.0 기준)
@@ -34,14 +34,14 @@ header:
 
 ## <span style="color:#0b89ff">■ </span> 설명
 
-![alt text](/_posts/coding/2026-01-27-dodo-deletenow/deletenow3.webp)
+![alt text](/_posts/dodo/2026-01-27-dodo-deletenow/deletenow3.webp)
 
 ☑ "지금파괴" 자동기입  
 ☐ 아이템 파괴 간소화  
 - `지금파괴` 문구를 자동으로 입력해줍니다.
 <br>
 
-![alt text](/_posts/coding/2026-01-27-dodo-deletenow/deletenow1.webp)
+![alt text](/_posts/dodo/2026-01-27-dodo-deletenow/deletenow1.webp)
 
 ☑ "지금파괴" 자동기입  
 ☑ 아이템 파괴 간소화  
@@ -49,7 +49,7 @@ header:
 <br>
 <br>
 
-![alt text](/_posts/coding/2026-01-27-dodo-expfilter/expfilter3.webp)
+![alt text](/_posts/dodo/2026-01-27-dodo-expfilter/expfilter3.webp)
 
 성능 최적화를 위해, 쐐기와 레이드에선 작동하지 않습니다.
 <br>
@@ -57,7 +57,7 @@ header:
 
 ## <span style="color:#0b89ff">■ </span> 설정법
 
-![alt text](/_posts/coding/2026-01-27-dodo-deletenow/deletenow2.webp)
+![alt text](/_posts/dodo/2026-01-27-dodo-deletenow/deletenow2.webp)
 
 설정창 (`/dd`) 에서 기능을 활성화/비활성화 할 수 있습니다. (기본값 - 활성화)
 <br>
@@ -85,7 +85,7 @@ GameTooltip:SetPoint("TOP", StaticPopup1, "BOTTOM", 0, -5)
 
 **<span style="color:#26beff">■ </span>** 설정창 체크박스 하위메뉴 구현
 
-![alt text](/_posts/coding/2026-01-27-dodo-deletenow/deletenow4.webp)
+![alt text](/_posts/dodo/2026-01-27-dodo-deletenow/deletenow4.webp)
 
 ```
 local settingParentDeleteNow, initParentDeleteNow = Checkbox(OptionCategory, "deleteNowAutoFill", "\"지금파괴\" 자동기입", "아이템 파괴 확인 메시지를 자동으로 입력합니다.", true)

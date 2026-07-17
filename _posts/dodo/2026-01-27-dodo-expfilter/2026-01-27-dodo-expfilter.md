@@ -10,13 +10,13 @@ sitemap:
 
 title: "경매장 '현행 확장팩 전용' 자동 설정 &#124; 와우 한밤 애드온"
 categories: # 카테고리 설정
-  - Coding # Plater, Weakauras, WOWinfo, Achievement, Coding,
+  - dodo # Plater, Weakauras, WOWinfo, Achievement, dodo,
 tags:
   - [Lua]
 toc: true # 목차 사용할지
 toc_label: 함수와 변수
 header:
-  teaser: "/_posts/coding/2026-01-27-dodo-browsegroup/dodoLogo-teaser.webp"
+  teaser: "/_posts/dodo/2026-01-27-dodo-browsegroup/dodoLogo-teaser.webp"
 ---
 
 '**Gemini**'로 제작했습니다. (한밤 12.0.0 기준)
@@ -34,7 +34,7 @@ header:
 
 ## <span style="color:#0b89ff">■ </span> 설명
 
-![alt text](/_posts/coding/2026-01-27-dodo-expfilter/expfilter1.webp)
+![alt text](/_posts/dodo/2026-01-27-dodo-expfilter/expfilter1.webp)
 
 경매장 / 주문제작 창에서 자동으로 "현행 확장팩 전용"을 활성화 합니다.
 
@@ -42,7 +42,7 @@ header:
 <br>
 <br>
 
-![alt text](/_posts/coding/2026-01-27-dodo-expfilter/expfilter3.webp)
+![alt text](/_posts/dodo/2026-01-27-dodo-expfilter/expfilter3.webp)
 
 성능 최적화를 위해, 쐐기와 레이드에선 작동하지 않습니다.
 <br>
@@ -50,7 +50,7 @@ header:
 
 ## <span style="color:#0b89ff">■ </span> 설정법
 
-![alt text](/_posts/coding/2026-01-27-dodo-expfilter/expfilter2.webp)
+![alt text](/_posts/dodo/2026-01-27-dodo-expfilter/expfilter2.webp)
 
 설정창 (`/dd`) 에서 기능을 활성화/비활성화 할 수 있습니다. (기본값 - 활성화)
 <br>

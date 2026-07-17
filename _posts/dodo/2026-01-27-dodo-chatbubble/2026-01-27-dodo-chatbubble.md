@@ -10,13 +10,13 @@ sitemap:
 
 title: "말풍선 & 글꼴변경 &#124; 와우 한밤 애드온"
 categories: # 카테고리 설정
-  - Coding # Plater, Weakauras, WOWinfo, Achievement, Coding,
+  - dodo # Plater, Weakauras, WOWinfo, Achievement, dodo,
 tags:
   - [Lua]
 toc: true # 목차 사용할지
 toc_label: 말풍선 & 글꼴
 header:
-  teaser: "/_posts/coding/2026-01-27-dodo-browsegroup/dodoLogo-teaser.webp"
+  teaser: "/_posts/dodo/2026-01-27-dodo-browsegroup/dodoLogo-teaser.webp"
 ---
 
 '**Gemini**'로 제작했습니다. (한밤 12.0.0 기준)
@@ -34,11 +34,11 @@ header:
 
 ## <span style="color:#0b89ff">■ </span> 설명
 
-![alt text](/_posts/coding/2026-01-27-dodo-chatbubble/chatbubble1.webp)
+![alt text](/_posts/dodo/2026-01-27-dodo-chatbubble/chatbubble1.webp)
 
 말풍선 배경과 폰트를 변경합니다.
 
-예전에 사용하던 말풍선 위크오라를 애드온으로 만들었습니다. ([링크](https://dsky3313.github.io/coding/dodo-chatbubble/))
+예전에 사용하던 말풍선 위크오라를 애드온으로 만들었습니다. ([링크](https://dsky3313.github.io/dodo/dodo-chatbubble/))
 
 [말풍선 텍스쳐 다운로드](https://downgit.github.io/#/home?url=https://github.com/dsky3313/hodoUI/tree/main/Interface/Tooltips){: .btn .btn--info} (GitHub)  
 
@@ -59,7 +59,7 @@ World of Warcraft
 
 ## <span style="color:#0b89ff">■ </span> 설정법
 
-![alt text](/_posts/coding/2026-01-27-dodo-chatbubble/chatbubble2.webp)
+![alt text](/_posts/dodo/2026-01-27-dodo-chatbubble/chatbubble2.webp)
 
 설정창 (`/dd`) 에서 글꼴과 크기를 조절할 수 있습니다.
 
