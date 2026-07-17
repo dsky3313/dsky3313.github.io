@@ -17,8 +17,8 @@ sidebar-category:
       - title: "Plater"
         url: "/wow/plater"
 
-      - title: "Weakauras"
-        url: "/wow/weakauras"
+      - title: "dodo"
+        url: "/wow/dodo"
 
       - title: "WOWinfo"
         url: "/wow/wowinfo"
@@ -29,10 +29,10 @@ sidebar-category:
       - title: "Achievement"
         url: "/wow/achievement"
 
+      - title: "Weakauras"
+        url: "/wow/weakauras"
+
   - title: "CODING"
     children:
-      - title: "Lua"
-        url: "/coding/lua"
-
       - title: "TIL"
         url: "/coding/til"
