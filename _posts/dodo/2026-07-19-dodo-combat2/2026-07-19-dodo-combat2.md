@@ -14,7 +14,7 @@ categories: # 카테고리 설정
 tags:
   - [dodo]
 toc: true # 목차 사용할지
-toc_label: 전투
+toc_label: 디버프 아이콘
 header:
   teaser: "/_posts/dodo/2026-07-19-dodo-combat2/2.webp"
 ---
@@ -48,7 +48,7 @@ header:
 
 편집모드에서 모듈 활성화/비활성화하고 위치를 조정할 수 있습니다.
 
-- 설정 : 인터페이스 (명령어 : `/ed` 혹은 `/ㄷㅇ`) > 전투 > ☑ **디버프**  
+- 설정 : 편집모드 (명령어 : `/ed` 혹은 `/ㄷㅇ`) > 전투 > ☑ **디버프**  
 <br>
 <br>
 
