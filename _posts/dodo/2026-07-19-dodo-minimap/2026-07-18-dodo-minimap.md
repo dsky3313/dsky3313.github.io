@@ -16,7 +16,7 @@ tags:
 toc: true # 목차 사용할지
 toc_label: 미니맵
 header:
-  teaser: "/_posts/dodo/2026-07-19-dodo-minimap/minimap.webp"
+  teaser: "/_posts/dodo/2026-07-19-dodo-minimap/2.webp"
 ---
 
 '**Claude**'로 제작했습니다. (한밤 12.0.7 기준)
