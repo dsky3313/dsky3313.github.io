@@ -24,9 +24,9 @@ header:
 
 ## <span style="color:#0b89ff">■ </span> 참고한 애드온
 
+[HidingBar](https://www.curseforge.com/wow/addons/hidingbar) (CurseForge)  
 [Leatrix Plus](https://www.curseforge.com/wow/addons/leatrix-plus) (CurseForge)  
 [Simple FPS Ping](https://www.curseforge.com/wow/addons/simple-fps-ping) (CurseForge)  
-[HidingBar](https://www.curseforge.com/wow/addons/hidingbar) (CurseForge)  
 <br>
 <br>
 
@@ -56,14 +56,13 @@ header:
 
 ![alt text](/_posts/dodo/2026-07-19-dodo-minimap/2.webp)  
 
-원형 미니맵을 사각형으로 바꿉니다.
+- 원형 미니맵을 사각형으로 바꿉니다.
 <br>
 <br>
 
 ### <span style="color:#0b89ff">■ </span> FPS / MS 표시
 
-미니맵 좌측 상단에 FPS와 레이턴시(MS)를 표시합니다.
-
+- 미니맵 좌측 상단에 FPS와 레이턴시(MS)를 표시합니다.
 수치에 따라 색상이 바뀝니다.
 
 | 수치 | FPS 기준 | MS 기준 |
@@ -76,31 +75,29 @@ header:
 
 ### <span style="color:#0b89ff">■ </span> 좌표 표시
 
-미니맵 우측 상단에 현재 플레이어 위치 좌표를 표시합니다.
-
-인스턴스 안에서는 숨겨지고, 필드에서만 표시됩니다.
-
+- 미니맵 우측 상단에 현재 플레이어 위치 좌표를 표시합니다. (인스턴스 안에서는 비활성화)  
 월드맵을 열면 플레이어 좌표와 마우스 커서 좌표를 함께 표시합니다.
 <br>
 <br>
 
 ### <span style="color:#0b89ff">■ </span> 줌 초기화
 
-미니맵 줌을 변경 후, 일정 시간 뒤에 자동으로 초기화합니다.
+- 미니맵 줌을 변경 후, 일정 시간 뒤에 자동으로 초기화합니다.
 <br>
 <br>
 
 ### <span style="color:#0b89ff">■ </span> 애드온 아이콘 모음
 
-미니맵 주변에 흩어진 애드온 아이콘들을 미니맵 아래에 한 줄로 정렬합니다.
+- 미니맵 주변에 흩어진 애드온 아이콘들을 미니맵 아래에 한 줄로 정렬합니다.
 
-`\dodo\Module\Minimap\IconAddons.lua`의 `Config.sortOrder` 테이블에서 표시 순서를 지정하고, `Config.hideSet` 테이블에서 완전히 숨길 애드온을 등록할 수 있습니다.
+- `\dodo\Module\Minimap\IconAddons.lua`의 `Config.sortOrder` 테이블에서 표시 순서를 지정하고,  
+`Config.hideSet` 테이블에서 완전히 숨길 애드온을 등록할 수 있습니다.
 
 기본 정렬 순서:
 
 | 순서 | 애드온 |
 |------|--------|
-| 1 | 확장팩 랜딩 페이지 버튼 |
+| 1 | 순정 확장팩 아이콘 |
 | 2 | SimpleAddonManager |
 | 3 | NotEvenClose |
 | 4 | SimulationCraft |
