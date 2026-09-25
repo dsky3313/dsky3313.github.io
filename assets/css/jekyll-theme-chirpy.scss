@@ -1,7 +1,18 @@
 ---
 ---
 
-@import 'main';
+@use 'abstracts/variables' with (
+  $theme: '{{ site.theme_mode }}'
+);
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+.bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
 
 .btn {
   display: inline-block;
@@ -17,9 +28,7 @@
   transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease;
 }
 
-.btn:hover {
-  text-decoration: none !important;
-}
+.btn:hover { text-decoration: none !important; }
 
 .btn--primary { background-color: #6366f1; border-color: #6366f1; color: #fff !important; }
 .btn--primary:hover { background-color: #4f46e5; border-color: #4f46e5; }
