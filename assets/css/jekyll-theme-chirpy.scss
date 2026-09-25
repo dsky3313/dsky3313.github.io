@@ -14,6 +14,9 @@
 
 /* append your custom style below */
 
+/* ===== 버튼 스타일 (Minimal Mistakes의 .btn .btn--info 등 이식) =====
+   마크다운에서 [텍스트](URL){: .btn .btn--info} 형식으로 사용
+   Chirpy에는 버튼 클래스가 없어서 직접 추가 */
 .btn {
   display: inline-block;
   padding: 0.35em 0.75em;
@@ -30,6 +33,7 @@
 
 .btn:hover { text-decoration: none !important; }
 
+/* 색상 variants */
 .btn--primary { background-color: #6366f1; border-color: #6366f1; color: #fff !important; }
 .btn--primary:hover { background-color: #4f46e5; border-color: #4f46e5; }
 
@@ -48,6 +52,25 @@
 .btn--inverse { background-color: #424242; border-color: #424242; color: #fff !important; }
 .btn--inverse:hover { background-color: #212121; border-color: #212121; }
 
+/* 크기 variants */
 .btn--small { font-size: 0.75em; padding: 0.25em 0.5em; }
 .btn--large { font-size: 1em; padding: 0.5em 1em; }
 .btn--x-large { font-size: 1.15em; padding: 0.6em 1.2em; }
+
+/* ===== h3 기본값 조정 =====
+   Chirpy 기본값 h2=1.54rem / h3=1.36rem 은 약 3px 차이로 육안 구분 어려움
+   커스텀 CSS는 Chirpy CSS 뒤에 로드되므로 같은 선택자로도 cascade상 우선 적용됨 */
+h3 { font-size: 1.1rem; }
+
+/* ===== 포스트 본문 들여쓰기 =====
+   h2/h3 헤더는 좌측 기준, 본문 내용은 1rem 들여쓰기
+   blockquote는 prompt- 클래스 제외 (prompt-warning 등은 들여쓰기 안 함) */
+.content > p,
+.content > ul,
+.content > ol,
+.content > .table-wrapper,
+.content > img,
+.content > blockquote:not([class^="prompt-"]),
+.content > pre {
+  padding-left: 1rem;
+}
