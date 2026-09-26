@@ -14,6 +14,75 @@
 
 /* append your custom style below */
 
+/* ===== 홈 포스트 목록 그리드 레이아웃 ===== */
+#post-list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.25rem;
+  align-items: start;
+}
+
+#post-list article.card-wrapper {
+  margin: 0;
+}
+
+/* 카드 내부 세로 방향으로 전환 (이미지 상단, 텍스트 하단) */
+#post-list .post-preview {
+  flex-direction: column !important;
+}
+
+/* 이미지 전체 너비 */
+#post-list .post-preview > [class*="col-md-5"] {
+  width: 100% !important;
+  max-width: 100% !important;
+  flex: 0 0 100% !important;
+}
+
+#post-list .post-preview > [class*="col-md-5"] img {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  display: block;
+}
+
+/* 제목 유튜브 스타일 */
+#post-list .card-title {
+  font-size: 0.9rem !important;
+  font-weight: 600;
+  line-height: 1.4;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  margin-bottom: 0.4rem !important;
+}
+
+/* 본문 전체 너비 */
+#post-list .post-preview > [class*="col-md-"] {
+  width: 100% !important;
+  max-width: 100% !important;
+  flex: 0 0 100% !important;
+}
+
+/* 카드 description 숨김 */
+#post-list .card-text.content {
+  display: none !important;
+}
+
+/* 태블릿: 2열 */
+@media (max-width: 1199px) and (min-width: 768px) {
+  #post-list {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* 모바일: 1열 */
+@media (max-width: 767px) {
+  #post-list {
+    grid-template-columns: 1fr;
+  }
+}
+
 /* ===== 버튼 스타일 (Minimal Mistakes의 .btn .btn--info 등 이식) =====
    마크다운에서 [텍스트](URL){: .btn .btn--info} 형식으로 사용
    Chirpy에는 버튼 클래스가 없어서 직접 추가 */
@@ -56,6 +125,31 @@
 .btn--small { font-size: 0.75em; padding: 0.25em 0.5em; }
 .btn--large { font-size: 1em; padding: 0.5em 1em; }
 .btn--x-large { font-size: 1.15em; padding: 0.6em 1.2em; }
+
+/* ===== container max-width 확장 ===== */
+@media (min-width: 1400px) {
+  .container {
+    max-width: 100%;
+  }
+}
+
+/* ===== 라이트 테마 배경/사이드바 색상 ===== */
+[data-bs-theme='light'] {
+  --main-bg: #fafaf8;
+  --sidebar-bg: #e0e0e0;
+}
+
+/* ===== 사이드바 nav-item 좌우 여백 ===== */
+#sidebar nav ul.nav li.nav-item {
+  padding-left: 1.2rem !important;
+  padding-right: 1rem !important;
+}
+
+/* ===== 사이드바 너비 ===== */
+#sidebar {
+  width: 260px !important;
+}
+
 
 /* ===== h3 기본값 조정 =====
    Chirpy 기본값 h2=1.54rem / h3=1.36rem 은 약 3px 차이로 육안 구분 어려움
