@@ -5,7 +5,6 @@ categories:
   - Plater
 tags: [플레이터 프로필]
 description: 한밤 1시즌 플레이터 프로필 가져오기
-media_subpath: /assets/img/plater/2026-03-28-plater-profile-midnight-s1/
 toc: true
 image:
   path: /assets/img/plater/2026-03-28-plater-profile-midnight-s1/0.webp

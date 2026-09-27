@@ -8,8 +8,6 @@ description: 내부전쟁 3시즌 오토마커 위크오라
 toc: true
 ---
 
-![alt text](/assets/img/wow/weakauras/2025-08-06-tww-s2-automarker/1.webp)
-
 ## <span style="color:#0b89ff">■ </span>위크오라 코드
 
 ```
@@ -29,15 +27,12 @@ toc: true
 
 ## <span style="color:#0b89ff">■ </span>징 설정
 
-![alt text](/assets/img/wow/weakauras/2025-08-06-tww-s2-automarker/2.webp)
 
-- 탱 : ![alt text](/assets/img/wow/wowinfo/mark/IconSmall_RaidSquare.webp)
-- 힐 : ![alt text](/assets/img/wow/wowinfo/mark/IconSmall_RaidMoon.webp)
+- 탱 : 네모
+- 힐 : 달
 
-![alt text](/assets/img/wow/weakauras/2025-08-06-tww-s2-automarker/3.webp)
-
-- 점사 : ![alt text](/assets/img/wow/wowinfo/mark/IconSmall_RaidSkull.webp)&nbsp;&nbsp;>&nbsp;&nbsp;![alt text](/assets/img/wow/wowinfo/mark/IconSmall_RaidCross.webp)
-- 징 순서 : ![alt text](/assets/img/wow/wowinfo/mark/IconSmall_RaidStar.webp)&nbsp;&nbsp;>&nbsp;&nbsp;![alt text](/assets/img/wow/wowinfo/mark/IconSmall_RaidCircle.webp)&nbsp;&nbsp;>&nbsp;&nbsp;![alt text](/assets/img/wow/wowinfo/mark/IconSmall_RaidDiamond.webp)&nbsp;&nbsp;>&nbsp;&nbsp;![alt text](/assets/img/wow/wowinfo/mark/IconSmall_RaidTriangle.webp)
+- 점사 : 해골 > 엑스  
+- 징 순서 : 별 > 동글 > 다이아 > 역삼  
 
 **Notice:** 탱커일 경우만 활성화됩니다.
 {: .prompt-warning }  

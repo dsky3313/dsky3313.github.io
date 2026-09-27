@@ -5,7 +5,6 @@ categories:
   - Plater
 tags: [플레이터 프로필]
 description: 소한밤 플레이터 프로필 가져오기
-media_subpath: /assets/img/plater/2026-01-24-plater-profile-tww-s3-midnight/
 toc: true
 image:
   path: assets/img/plater/2026-01-24-plater-profile-tww-s3-midnight/0.webp

@@ -8,8 +8,6 @@ description: M+ 쐐기 타이머 & 퍼센트 위크오라
 toc: true
 ---
 
-![이미지 설명](/assets/img/wow/weakauras/2025-09-08-m+timer/1.webp)
-
 ## <span style="color:#0b89ff">■ </span>위크오라 코드
 
 ```
