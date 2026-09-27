@@ -1,0 +1,43 @@
+#!/usr/bin/env bash
+# _posts/{category}/{folder}/ 안의 이미지를 assets/img/{category}/{folder}/로 이동
+# 설치: cp tools/pre-commit .git/hooks/pre-commit && chmod +x .git/hooks/pre-commit
+
+REPO_ROOT=$(git rev-parse --show-toplevel)
+
+mapfile -t imgs < <(git diff --cached --name-only | grep -E '^_posts/[^/]+/[^/]+/[^/]+\.(webp|png|jpg|jpeg|gif)$')
+
+[ ${#imgs[@]} -eq 0 ] && exit 0
+
+echo "[pre-commit] 이미지 ${#imgs[@]}개를 assets/img/로 이동..."
+
+declare -A folders
+
+for img in "${imgs[@]}"; do
+    IFS='/' read -r _ cat folder file <<< "$img"
+    dst_dir="assets/img/$cat/$folder"
+
+    mkdir -p "$REPO_ROOT/$dst_dir"
+    mv "$REPO_ROOT/$img" "$REPO_ROOT/$dst_dir/$file"
+    git add "$dst_dir/$file"
+    git rm --cached "$img" 2>/dev/null
+
+    folders["$cat/$folder"]=1
+done
+
+for key in "${!folders[@]}"; do
+    IFS='/' read -r cat folder <<< "$key"
+    new_path="/assets/img/$cat/$folder/"
+
+    md=$(find "$REPO_ROOT/_posts/$cat/$folder" -maxdepth 1 -name "*.md" | head -1)
+    [ -z "$md" ] && continue
+
+    if grep -q 'media_subpath:' "$md"; then
+        sed -i "s|media_subpath:.*|media_subpath: $new_path|" "$md"
+    else
+        sed -i "s|^toc:|media_subpath: $new_path\ntoc:|" "$md"
+    fi
+
+    git add "${md#$REPO_ROOT/}"
+done
+
+echo "[pre-commit] 완료"
