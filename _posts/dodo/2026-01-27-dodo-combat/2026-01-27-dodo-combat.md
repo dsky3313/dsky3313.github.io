@@ -1,4 +1,4 @@
----
+﻿---
 title: "전투관련 모듈 &#124; dodo"
 date: 2026-01-27 00:00:00 +0900
 lastmod: 2026-09-26 00:00:00 +0900
@@ -9,7 +9,7 @@ description: 자원바, 디버프아이콘, 블러드&전투부활, 태세아이
 toc: true
 image:
   path: resourcebar1.webp
-media_subpath: /_posts/dodo/2026-01-27-dodo-combat/
+media_subpath: /assets/img/dodo/2026-01-27-dodo-combat/
 ---
 <!-- bundle exec jekyll serve --livereload -->
 <!-- http://127.0.0.1:4000 -->

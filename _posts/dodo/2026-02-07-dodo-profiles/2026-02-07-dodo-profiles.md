@@ -1,4 +1,4 @@
----
+﻿---
 title: "프로필 &#124; dodo"
 date: 2026-02-07 00:00:00 +0900
 
@@ -10,7 +10,7 @@ description: 편집모드, 플레이터, 게임설정 프로필 모듈 설명글
 toc: true
 image:
   path: profile_option.webp
-media_subpath: /_posts/dodo/2026-02-07-dodo-profiles/
+media_subpath: /assets/img/dodo/2026-02-07-dodo-profiles/
 ---
 <!-- bundle exec jekyll serve --livereload -->
 <!-- http://127.0.0.1:4000 -->

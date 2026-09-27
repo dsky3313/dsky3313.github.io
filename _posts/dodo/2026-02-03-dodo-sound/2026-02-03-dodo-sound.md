@@ -10,7 +10,7 @@ description: 음성 모듈 설명글
 toc: true
 image:
   path: sound_option.webp
-media_subpath: /_posts/dodo/2026-02-03-dodo-sound/
+media_subpath: /assets/img/dodo/2026-02-03-dodo-sound/
 ---
 <!-- bundle exec jekyll serve --livereload -->
 <!-- http://127.0.0.1:4000 -->

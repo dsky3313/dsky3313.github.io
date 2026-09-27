@@ -1,4 +1,4 @@
----
+﻿---
 title: "인터페이스 모듈 &#124; dodo"
 date: 2026-01-29 00:00:00 +0900
 lastmod: 2026-09-26 00:00:00 +0900
@@ -9,7 +9,7 @@ description: "Blizzard 인터페이스 향상<br>피해량측정기, 대화창, 
 toc: true
 image:
   path: chatframe1.webp
-media_subpath: /_posts/dodo/2026-01-29-dodo-interface/
+media_subpath: /assets/img/dodo/2026-01-29-dodo-interface/
 ---
 <!-- bundle exec jekyll serve --livereload -->
 <!-- http://127.0.0.1:4000 -->

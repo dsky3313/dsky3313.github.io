@@ -23,6 +23,7 @@ package-lock.json
 !.vscode/tasks.json
 
 # Misc
+memo.txt
 _sass/vendors
 assets/js/dist
 

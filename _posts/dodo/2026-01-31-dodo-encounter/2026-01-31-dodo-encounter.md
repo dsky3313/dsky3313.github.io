@@ -1,4 +1,4 @@
----
+﻿---
 title: "우두머리 경보 &#124; dodo"
 date: 2026-01-31 00:00:00 +0900
 
@@ -10,7 +10,7 @@ description: 우두머리 경보 모듈 설명글
 toc: true
 image:
   path: encounter.webp
-media_subpath: /_posts/dodo/2026-01-31-dodo-encounter/
+media_subpath: /assets/img/dodo/2026-01-31-dodo-encounter/
 ---
 <!-- bundle exec jekyll serve --livereload -->
 <!-- http://127.0.0.1:4000 -->

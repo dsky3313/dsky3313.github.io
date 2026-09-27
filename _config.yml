@@ -216,9 +216,6 @@ compress_html:
   ignore:
     envs: [development]
 
-include:
-  - _posts
-
 exclude:
   - "*.gem"
   - "*.gemspec"

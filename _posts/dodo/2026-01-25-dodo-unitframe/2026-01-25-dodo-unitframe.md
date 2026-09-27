@@ -1,4 +1,4 @@
----
+﻿---
 title: "유닛프레임 &#124; dodo"
 date: 2026-01-25 00:00:00 +0900
 categories:
@@ -8,7 +8,7 @@ description: dodo 유닛프레임 모듈 설명글
 toc: true
 image:
   path: unitframe1.webp
-media_subpath: /_posts/dodo/2026-01-25-dodo-unitframe/
+media_subpath: /assets/img/dodo/2026-01-25-dodo-unitframe/
 ---
 <!-- bundle exec jekyll serve --livereload -->
 <!-- http://127.0.0.1:4000 -->

@@ -1,4 +1,4 @@
----
+﻿---
 title: "행동단축바 &#124; dodo"
 date: 2026-01-23 00:00:00 +0900
 
@@ -10,7 +10,7 @@ description: 행동단축바 모듈 설명글
 toc: true
 image:
   path: actionbar3.webp
-media_subpath: /_posts/dodo/2026-01-23-dodo-actionbar/
+media_subpath: /assets/img/dodo/2026-01-23-dodo-actionbar/
 ---
 <!-- bundle exec jekyll serve --livereload -->
 <!-- http://127.0.0.1:4000 -->
