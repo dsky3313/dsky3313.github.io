@@ -1,22 +1,12 @@
 ---
-# bundle exec jekyll serve
-## <span style="color:#0b89ff">■ </span>생태지구 알다니
-#**<span style="color:#26beff">■ </span>**123
-search: true
-lastmod: 2026-02-15 00:00:00
-sitemap: 
-    changefreq : weekly
-    priority : 0.5
-
 title: "전사 키세팅 &#124; 와우 한밤"
-categories: # 카테고리 설정
-  - WOWinfo # Plater, Weakauras, WOWinfo, Github
-tags:
-   - [전사]
-toc: true # 목차 사용할지
-toc_label: Github 블로그 만들기
-header:
-  teaser: "/assets/img/wowinfo/2026-02-15-warriorkey-midnight/warriorkey1.webp"
+date: 2026-02-15 00:00:00 +0900
+categories:
+  - WOWinfo
+tags: [전사]
+toc: true
+image:
+  path: /assets/img/wowinfo/2026-02-15-warriorkey-midnight/warriorkey1.webp
 ---
 
 ## <span style="color:#0b89ff">■</span> 전탱

@@ -1,23 +1,12 @@
 ---
-# bundle exec jekyll serve
-## <span style="color:#0b89ff">■ </span>생태지구 알다니
-#**<span style="color:#26beff">■ </span>**123
-search: true
-lastmod: 2026-02-03 00:00:00
-sitemap: 
-    changefreq : weekly
-    priority : 0.5
-
 title: "HidingBar &#124; 미니맵 애드온 버튼모음"
-categories: # 카테고리 설정
-  - WOWinfo # Plater, Weakauras, WOWinfo, Achievement, Coding,
-tags:
-  - [애드온]
-toc: true # 목차 사용할지
-toc_label: HidingBar
-header:
-  teaser: "/assets/img/wowinfo/2026-02-03-addon-hidingbar/hidingbar-teaser.webp"
-
+date: 2026-02-03 00:00:00 +0900
+categories:
+  - WOWinfo
+tags: [애드온]
+toc: true
+image:
+  path: /assets/img/wowinfo/2026-02-03-addon-hidingbar/hidingbar-teaser.webp
 ---
 
 ## <span style="color:#0b89ff">■ </span> HidingBar

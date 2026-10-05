@@ -1,21 +1,11 @@
 ---
-# bundle exec jekyll serve
-## <span style="color:#0b89ff">■ </span>생태지구 알다니
-#**<span style="color:#26beff">■ </span>**123
-search: true
-lastmod: 2026-02-14 00:00:00
-sitemap: 
-    changefreq : weekly
-    priority : 0.5
-
 title: "파티프레임 설정 &#124; 와우 UI"
-categories: # 카테고리 설정
-  - WOWinfo # Plater, Weakauras, WOWinfo, Achievement, Coding,
-toc: true # 목차 사용할지
-toc_label: 텍스쳐 변경
-header:
-  teaser: "/assets/img/wowinfo/2026-02-14-partyframe/partyframe3.webp"
-
+date: 2026-02-14 00:00:00 +0900
+categories:
+  - WOWinfo
+toc: true
+image:
+  path: /assets/img/wowinfo/2026-02-14-partyframe/partyframe3.webp
 ---
 
 ## <span style="color:#0b89ff">■</span> 파티프레임 설정

@@ -1,23 +1,13 @@
 ---
-# bundle exec jekyll serve
-## <span style="color:#0b89ff">■ </span>생태지구 알다니
-#**<span style="color:#26beff">■ </span>**123
-search: true
-lastmod: 2026-02-01 00:00:00
-sitemap: 
-    changefreq : weekly
-    priority : 0.5
-
-published : false
+published: false
 title: "타이머 위크오라 &#124; 와우 내부전쟁 3시즌"
-categories: # 카테고리 설정
-  - Weakauras # Plater, Weakauras, WOWinfo, Achievement, Coding,
-tags:
-  - [tag1, tag2]
-toc: true # 목차 사용할지
-toc_label: Github 블로그 만들기
-header:
-  teaser: "/assets/img/wow/weakauras/2025-08-08-bigwig-timer/1.webp"
+date: 2026-02-21 00:00:00 +0900
+categories:
+  - Weakauras
+tags: [tag1, tag2]
+toc: true
+image:
+  path: /assets/img/wow/weakauras/2025-08-08-bigwig-timer/1.webp
 ---
 
 ## <span style="color:#0b89ff">■ </span>본문
